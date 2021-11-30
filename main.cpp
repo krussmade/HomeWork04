@@ -20,32 +20,28 @@ void errMessage2() {
 
 
 int main(int argc, char *argv[]) {
-//    if (argc != 5) {
-//        errMessage1();
-//        return 1;
-//    }
+    if (argc != 5) {
+        errMessage1();
+        return 1;
+    }
 
     container c;
     init(&c);
 
-//    if (!strcmp(argv[1], "-f")) {
-//        FILE *in = fopen(argv[2], "r");
-//        fill(&c, in);
-//        fclose(in);
-//    } else if (!strcmp(argv[1], "-n")) {
-//        int size = atoi(argv[2]);
-//        fill(&c, size);
-//    } else {
-//        errMessage2();
-//        return 2;
-//    }
+    if (!strcmp(argv[1], "-f")) {
+        FILE *in = fopen(argv[2], "r");
+        fill(&c, in);
+        fclose(in);
+    } else if (!strcmp(argv[1], "-n")) {
+        int size = atoi(argv[2]);
+        fill(&c, size);
+    } else {
+        errMessage2();
+        return 2;
+    }
 
-    FILE *in = fopen("C:\\Users\\tagir\\Desktop\\a.txt", "r");
-    fill(&c, in);
-    fclose(in);
-
-    FILE *out1 = fopen("C:\\Users\\tagir\\Desktop\\b.txt", "w");
-    FILE *out2 = fopen("C:\\Users\\tagir\\Desktop\\c.txt", "w");
+    FILE *out1 = fopen(argv[3], "w");
+    FILE *out2 = fopen(argv[4], "w");
     fprintf(out1, "Filled container:\n");
     out(&c, out1);
 
