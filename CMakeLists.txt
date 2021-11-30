@@ -3,6 +3,8 @@ project(Animals)
 
 set(CMAKE_CXX_STANDARD 17)
 
+enable_language(ASM_NASM)
+
 add_executable(Animals main.cpp
         task_functions.asm
         source/animal.cpp
