@@ -1,7 +1,3 @@
-//
-// Created by tagir on 30.11.2021.
-//
-
 #ifndef ANIMALS_UTILS_H
 #define ANIMALS_UTILS_H
 
