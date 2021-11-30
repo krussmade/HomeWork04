@@ -1,7 +1,3 @@
-//
-// Created by tagir on 29.11.2021.
-//
-
 #ifndef ANIMALS_CONTAINER_H
 #define ANIMALS_CONTAINER_H
 
