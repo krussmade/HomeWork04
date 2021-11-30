@@ -1,0 +1,6001 @@
+Filled container:
+1. [Bird]
+-name: Qghumeaylnlfdxfi
+-weight: 467
+-migration 1
+-function result: 3.614561
+
+2. [Fish]
+-name: Scxggbwkfnqduxwf
+-weight: 391
+-habitat 4
+-function result: 4.386189
+
+3. [Beast]
+-name: Zvsrtkjprepggxrp
+-weight: 894
+-diet 2
+-function result: 1.965324
+
+4. [Fish]
+-name: Ystmwcysyycqpevi
+-weight: 529
+-habitat 0
+-function result: 3.351607
+
+5. [Fish]
+-name: Fmznimkkasvwsren
+-weight: 101
+-habitat 2
+-function result: 17.108911
+
+6. [Beast]
+-name: Cxfxtlsgypsfadpo
+-weight: 118
+-diet 1
+-function result: 14.584746
+
+7. [Fish]
+-name: Xzbcoejuvpvaboyg
+-weight: 829
+-habitat 1
+-function result: 2.074789
+
+8. [Beast]
+-name: Ylfpbnpljvrvipya
+-weight: 966
+-diet 1
+-function result: 1.790890
+
+9. [Bird]
+-name: Hwqnqrqpmxujjloo
+-weight: 30
+-migration 1
+-function result: 58.466667
+
+10. [Bird]
+-name: Wuxwhmsncbxcoksf
+-weight: 374
+-migration 1
+-function result: 4.631016
+
+11. [Bird]
+-name: Atxdknlyjyhfixjs
+-weight: 893
+-migration 0
+-function result: 1.932811
+
+12. [Fish]
+-name: Kufnuxxzrzbmnmgq
+-weight: 224
+-habitat 3
+-function result: 7.861607
+
+13. [Fish]
+-name: Etlyhnkoaugzqrcd
+-weight: 796
+-habitat 0
+-function result: 2.149497
+
+14. [Beast]
+-name: Teiojwayyzpvscmp
+-weight: 156
+-diet 0
+-function result: 11.230769
+
+15. [Bird]
+-name: Lfvgubfaaovlzyln
+-weight: 651
+-migration 1
+-function result: 2.623656
+
+16. [Beast]
+-name: Dcpwsrtesjwhdizc
+-weight: 2
+-diet 0
+-function result: 857.000000
+
+17. [Bird]
+-name: Cnfwlqijtvdwvxhr
+-weight: 555
+-migration 0
+-function result: 3.133333
+
+18. [Beast]
+-name: Dvgylwgbusbmborx
+-weight: 193
+-diet 1
+-function result: 8.911917
+
+19. [Fish]
+-name: Csmpxohgmgnkeufd
+-weight: 53
+-habitat 0
+-function result: 31.886792
+
+20. [Bird]
+-name: Ogbgxpeyanfetcuk
+-weight: 173
+-migration 0
+-function result: 9.745665
+
+21. [Beast]
+-name: Shkljugggekjdqzj
+-weight: 905
+-diet 0
+-function result: 1.866298
+
+22. [Bird]
+-name: Evqgxiepjsrdzjaz
+-weight: 773
+-migration 0
+-function result: 2.228978
+
+23. [Bird]
+-name: Lchhbfqmkimwzobi
+-weight: 181
+-migration 0
+-function result: 9.287293
+
+24. [Beast]
+-name: Xduunfsksrsrtekm
+-weight: 235
+-diet 1
+-function result: 7.434043
+
+25. [Beast]
+-name: Yzjeeuhmsrqcozij
+-weight: 466
+-diet 0
+-function result: 3.721030
+
+26. [Bird]
+-name: Ioneeddpszrnavym
+-weight: 43
+-migration 0
+-function result: 39.860465
+
+27. [Fish]
+-name: Tbdzqsoemuvnppps
+-weight: 596
+-habitat 0
+-function result: 2.934564
+
+28. [Bird]
+-name: Bazuxmhecthlegrp
+-weight: 188
+-migration 0
+-function result: 9.005319
+
+29. [Beast]
+-name: Dmbppweqtgjoparm
+-weight: 324
+-diet 0
+-function result: 5.246914
+
+30. [Beast]
+-name: Dqyoxytjbbhawdyd
+-weight: 823
+-diet 0
+-function result: 2.081409
+
+31. [Bird]
+-name: Jbxphoohpkwqyuhr
+-weight: 41
+-migration 0
+-function result: 42.463415
+
+32. [Bird]
+-name: Nbnfuvqnqqlrzjpx
+-weight: 607
+-migration 0
+-function result: 2.889621
+
+33. [Fish]
+-name: Vliexdzuzosrkrus
+-weight: 934
+-habitat 1
+-function result: 1.899358
+
+34. [Fish]
+-name: Brzmwzpowkjilefr
+-weight: 413
+-habitat 2
+-function result: 4.205811
+
+35. [Bird]
+-name: Digpnpuuhgxpqnjw
+-weight: 610
+-migration 1
+-function result: 2.837705
+
+36. [Beast]
+-name: Axxmnsnhhlqqrzud
+-weight: 44
+-diet 1
+-function result: 39.636364
+
+37. [Bird]
+-name: Zotcjtnzxuglsdsm
+-weight: 541
+-migration 1
+-function result: 3.247689
+
+38. [Beast]
+-name: Ockvfajfrmxothow
+-weight: 75
+-diet 0
+-function result: 22.853333
+
+39. [Bird]
+-name: Zwucwljfrimpmyhc
+-weight: 913
+-migration 1
+-function result: 1.898138
+
+40. [Bird]
+-name: Iwkbarxbgfcbceyh
+-weight: 545
+-migration 1
+-function result: 3.033028
+
+41. [Fish]
+-name: Ixwtbvtrehbbcpxi
+-weight: 472
+-habitat 3
+-function result: 3.625000
+
+42. [Beast]
+-name: Vfbcgkcfqckcotzg
+-weight: 409
+-diet 0
+-function result: 4.073350
+
+43. [Beast]
+-name: Mjrmbsztsshfroef
+-weight: 67
+-diet 2
+-function result: 25.686567
+
+44. [Bird]
+-name: Rxjhguzyupzwweiq
+-weight: 411
+-migration 0
+-function result: 4.338200
+
+45. [Beast]
+-name: Ixiqflduuveoowqc
+-weight: 429
+-diet 1
+-function result: 4.025641
+
+46. [Bird]
+-name: Nefnjhaimuczfsku
+-weight: 15
+-migration 0
+-function result: 112.733333
+
+47. [Fish]
+-name: Buriswtbrecuykab
+-weight: 454
+-habitat 1
+-function result: 3.753304
+
+48. [Fish]
+-name: Kdzeztoidukuhjze
+-weight: 903
+-habitat 4
+-function result: 1.911406
+
+49. [Fish]
+-name: Zzbfkqdpqzikfobu
+-weight: 619
+-habitat 3
+-function result: 2.777060
+
+50. [Beast]
+-name: Thxdjgkjelrlpaxa
+-weight: 959
+-diet 2
+-function result: 1.759124
+
+51. [Bird]
+-name: Roswitdptpcclifk
+-weight: 954
+-migration 0
+-function result: 1.790356
+
+52. [Fish]
+-name: Ytihrcqaybnefxnx
+-weight: 113
+-habitat 0
+-function result: 15.212389
+
+53. [Bird]
+-name: Edyyhngycdrudmph
+-weight: 825
+-migration 0
+-function result: 2.065455
+
+54. [Fish]
+-name: Kotrwospofghfozq
+-weight: 516
+-habitat 1
+-function result: 3.374031
+
+55. [Fish]
+-name: Fxwwkmfxdyygmdca
+-weight: 762
+-habitat 0
+-function result: 2.251969
+
+56. [Bird]
+-name: Govsodkjghcwmbmx
+-weight: 996
+-migration 1
+-function result: 1.706827
+
+57. [Beast]
+-name: Uyfyqgajqkcklzna
+-weight: 423
+-diet 2
+-function result: 4.044917
+
+58. [Fish]
+-name: Kqoyzwmyubzazcpk
+-weight: 98
+-habitat 2
+-function result: 18.010204
+
+59. [Beast]
+-name: Kydzivcuypurfmbi
+-weight: 851
+-diet 0
+-function result: 2.038778
+
+60. [Beast]
+-name: Kyrgzvxdhpoamvaf
+-weight: 714
+-diet 0
+-function result: 2.413165
+
+61. [Beast]
+-name: Rxsvkhtqdihersig
+-weight: 524
+-diet 1
+-function result: 3.286260
+
+62. [Bird]
+-name: Jzujxmmyspnaraew
+-weight: 135
+-migration 0
+-function result: 12.911111
+
+63. [Beast]
+-name: Jccvhhrjvbjtsqdj
+-weight: 572
+-diet 0
+-function result: 2.954545
+
+64. [Beast]
+-name: Gpknfpfycgfieowq
+-weight: 893
+-diet 1
+-function result: 1.892497
+
+65. [Beast]
+-name: Wpzsqmetogepspxn
+-weight: 552
+-diet 0
+-function result: 3.186594
+
+66. [Fish]
+-name: Upalyynmkmnuvklh
+-weight: 594
+-habitat 4
+-function result: 2.934343
+
+67. [Bird]
+-name: Dwracgfmzkgipdfo
+-weight: 486
+-migration 1
+-function result: 3.442387
+
+68. [Fish]
+-name: Mjqwiqpuoqhimvfv
+-weight: 583
+-habitat 4
+-function result: 2.987993
+
+69. [Bird]
+-name: Yvijgfullkjduhsj
+-weight: 668
+-migration 0
+-function result: 2.561377
+
+70. [Fish]
+-name: Tlkmfqrmyjfjnhhs
+-weight: 443
+-habitat 2
+-function result: 3.869074
+
+71. [Bird]
+-name: Tydteamdcjbprhtn
+-weight: 830
+-migration 0
+-function result: 2.032530
+
+72. [Bird]
+-name: Iwxgcjwlgrsmeaea
+-weight: 182
+-migration 1
+-function result: 9.252747
+
+73. [Fish]
+-name: Vjsjbaoiojlwhypn
+-weight: 503
+-habitat 0
+-function result: 3.409543
+
+74. [Bird]
+-name: Ihoswkifygtydhac
+-weight: 586
+-migration 0
+-function result: 2.895904
+
+75. [Fish]
+-name: Sgewzmtgonzltjhg
+-weight: 369
+-habitat 2
+-function result: 4.704607
+
+76. [Fish]
+-name: Nihreqgjfwkjsmtp
+-weight: 523
+-habitat 0
+-function result: 3.269598
+
+77. [Bird]
+-name: Efqzaauldrchjccd
+-weight: 538
+-migration 0
+-function result: 3.059480
+
+78. [Fish]
+-name: Vvrivuyeegfivdrc
+-weight: 971
+-habitat 2
+-function result: 1.773429
+
+79. [Fish]
+-name: Rqdredakubnfgupr
+-weight: 8
+-habitat 1
+-function result: 210.875000
+
+80. [Fish]
+-name: Lobcwqxkzmausjgm
+-weight: 452
+-habitat 2
+-function result: 3.807522
+
+81. [Bird]
+-name: Hgdnmphnqkamhurk
+-weight: 670
+-migration 1
+-function result: 2.519403
+
+82. [Bird]
+-name: Faclvgrzkkldacll
+-weight: 81
+-migration 1
+-function result: 20.555556
+
+83. [Fish]
+-name: Jomonxrqyjzginrn
+-weight: 748
+-habitat 4
+-function result: 2.343583
+
+84. [Beast]
+-name: Acxxaedrwudxzrfu
+-weight: 640
+-diet 0
+-function result: 2.698437
+
+85. [Fish]
+-name: Jtboxvynfhkstcen
+-weight: 140
+-habitat 2
+-function result: 12.300000
+
+86. [Beast]
+-name: Nddxfdmvzcautdcc
+-weight: 810
+-diet 2
+-function result: 2.069136
+
+87. [Bird]
+-name: Aydzsxttobbgqngv
+-weight: 28
+-migration 1
+-function result: 61.750000
+
+88. [Bird]
+-name: Gojoglmkxgbfcpyp
+-weight: 947
+-migration 0
+-function result: 1.787751
+
+89. [Fish]
+-name: Chbddzwrxbzmqrlx
+-weight: 678
+-habitat 4
+-function result: 2.548673
+
+90. [Bird]
+-name: Twhxginfgfrcclmz
+-weight: 643
+-migration 1
+-function result: 2.648523
+
+91. [Beast]
+-name: Ugwwbsqfcihubsjo
+-weight: 293
+-diet 2
+-function result: 5.832765
+
+92. [Beast]
+-name: Sqsghmcphelsotfl
+-weight: 626
+-diet 1
+-function result: 2.720447
+
+93. [Fish]
+-name: Fnpcuzsrupchynvz
+-weight: 580
+-habitat 1
+-function result: 3.037931
+
+94. [Fish]
+-name: Qugriwniqxdfjpwp
+-weight: 677
+-habitat 1
+-function result: 2.567208
+
+95. [Fish]
+-name: Lkpnpeelfjmtkuqp
+-weight: 217
+-habitat 3
+-function result: 7.875576
+
+96. [Bird]
+-name: Wnlmbupmktlptndm
+-weight: 80
+-migration 1
+-function result: 21.600000
+
+97. [Bird]
+-name: Ydsgvfpenemwbori
+-weight: 874
+-migration 1
+-function result: 1.953089
+
+98. [Bird]
+-name: Qhceskmkhssmvnon
+-weight: 80
+-migration 0
+-function result: 21.437500
+
+99. [Fish]
+-name: Xwhgbibabvqopqfo
+-weight: 707
+-habitat 1
+-function result: 2.390382
+
+100. [Fish]
+-name: Ssqfqwehtxdzujtl
+-weight: 512
+-habitat 1
+-function result: 3.427734
+
+101. [Beast]
+-name: Mrjxxwtlggkytbio
+-weight: 681
+-diet 2
+-function result: 2.560940
+
+102. [Bird]
+-name: Nilqadojskkvfxah
+-weight: 5
+-migration 1
+-function result: 337.600000
+
+103. [Fish]
+-name: Bocljarintdwcldv
+-weight: 978
+-habitat 2
+-function result: 1.713701
+
+104. [Fish]
+-name: Opbyjzwyyojuothw
+-weight: 669
+-habitat 4
+-function result: 2.665172
+
+105. [Bird]
+-name: Rglfzdzdbtubxuof
+-weight: 227
+-migration 1
+-function result: 7.568282
+
+106. [Fish]
+-name: Crswsaznmoijoivv
+-weight: 393
+-habitat 3
+-function result: 4.432570
+
+107. [Beast]
+-name: Qpnckwvnhkebmtdh
+-weight: 981
+-diet 1
+-function result: 1.727829
+
+108. [Fish]
+-name: Kjisuxhatmuudqbh
+-weight: 224
+-habitat 2
+-function result: 7.647321
+
+109. [Fish]
+-name: Hfxaxqxkjlzzqtsj
+-weight: 779
+-habitat 3
+-function result: 2.258023
+
+110. [Fish]
+-name: Edfuujkolxjoqkdv
+-weight: 136
+-habitat 2
+-function result: 12.588235
+
+111. [Bird]
+-name: Vlhvhrwtfdukxffj
+-weight: 239
+-migration 1
+-function result: 7.217573
+
+112. [Beast]
+-name: Wyxlijjhevryxozb
+-weight: 722
+-diet 0
+-function result: 2.440443
+
+113. [Fish]
+-name: Fmowgrgonuatdqla
+-weight: 637
+-habitat 0
+-function result: 2.665620
+
+114. [Fish]
+-name: Gyljddjhmltedzlo
+-weight: 360
+-habitat 3
+-function result: 4.697222
+
+115. [Fish]
+-name: Keutgtnkntarjkpx
+-weight: 51
+-habitat 3
+-function result: 33.862745
+
+116. [Fish]
+-name: Vgzdthunwooxvjjm
+-weight: 450
+-habitat 3
+-function result: 3.906667
+
+117. [Beast]
+-name: Knhkwjopmmlebksu
+-weight: 233
+-diet 0
+-function result: 7.330472
+
+118. [Bird]
+-name: Qlyqnwcmbvbhrmlo
+-weight: 135
+-migration 0
+-function result: 12.740741
+
+119. [Fish]
+-name: Bwyvwtgtoqnmicxa
+-weight: 385
+-habitat 0
+-function result: 4.524675
+
+120. [Bird]
+-name: Rknnxtuufarzrosd
+-weight: 552
+-migration 0
+-function result: 3.177536
+
+121. [Beast]
+-name: Mtcjghecqudosrtj
+-weight: 22
+-diet 0
+-function result: 77.136364
+
+122. [Fish]
+-name: Aykqrxycrxuwjxnp
+-weight: 902
+-habitat 2
+-function result: 1.971175
+
+123. [Bird]
+-name: Bkcpdmokalxapemv
+-weight: 81
+-migration 1
+-function result: 20.654321
+
+124. [Fish]
+-name: Zsvxzkutappwgzpd
+-weight: 459
+-habitat 3
+-function result: 3.882353
+
+125. [Beast]
+-name: Kzcvbntcvfxsxpja
+-weight: 717
+-diet 1
+-function result: 2.408647
+
+126. [Fish]
+-name: Fhvxxytgokrcxaet
+-weight: 175
+-habitat 2
+-function result: 9.925714
+
+127. [Beast]
+-name: Gndmphwzyiayabjr
+-weight: 760
+-diet 2
+-function result: 2.244737
+
+128. [Beast]
+-name: Ppxyjsttyzuvldvy
+-weight: 758
+-diet 2
+-function result: 2.389182
+
+129. [Bird]
+-name: Xkbmfzvrtnovidzn
+-weight: 668
+-migration 1
+-function result: 2.619760
+
+130. [Beast]
+-name: Ozvafmsnsnqivmvu
+-weight: 861
+-diet 1
+-function result: 2.040650
+
+131. [Bird]
+-name: Tfsrqtmknepbhowe
+-weight: 90
+-migration 1
+-function result: 19.066667
+
+132. [Bird]
+-name: Hkwcmmtpixxxlzqy
+-weight: 89
+-migration 0
+-function result: 19.910112
+
+133. [Fish]
+-name: Wwtaidyaxyqleprx
+-weight: 381
+-habitat 0
+-function result: 4.595801
+
+134. [Bird]
+-name: Xxyfvsddygthcuyy
+-weight: 778
+-migration 1
+-function result: 2.269923
+
+135. [Beast]
+-name: Jsfybglgzmbintat
+-weight: 935
+-diet 0
+-function result: 1.814973
+
+136. [Beast]
+-name: Odtonpyzwotkgngu
+-weight: 839
+-diet 0
+-function result: 2.094160
+
+137. [Fish]
+-name: Kxeatowzabsdnvqh
+-weight: 125
+-habitat 0
+-function result: 13.728000
+
+138. [Bird]
+-name: Mofisfrfqgvpmvor
+-weight: 862
+-migration 1
+-function result: 2.002320
+
+139. [Beast]
+-name: Zslzmpjjnehrykxj
+-weight: 41
+-diet 0
+-function result: 42.707317
+
+140. [Beast]
+-name: Uacclfkcyzobghtu
+-weight: 227
+-diet 2
+-function result: 7.436123
+
+141. [Fish]
+-name: Ajvprecwgxxpswcg
+-weight: 105
+-habitat 1
+-function result: 16.428571
+
+142. [Bird]
+-name: Edewdmfnqwcuqdsc
+-weight: 621
+-migration 0
+-function result: 2.713366
+
+143. [Beast]
+-name: Qecihluilgmfcswt
+-weight: 556
+-diet 2
+-function result: 3.041367
+
+144. [Bird]
+-name: Xlcbhqkvcswjebkr
+-weight: 56
+-migration 1
+-function result: 30.250000
+
+145. [Beast]
+-name: Gfgratzbsguvzifn
+-weight: 591
+-diet 2
+-function result: 2.901861
+
+146. [Beast]
+-name: Wjsjavwauxpannam
+-weight: 441
+-diet 0
+-function result: 3.893424
+
+147. [Fish]
+-name: Vzuhnaczyhepwzol
+-weight: 503
+-habitat 2
+-function result: 3.489066
+
+148. [Bird]
+-name: Lrkvwpnvgzmiizwu
+-weight: 360
+-migration 1
+-function result: 4.933333
+
+149. [Fish]
+-name: Fzlktbqdxgyyiuds
+-weight: 553
+-habitat 4
+-function result: 3.139241
+
+150. [Bird]
+-name: Zkmesbjlkyertahn
+-weight: 738
+-migration 0
+-function result: 2.308943
+
+151. [Fish]
+-name: Uqmjicbmusqdklas
+-weight: 43
+-habitat 0
+-function result: 39.441860
+
+152. [Fish]
+-name: Jxptxxeumzfwyucp
+-weight: 476
+-habitat 0
+-function result: 3.741597
+
+153. [Bird]
+-name: Seffunqpkfnnbecb
+-weight: 464
+-migration 1
+-function result: 3.588362
+
+154. [Fish]
+-name: Pdyjlibitllplxel
+-weight: 179
+-habitat 2
+-function result: 9.519553
+
+155. [Fish]
+-name: Exdtquvptteyhtlq
+-weight: 402
+-habitat 1
+-function result: 4.378109
+
+156. [Bird]
+-name: Bvoqozkynayyrbaq
+-weight: 405
+-migration 0
+-function result: 4.296296
+
+157. [Beast]
+-name: Hzxndsiyfsexwbio
+-weight: 919
+-diet 0
+-function result: 1.889010
+
+158. [Fish]
+-name: Vqrtcdlpqmvjifvg
+-weight: 54
+-habitat 3
+-function result: 31.888889
+
+159. [Fish]
+-name: Gotzjmnzqtmrpnde
+-weight: 162
+-habitat 3
+-function result: 10.753086
+
+160. [Fish]
+-name: Thjitsspaqnjrdoy
+-weight: 258
+-habitat 2
+-function result: 6.701550
+
+161. [Bird]
+-name: Yatmleyqsvkpamsv
+-weight: 613
+-migration 1
+-function result: 2.846656
+
+162. [Fish]
+-name: Xrllivfedkjigavy
+-weight: 705
+-habitat 0
+-function result: 2.412766
+
+163. [Bird]
+-name: Eqvrbacuigaipyhb
+-weight: 633
+-migration 1
+-function result: 2.638231
+
+164. [Bird]
+-name: Pbzncwhrblirizxo
+-weight: 922
+-migration 0
+-function result: 1.875271
+
+165. [Fish]
+-name: Qqweaafjeqiozpyf
+-weight: 631
+-habitat 3
+-function result: 2.698891
+
+166. [Fish]
+-name: Qmvhxkmnxmsyampt
+-weight: 170
+-habitat 3
+-function result: 10.335294
+
+167. [Fish]
+-name: Notlslwuhtfqjrrw
+-weight: 380
+-habitat 0
+-function result: 4.631579
+
+168. [Fish]
+-name: Mqhzkhdkcrfvbeiy
+-weight: 723
+-habitat 1
+-function result: 2.340249
+
+169. [Fish]
+-name: Fvpzhyujabtqwwtb
+-weight: 965
+-habitat 3
+-function result: 1.809326
+
+170. [Bird]
+-name: Gkemhibyxrnxsxrz
+-weight: 32
+-migration 1
+-function result: 54.718750
+
+171. [Beast]
+-name: Bqexkrqoiernaplq
+-weight: 11
+-diet 1
+-function result: 155.000000
+
+172. [Beast]
+-name: Qoubvjsebalwnksv
+-weight: 435
+-diet 0
+-function result: 3.951724
+
+173. [Beast]
+-name: Dzfpirwycztwzzve
+-weight: 300
+-diet 0
+-function result: 5.940000
+
+174. [Beast]
+-name: Takudkpedupkczlh
+-weight: 396
+-diet 1
+-function result: 4.277778
+
+175. [Fish]
+-name: Kdnevdcplbklpjmp
+-weight: 472
+-habitat 1
+-function result: 3.548729
+
+176. [Bird]
+-name: Yqtrcvvvtrffvpek
+-weight: 534
+-migration 0
+-function result: 3.290262
+
+177. [Fish]
+-name: Cupryjauteuvczvi
+-weight: 892
+-habitat 3
+-function result: 1.958520
+
+178. [Beast]
+-name: Rxsxclprgdlwxfai
+-weight: 751
+-diet 0
+-function result: 2.295606
+
+179. [Beast]
+-name: Rueicufdiamhtkbx
+-weight: 768
+-diet 1
+-function result: 2.186198
+
+180. [Fish]
+-name: Irxxgvzqmeyrovfi
+-weight: 537
+-habitat 3
+-function result: 3.284916
+
+181. [Bird]
+-name: Nivfjzauqfdftgmo
+-weight: 148
+-migration 1
+-function result: 11.493243
+
+182. [Beast]
+-name: Gpugxtuhlcvspiha
+-weight: 493
+-diet 2
+-function result: 3.484787
+
+183. [Fish]
+-name: Sfszwxbqmurwmxcd
+-weight: 920
+-habitat 1
+-function result: 1.911957
+
+184. [Bird]
+-name: Mrgjqmvnkyrtnsjv
+-weight: 118
+-migration 0
+-function result: 14.889831
+
+185. [Fish]
+-name: Ssqxnjomuyjnjuwr
+-weight: 227
+-habitat 0
+-function result: 7.828194
+
+186. [Bird]
+-name: Wqyyxcszpoklwjdr
+-weight: 89
+-migration 1
+-function result: 19.943820
+
+187. [Fish]
+-name: Sciedpiwlaqigesj
+-weight: 693
+-habitat 1
+-function result: 2.412698
+
+188. [Bird]
+-name: Sjlrglmwanrxrfnw
+-weight: 777
+-migration 0
+-function result: 2.234234
+
+189. [Fish]
+-name: Tgjhxaunfqjvxioh
+-weight: 769
+-habitat 3
+-function result: 2.236671
+
+190. [Beast]
+-name: Rjshymdovwgefhje
+-weight: 130
+-diet 1
+-function result: 13.092308
+
+191. [Bird]
+-name: Tiziojljdpmoxbyu
+-weight: 485
+-migration 0
+-function result: 3.577320
+
+192. [Beast]
+-name: Qjkztvjgkwxkewpz
+-weight: 641
+-diet 1
+-function result: 2.755070
+
+193. [Beast]
+-name: Suthsyoefjgwwyeo
+-weight: 677
+-diet 2
+-function result: 2.584934
+
+194. [Beast]
+-name: Hmgabbsqrhcrtxmj
+-weight: 462
+-diet 2
+-function result: 3.651515
+
+195. [Fish]
+-name: Xxsufahyyayzkhuh
+-weight: 898
+-habitat 3
+-function result: 1.956570
+
+196. [Beast]
+-name: Svoqhtydwpbszxsb
+-weight: 505
+-diet 0
+-function result: 3.495050
+
+197. [Beast]
+-name: Rvgqmlunwscpirzf
+-weight: 896
+-diet 2
+-function result: 1.950893
+
+198. [Beast]
+-name: Seplkgwfkhrouoys
+-weight: 285
+-diet 1
+-function result: 6.087719
+
+199. [Fish]
+-name: Qojahyqmfevsdcom
+-weight: 936
+-habitat 2
+-function result: 1.813034
+
+200. [Beast]
+-name: Gdmlxukwyzcprskw
+-weight: 857
+-diet 1
+-function result: 2.053676
+
+201. [Beast]
+-name: Lsuckbsepjeiszsg
+-weight: 426
+-diet 0
+-function result: 4.007042
+
+202. [Beast]
+-name: Wapqrvlwigrovjcd
+-weight: 561
+-diet 1
+-function result: 3.073084
+
+203. [Fish]
+-name: Phqlsrzihmgzrioq
+-weight: 613
+-habitat 0
+-function result: 2.841762
+
+204. [Bird]
+-name: Tkzfbldjiemsfzbh
+-weight: 32
+-migration 1
+-function result: 52.593750
+
+205. [Fish]
+-name: Wywmxxgdpylraxgl
+-weight: 283
+-habitat 2
+-function result: 6.226148
+
+206. [Beast]
+-name: Iylbhcwhlsyoyhgm
+-weight: 891
+-diet 0
+-function result: 1.928171
+
+207. [Fish]
+-name: Przaxqmomsyhgagi
+-weight: 137
+-habitat 1
+-function result: 12.576642
+
+208. [Beast]
+-name: Qbzxthtopotmitnq
+-weight: 205
+-diet 1
+-function result: 8.585366
+
+209. [Bird]
+-name: Etonxwzghutifklg
+-weight: 46
+-migration 0
+-function result: 37.652174
+
+210. [Beast]
+-name: Nuwkmsyqcpuivahq
+-weight: 793
+-diet 0
+-function result: 2.199243
+
+211. [Bird]
+-name: Sckmaalkicsnxuco
+-weight: 534
+-migration 1
+-function result: 3.151685
+
+212. [Fish]
+-name: Krxawzadjxwxqmnd
+-weight: 38
+-habitat 3
+-function result: 45.815789
+
+213. [Bird]
+-name: Ttxsknxteznjsqtf
+-weight: 129
+-migration 1
+-function result: 13.744186
+
+214. [Bird]
+-name: Fqmwhbvssiigvijs
+-weight: 966
+-migration 0
+-function result: 1.778468
+
+215. [Fish]
+-name: Icaahmkwywttjzpp
+-weight: 42
+-habitat 4
+-function result: 41.166667
+
+216. [Fish]
+-name: Bmjahtputiebpbbm
+-weight: 919
+-habitat 0
+-function result: 1.810664
+
+217. [Bird]
+-name: Yrhlthxwgjprwvhs
+-weight: 984
+-migration 1
+-function result: 1.793699
+
+218. [Fish]
+-name: Avqyecztozoabnan
+-weight: 26
+-habitat 2
+-function result: 65.807692
+
+219. [Beast]
+-name: Bddndodxeuiozioi
+-weight: 955
+-diet 2
+-function result: 1.763351
+
+220. [Beast]
+-name: Xqtihwauroqrdqwc
+-weight: 701
+-diet 2
+-function result: 2.485021
+
+221. [Beast]
+-name: Zipodiispqnzomcw
+-weight: 219
+-diet 0
+-function result: 7.936073
+
+222. [Beast]
+-name: Tgrgdfnyytkwwqqt
+-weight: 683
+-diet 1
+-function result: 2.578331
+
+223. [Fish]
+-name: Uyvgaihfshccxhuu
+-weight: 506
+-habitat 3
+-function result: 3.379447
+
+224. [Beast]
+-name: Tgdglfciebdutoeu
+-weight: 245
+-diet 0
+-function result: 6.795918
+
+225. [Bird]
+-name: Daxphbsywztpwjng
+-weight: 205
+-migration 1
+-function result: 8.497561
+
+226. [Fish]
+-name: Pxrjvbvccefkbemg
+-weight: 522
+-habitat 3
+-function result: 3.204981
+
+227. [Bird]
+-name: Mzmmkwdehfkruqby
+-weight: 236
+-migration 1
+-function result: 7.288136
+
+228. [Fish]
+-name: Mpesromdxllubryy
+-weight: 920
+-habitat 1
+-function result: 1.897826
+
+229. [Beast]
+-name: Qlzmrewqnkqitxgi
+-weight: 703
+-diet 1
+-function result: 2.483642
+
+230. [Fish]
+-name: Uskwtcznlterxblt
+-weight: 154
+-habitat 4
+-function result: 11.389610
+
+231. [Bird]
+-name: Yzvahnkixjwzztdj
+-weight: 565
+-migration 1
+-function result: 3.120354
+
+232. [Beast]
+-name: Uowkvfccockvrjbf
+-weight: 514
+-diet 0
+-function result: 3.297665
+
+233. [Beast]
+-name: Cgdjdrwdnposrjgd
+-weight: 173
+-diet 1
+-function result: 9.710983
+
+234. [Beast]
+-name: Vqtvppazhltjqvcc
+-weight: 879
+-diet 2
+-function result: 1.978385
+
+235. [Beast]
+-name: Ztsjpynzfrotqpox
+-weight: 590
+-diet 0
+-function result: 3.035593
+
+236. [Beast]
+-name: Hwewnvcbvdkuzifi
+-weight: 395
+-diet 0
+-function result: 4.334177
+
+237. [Fish]
+-name: Wqqeojueqbnskwze
+-weight: 503
+-habitat 2
+-function result: 3.447316
+
+238. [Beast]
+-name: Kaojursqgsczvhhu
+-weight: 467
+-diet 2
+-function result: 3.704497
+
+239. [Bird]
+-name: Migofhwbkkfluwzk
+-weight: 880
+-migration 0
+-function result: 1.940909
+
+240. [Fish]
+-name: Agxksmfauwinsjls
+-weight: 156
+-habitat 4
+-function result: 10.980769
+
+241. [Fish]
+-name: Rxhwmhlvbypecjei
+-weight: 539
+-habitat 3
+-function result: 3.166976
+
+242. [Bird]
+-name: Tneuiqubpgugwgnm
+-weight: 846
+-migration 0
+-function result: 2.034279
+
+243. [Fish]
+-name: Wickdilsnpdqsvmt
+-weight: 49
+-habitat 2
+-function result: 35.081633
+
+244. [Beast]
+-name: Fblhwbafbgarcsfi
+-weight: 733
+-diet 0
+-function result: 2.222374
+
+245. [Fish]
+-name: Biimofgxeirpbtyw
+-weight: 977
+-habitat 2
+-function result: 1.747185
+
+246. [Fish]
+-name: Pkkcafcomvntmdhz
+-weight: 654
+-habitat 4
+-function result: 2.584098
+
+247. [Beast]
+-name: Fppyebeoeqznbhyc
+-weight: 144
+-diet 2
+-function result: 11.763889
+
+248. [Fish]
+-name: Yaqqiannyhqouizv
+-weight: 749
+-habitat 2
+-function result: 2.329773
+
+249. [Fish]
+-name: Gzjwoblsgwnkvjln
+-weight: 623
+-habitat 2
+-function result: 2.778491
+
+250. [Fish]
+-name: Cwvzxtcthynmuxqk
+-weight: 692
+-habitat 1
+-function result: 2.569364
+
+251. [Bird]
+-name: Tfisgglgcoxpipyt
+-weight: 444
+-migration 1
+-function result: 3.871622
+
+252. [Bird]
+-name: Mrykbokmwgsddpqk
+-weight: 732
+-migration 1
+-function result: 2.340164
+
+253. [Fish]
+-name: Jchztmiepagwhroq
+-weight: 518
+-habitat 0
+-function result: 3.287645
+
+254. [Bird]
+-name: Udbcihpqwaqzxugk
+-weight: 152
+-migration 1
+-function result: 11.276316
+
+255. [Fish]
+-name: Vlavkswfzsdbvqid
+-weight: 570
+-habitat 0
+-function result: 3.022807
+
+256. [Fish]
+-name: Cdeytmpphkuhsxor
+-weight: 837
+-habitat 4
+-function result: 2.066906
+
+257. [Fish]
+-name: Whjrutksslhlrxly
+-weight: 829
+-habitat 0
+-function result: 2.127865
+
+258. [Fish]
+-name: Kosaggmpbgzvbafa
+-weight: 591
+-habitat 0
+-function result: 2.808799
+
+259. [Fish]
+-name: Hqsswtorckqaxsre
+-weight: 718
+-habitat 3
+-function result: 2.424791
+
+260. [Beast]
+-name: Lyjiwtmhglkozfkm
+-weight: 135
+-diet 1
+-function result: 12.777778
+
+261. [Bird]
+-name: Yvoxhfkxopvybjzo
+-weight: 949
+-migration 1
+-function result: 1.865121
+
+262. [Fish]
+-name: Ubdntoamzottcjtu
+-weight: 739
+-habitat 3
+-function result: 2.339648
+
+263. [Fish]
+-name: Pqkcdbbgckjqtebi
+-weight: 938
+-habitat 0
+-function result: 1.751599
+
+264. [Beast]
+-name: Npprqiswbdhoyncs
+-weight: 469
+-diet 1
+-function result: 3.680171
+
+265. [Beast]
+-name: Lgbfviocfwxwdrnl
+-weight: 85
+-diet 0
+-function result: 20.047059
+
+266. [Bird]
+-name: Fhvyxzukjwocyhzq
+-weight: 731
+-migration 1
+-function result: 2.426813
+
+267. [Fish]
+-name: Htbrrrllktchfnct
+-weight: 941
+-habitat 0
+-function result: 1.803401
+
+268. [Bird]
+-name: Nawonydwwvuabuqc
+-weight: 483
+-migration 0
+-function result: 3.587992
+
+269. [Fish]
+-name: Nlhqodemakmunmax
+-weight: 8
+-habitat 1
+-function result: 211.250000
+
+270. [Beast]
+-name: Keywcofqbkdmzoiz
+-weight: 644
+-diet 1
+-function result: 2.663043
+
+271. [Fish]
+-name: Pzayixrydwsovhzt
+-weight: 670
+-habitat 4
+-function result: 2.664179
+
+272. [Fish]
+-name: Skwptkqcexrnnxsk
+-weight: 139
+-habitat 4
+-function result: 12.611511
+
+273. [Beast]
+-name: Dqizlzklnissamqa
+-weight: 75
+-diet 1
+-function result: 22.853333
+
+274. [Beast]
+-name: Ndnviltkoiafmeic
+-weight: 271
+-diet 2
+-function result: 6.166052
+
+275. [Beast]
+-name: Zxhrdjzzheruswav
+-weight: 282
+-diet 1
+-function result: 6.251773
+
+276. [Beast]
+-name: Lonoasrudrnldkld
+-weight: 920
+-diet 2
+-function result: 1.845652
+
+277. [Beast]
+-name: Tagienatjzwxclkk
+-weight: 467
+-diet 1
+-function result: 3.642398
+
+278. [Beast]
+-name: Caqptoneqlnbtodd
+-weight: 213
+-diet 0
+-function result: 7.901408
+
+279. [Beast]
+-name: Vazxzmcojdhiswka
+-weight: 530
+-diet 2
+-function result: 3.243396
+
+280. [Beast]
+-name: Gtutafrsvpphuraa
+-weight: 754
+-diet 0
+-function result: 2.279841
+
+281. [Beast]
+-name: Ztwdyruumqadjepv
+-weight: 479
+-diet 2
+-function result: 3.653445
+
+282. [Beast]
+-name: Oidwmtpbnmquiopi
+-weight: 639
+-diet 0
+-function result: 2.691706
+
+283. [Bird]
+-name: Wczdapdzghavviyi
+-weight: 672
+-migration 1
+-function result: 2.544643
+
+284. [Fish]
+-name: Nolsowrmvvjiqswr
+-weight: 3
+-habitat 1
+-function result: 591.000000
+
+285. [Beast]
+-name: Zsxavdqamnfhwfge
+-weight: 514
+-diet 1
+-function result: 3.307393
+
+286. [Fish]
+-name: Kkefutxxibhpulnl
+-weight: 906
+-habitat 0
+-function result: 1.898455
+
+287. [Bird]
+-name: Wwzdgdjgeqwapbhl
+-weight: 268
+-migration 1
+-function result: 6.313433
+
+288. [Beast]
+-name: Oemnntpouahgxjhz
+-weight: 225
+-diet 0
+-function result: 7.648889
+
+289. [Beast]
+-name: Plttriabwucrjmbv
+-weight: 324
+-diet 1
+-function result: 5.290123
+
+290. [Bird]
+-name: Vmxobatkhqsqchlh
+-weight: 379
+-migration 1
+-function result: 4.496042
+
+291. [Beast]
+-name: Fuikwafkcowuuntf
+-weight: 514
+-diet 2
+-function result: 3.336576
+
+292. [Fish]
+-name: Deyhokquwqvwtthh
+-weight: 4
+-habitat 2
+-function result: 437.750000
+
+293. [Bird]
+-name: Jzmfeuinipbncizo
+-weight: 594
+-migration 0
+-function result: 2.865320
+
+294. [Beast]
+-name: Adalljreqtkhudbl
+-weight: 926
+-diet 0
+-function result: 1.794816
+
+295. [Fish]
+-name: Lsrwxoccslutwqzs
+-weight: 599
+-habitat 3
+-function result: 2.968280
+
+296. [Bird]
+-name: Jvcwnpflrlukdiao
+-weight: 234
+-migration 1
+-function result: 7.269231
+
+297. [Fish]
+-name: Hraglgriykldkdfr
+-weight: 955
+-habitat 0
+-function result: 1.753927
+
+298. [Fish]
+-name: Jstcwrsxgywfnhcb
+-weight: 637
+-habitat 3
+-function result: 2.712716
+
+299. [Beast]
+-name: Esupmtrvipfbktbw
+-weight: 228
+-diet 1
+-function result: 7.574561
+
+300. [Bird]
+-name: Hoevnhxbrhhfobgy
+-weight: 376
+-migration 0
+-function result: 4.497340
+
+301. [Bird]
+-name: Hktdoxqtekiwwurz
+-weight: 981
+-migration 1
+-function result: 1.793068
+
+302. [Bird]
+-name: Ldlfibdvemunnlxu
+-weight: 174
+-migration 1
+-function result: 9.764368
+
+303. [Fish]
+-name: Vvrgktrerptisizx
+-weight: 114
+-habitat 3
+-function result: 15.508772
+
+304. [Fish]
+-name: Vnxquezxkugroohr
+-weight: 482
+-habitat 3
+-function result: 3.672199
+
+305. [Bird]
+-name: Idgvhtjhyezkyhpf
+-weight: 343
+-migration 1
+-function result: 4.997085
+
+306. [Fish]
+-name: Prpseaccxkwvixvf
+-weight: 204
+-habitat 1
+-function result: 8.460784
+
+307. [Fish]
+-name: Awkfdjpyeevdggat
+-weight: 759
+-habitat 0
+-function result: 2.201581
+
+308. [Bird]
+-name: Kixeyrfcpxscjkcf
+-weight: 246
+-migration 0
+-function result: 6.898374
+
+309. [Beast]
+-name: Yhjmjtimdspizhwz
+-weight: 512
+-diet 0
+-function result: 3.404297
+
+310. [Beast]
+-name: Yuceglmmbgygfvtq
+-weight: 762
+-diet 0
+-function result: 2.242782
+
+311. [Fish]
+-name: Atxlgibyzzkiajxm
+-weight: 984
+-habitat 4
+-function result: 1.752033
+
+312. [Bird]
+-name: Kqlwhqnghlvlzgpp
+-weight: 814
+-migration 1
+-function result: 2.127764
+
+313. [Beast]
+-name: Eoqxppbpmblxnkeo
+-weight: 872
+-diet 1
+-function result: 1.962156
+
+314. [Beast]
+-name: Iumjcafcuyvdcuet
+-weight: 429
+-diet 0
+-function result: 3.941725
+
+315. [Beast]
+-name: Pjjwaknkxtlzqflj
+-weight: 944
+-diet 1
+-function result: 1.829449
+
+316. [Fish]
+-name: Xgkfylnukbiysplk
+-weight: 540
+-habitat 3
+-function result: 3.201852
+
+317. [Bird]
+-name: Cfuwohzvphjbjyov
+-weight: 422
+-migration 1
+-function result: 4.113744
+
+318. [Beast]
+-name: Bfrkvbemwytfjynq
+-weight: 9
+-diet 0
+-function result: 191.444444
+
+319. [Bird]
+-name: Agbkwekkouxdcynk
+-weight: 759
+-migration 1
+-function result: 2.229249
+
+320. [Bird]
+-name: Sfytlucentoilful
+-weight: 954
+-migration 1
+-function result: 1.807128
+
+321. [Bird]
+-name: Xlonvkxzecxepkmz
+-weight: 987
+-migration 1
+-function result: 1.778116
+
+322. [Fish]
+-name: Luahmjyecsldjesd
+-weight: 983
+-habitat 1
+-function result: 1.703967
+
+323. [Beast]
+-name: Ikvpaudvkxgllisa
+-weight: 975
+-diet 0
+-function result: 1.748718
+
+324. [Fish]
+-name: Ovjkdqrkdorjfnyg
+-weight: 969
+-habitat 3
+-function result: 1.765738
+
+325. [Bird]
+-name: Ptzifawftzqgemnh
+-weight: 197
+-migration 1
+-function result: 8.736041
+
+326. [Bird]
+-name: Ictmoyfpcvkcaoda
+-weight: 532
+-migration 0
+-function result: 3.140977
+
+327. [Beast]
+-name: Cqauzyowdzsfqhkp
+-weight: 964
+-diet 2
+-function result: 1.807054
+
+328. [Fish]
+-name: Yzmnimdlxmjydaxy
+-weight: 825
+-habitat 3
+-function result: 2.116364
+
+329. [Beast]
+-name: Cxsjjbhiqnvocden
+-weight: 862
+-diet 0
+-function result: 1.952436
+
+330. [Fish]
+-name: Ilxxzoqfotpikpqu
+-weight: 732
+-habitat 3
+-function result: 2.407104
+
+331. [Bird]
+-name: Mikppzhdhfqsgbxi
+-weight: 498
+-migration 0
+-function result: 3.411647
+
+332. [Bird]
+-name: Zwnhxyfvydfmpdwo
+-weight: 274
+-migration 0
+-function result: 6.416058
+
+333. [Fish]
+-name: Udcnyndgcnfjitpp
+-weight: 366
+-habitat 4
+-function result: 4.617486
+
+334. [Fish]
+-name: Xiisnebpywsgqsxd
+-weight: 664
+-habitat 2
+-function result: 2.620482
+
+335. [Beast]
+-name: Wzfmjoopyyifvkmw
+-weight: 459
+-diet 2
+-function result: 3.838780
+
+336. [Beast]
+-name: Pljeawpvapihoxuu
+-weight: 714
+-diet 0
+-function result: 2.414566
+
+337. [Beast]
+-name: Rwhpevcoqrgrqwzh
+-weight: 175
+-diet 0
+-function result: 9.988571
+
+338. [Beast]
+-name: Orkhzmlbzfhxunrk
+-weight: 93
+-diet 0
+-function result: 18.677419
+
+339. [Beast]
+-name: Vpszznopfgaxzgfl
+-weight: 497
+-diet 0
+-function result: 3.515091
+
+340. [Fish]
+-name: Xbtumilocltgcozg
+-weight: 712
+-habitat 0
+-function result: 2.405899
+
+341. [Bird]
+-name: Ufuzimxeekwnysbi
+-weight: 320
+-migration 0
+-function result: 5.428125
+
+342. [Bird]
+-name: Xdiogcseozpscrhj
+-weight: 351
+-migration 0
+-function result: 4.857550
+
+343. [Beast]
+-name: Czcwmbaaolsvubpy
+-weight: 858
+-diet 0
+-function result: 1.990676
+
+344. [Bird]
+-name: Mwajgxzgyzaovenf
+-weight: 79
+-migration 1
+-function result: 21.886076
+
+345. [Bird]
+-name: Ikqjtxgvenksppww
+-weight: 572
+-migration 1
+-function result: 3.061189
+
+346. [Beast]
+-name: Xtgybvmajeyfaxeg
+-weight: 165
+-diet 2
+-function result: 10.309091
+
+347. [Beast]
+-name: Jikcmduclaaioiss
+-weight: 586
+-diet 1
+-function result: 2.837884
+
+348. [Bird]
+-name: Yppnzdubptsavesz
+-weight: 486
+-migration 0
+-function result: 3.613169
+
+349. [Beast]
+-name: Pqmotjhkudnvqzbk
+-weight: 987
+-diet 1
+-function result: 1.753799
+
+350. [Fish]
+-name: Efulgexktrmhddap
+-weight: 453
+-habitat 0
+-function result: 3.706402
+
+351. [Fish]
+-name: Tfvovujiuwbmibru
+-weight: 613
+-habitat 0
+-function result: 2.835237
+
+352. [Beast]
+-name: Mrvznjrchjwzwmoz
+-weight: 535
+-diet 1
+-function result: 3.312150
+
+353. [Beast]
+-name: Znjkfrvkrmrdwroa
+-weight: 25
+-diet 2
+-function result: 69.280000
+
+354. [Bird]
+-name: Pktlmwxwtnuamqel
+-weight: 738
+-migration 1
+-function result: 2.369919
+
+355. [Bird]
+-name: Gbijilnhiiulltov
+-weight: 549
+-migration 1
+-function result: 3.087432
+
+356. [Bird]
+-name: Lwlpbhyffhbavhfu
+-weight: 589
+-migration 0
+-function result: 2.855688
+
+357. [Fish]
+-name: Indjdfpekxglixla
+-weight: 383
+-habitat 3
+-function result: 4.365535
+
+358. [Fish]
+-name: Olhglvwxkyvulcyj
+-weight: 301
+-habitat 3
+-function result: 5.833887
+
+359. [Fish]
+-name: Loqzhltmgtujdcuu
+-weight: 161
+-habitat 4
+-function result: 10.770186
+
+360. [Bird]
+-name: Otlotcpbnyfhejeg
+-weight: 459
+-migration 0
+-function result: 3.675381
+
+361. [Fish]
+-name: Ptqmveghmfbmvkls
+-weight: 31
+-habitat 4
+-function result: 55.161290
+
+362. [Beast]
+-name: Bvxctepvmljohzxx
+-weight: 162
+-diet 0
+-function result: 10.802469
+
+363. [Beast]
+-name: Nvlayguokqdaupty
+-weight: 591
+-diet 0
+-function result: 2.937394
+
+364. [Bird]
+-name: Fzzkqtaxjlrbrukk
+-weight: 498
+-migration 0
+-function result: 3.489960
+
+365. [Bird]
+-name: Jmxqrbazlpdevpez
+-weight: 244
+-migration 1
+-function result: 7.053279
+
+366. [Fish]
+-name: Shvpckldqgivlqpi
+-weight: 956
+-habitat 1
+-function result: 1.786611
+
+367. [Beast]
+-name: Wqquyxpixqireuqa
+-weight: 131
+-diet 2
+-function result: 13.496183
+
+368. [Fish]
+-name: Svvntguxesidrnww
+-weight: 99
+-habitat 3
+-function result: 17.858586
+
+369. [Bird]
+-name: Dozfpkduulifzdpo
+-weight: 690
+-migration 1
+-function result: 2.486957
+
+370. [Beast]
+-name: Ubkurehrqbbxajef
+-weight: 234
+-diet 2
+-function result: 7.158120
+
+371. [Fish]
+-name: Kzbpkapbszyspdaa
+-weight: 841
+-habitat 0
+-function result: 2.021403
+
+372. [Beast]
+-name: Aojotjufsturtjhu
+-weight: 205
+-diet 2
+-function result: 8.482927
+
+373. [Beast]
+-name: Tsgrzuigusnwlyrv
+-weight: 930
+-diet 2
+-function result: 1.919355
+
+374. [Beast]
+-name: Kmsdbuhvhfqtdvtn
+-weight: 418
+-diet 0
+-function result: 4.102871
+
+375. [Bird]
+-name: Fquuhtainkebbvzh
+-weight: 984
+-migration 1
+-function result: 1.724593
+
+376. [Beast]
+-name: Kdbmvhbsnjbtvjtq
+-weight: 135
+-diet 0
+-function result: 12.592593
+
+377. [Fish]
+-name: Hiwfuqlzsmxvfjtv
+-weight: 560
+-habitat 0
+-function result: 3.146429
+
+378. [Beast]
+-name: Tivyhzpxcdjwikfa
+-weight: 798
+-diet 2
+-function result: 2.156642
+
+379. [Fish]
+-name: Nchxssjluhlyoebc
+-weight: 720
+-habitat 0
+-function result: 2.366667
+
+380. [Fish]
+-name: Qfzxxwgliuejobcf
+-weight: 570
+-habitat 2
+-function result: 3.007018
+
+381. [Bird]
+-name: Yrrpkegeqpvlhxee
+-weight: 321
+-migration 0
+-function result: 5.352025
+
+382. [Fish]
+-name: Erjmziudtsqqozve
+-weight: 390
+-habitat 1
+-function result: 4.489744
+
+383. [Bird]
+-name: Tibvnjepfqdsmvst
+-weight: 341
+-migration 0
+-function result: 5.049853
+
+384. [Bird]
+-name: Wwqknnrmqmjccpao
+-weight: 520
+-migration 0
+-function result: 3.298077
+
+385. [Beast]
+-name: Feurgpbfryedqjrl
+-weight: 631
+-diet 2
+-function result: 2.684628
+
+386. [Bird]
+-name: Mhysoicwuohfereb
+-weight: 830
+-migration 0
+-function result: 2.046988
+
+387. [Bird]
+-name: Azuvjoxyipmsgufj
+-weight: 708
+-migration 0
+-function result: 2.470339
+
+388. [Fish]
+-name: Cfywxteyyqdhxwjh
+-weight: 545
+-habitat 0
+-function result: 3.218349
+
+389. [Beast]
+-name: Ghyxyoxbsceftdrq
+-weight: 143
+-diet 0
+-function result: 12.069930
+
+390. [Bird]
+-name: Fvcfbbjjyfsvkvsa
+-weight: 441
+-migration 1
+-function result: 3.832200
+
+391. [Beast]
+-name: Hakgdvhcfmceztgj
+-weight: 422
+-diet 0
+-function result: 3.928910
+
+392. [Beast]
+-name: Xlhasqkauqlnfhgg
+-weight: 391
+-diet 1
+-function result: 4.319693
+
+393. [Beast]
+-name: Rnffmnpinwlexrqx
+-weight: 670
+-diet 1
+-function result: 2.592537
+
+394. [Fish]
+-name: Fnhjzqvoxkukylzc
+-weight: 613
+-habitat 3
+-function result: 2.862969
+
+395. [Bird]
+-name: Mibacpjzsnaclmnu
+-weight: 371
+-migration 0
+-function result: 4.530997
+
+396. [Fish]
+-name: Difzlujqvnfjxxvk
+-weight: 951
+-habitat 4
+-function result: 1.831756
+
+397. [Fish]
+-name: Kzzjqnaqpohygjsj
+-weight: 759
+-habitat 1
+-function result: 2.287220
+
+398. [Beast]
+-name: Zrsosyqhquhkjcjy
+-weight: 48
+-diet 1
+-function result: 36.583333
+
+399. [Fish]
+-name: Edogfurkxiyqufot
+-weight: 425
+-habitat 1
+-function result: 4.065882
+
+400. [Beast]
+-name: Mwhyilthmoevlwlr
+-weight: 171
+-diet 0
+-function result: 10.187135
+
+401. [Fish]
+-name: Pzhsvbfzvtvhwycf
+-weight: 920
+-habitat 4
+-function result: 1.910870
+
+402. [Fish]
+-name: Aomafsyvyrqpizte
+-weight: 930
+-habitat 0
+-function result: 1.873118
+
+403. [Bird]
+-name: Gthfxsmxjrwpsurs
+-weight: 85
+-migration 0
+-function result: 20.811765
+
+404. [Fish]
+-name: Hhilgdhzfzaxadtk
+-weight: 197
+-habitat 4
+-function result: 8.522843
+
+405. [Fish]
+-name: Hqzfdimsrueecxkq
+-weight: 518
+-habitat 3
+-function result: 3.301158
+
+406. [Beast]
+-name: Dlmzgdtnhmivnnkc
+-weight: 868
+-diet 0
+-function result: 1.956221
+
+407. [Beast]
+-name: Rygydqdhltrsthid
+-weight: 762
+-diet 0
+-function result: 2.259843
+
+408. [Fish]
+-name: Azfnovktqcotchco
+-weight: 606
+-habitat 4
+-function result: 2.810231
+
+409. [Bird]
+-name: Eiytymrjscyoeivd
+-weight: 271
+-migration 0
+-function result: 6.387454
+
+410. [Fish]
+-name: Hljzhezohmiurcpb
+-weight: 825
+-habitat 0
+-function result: 2.065455
+
+411. [Bird]
+-name: Aajiqugtaoqmemjl
+-weight: 416
+-migration 1
+-function result: 4.028846
+
+412. [Bird]
+-name: Xprurtymkktdbnox
+-weight: 174
+-migration 0
+-function result: 10.114943
+
+413. [Fish]
+-name: Geeqimlhcztctyph
+-weight: 135
+-habitat 2
+-function result: 12.600000
+
+414. [Bird]
+-name: Dsuyvkkjoplmzdca
+-weight: 436
+-migration 0
+-function result: 3.938073
+
+415. [Bird]
+-name: Vozimhxxqhduiqed
+-weight: 327
+-migration 1
+-function result: 5.290520
+
+416. [Bird]
+-name: Wgoooupnedksdgpm
+-weight: 662
+-migration 1
+-function result: 2.581571
+
+417. [Fish]
+-name: Aqbsqrfpdrsykhbu
+-weight: 981
+-habitat 2
+-function result: 1.741081
+
+418. [Beast]
+-name: Uwjppgdeebjgsdyf
+-weight: 449
+-diet 1
+-function result: 3.750557
+
+419. [Bird]
+-name: Qqnlemkimipecehl
+-weight: 876
+-migration 1
+-function result: 1.909817
+
+420. [Bird]
+-name: Bwnkdxymeclsshvk
+-weight: 404
+-migration 0
+-function result: 4.254950
+
+421. [Fish]
+-name: Jxeshoihmlgvxilj
+-weight: 534
+-habitat 2
+-function result: 3.204120
+
+422. [Beast]
+-name: Lfpnjzywcpamevwt
+-weight: 15
+-diet 1
+-function result: 115.933333
+
+423. [Fish]
+-name: Phifubttnwnphdby
+-weight: 851
+-habitat 2
+-function result: 2.011751
+
+424. [Beast]
+-name: Dclrjprseqwrdwsv
+-weight: 846
+-diet 1
+-function result: 2.050827
+
+425. [Beast]
+-name: Gfrazzaodggxwwbt
+-weight: 738
+-diet 0
+-function result: 2.322493
+
+426. [Fish]
+-name: Jrmcdpomjryledhu
+-weight: 622
+-habitat 3
+-function result: 2.731511
+
+427. [Bird]
+-name: Khzktnkytgjpmmgv
+-weight: 726
+-migration 1
+-function result: 2.393939
+
+428. [Beast]
+-name: Njgzuhwqqsldzcsf
+-weight: 730
+-diet 1
+-function result: 2.378082
+
+429. [Bird]
+-name: Wrqcnbqyxaagibpv
+-weight: 422
+-migration 1
+-function result: 4.040284
+
+430. [Fish]
+-name: Onpeashnrohuvogl
+-weight: 637
+-habitat 2
+-function result: 2.690738
+
+431. [Fish]
+-name: Sprngsoqdjfqtexy
+-weight: 813
+-habitat 4
+-function result: 2.140221
+
+432. [Fish]
+-name: Zzoeowaqezdlmwaf
+-weight: 668
+-habitat 2
+-function result: 2.577844
+
+433. [Fish]
+-name: Vqciewgkekfgrcyv
+-weight: 883
+-habitat 2
+-function result: 1.922990
+
+434. [Bird]
+-name: Hpszobrixwxkpicl
+-weight: 30
+-migration 0
+-function result: 57.966667
+
+435. [Bird]
+-name: Tkvnbimpdkyebcwl
+-weight: 855
+-migration 1
+-function result: 1.983626
+
+436. [Bird]
+-name: Frlzzmkvmhnlcivw
+-weight: 817
+-migration 1
+-function result: 2.132191
+
+437. [Bird]
+-name: Tzrbxjcrtuvtxfki
+-weight: 789
+-migration 1
+-function result: 2.228137
+
+438. [Beast]
+-name: Oafyesyvizvozsqo
+-weight: 533
+-diet 2
+-function result: 3.322702
+
+439. [Fish]
+-name: Qlesixrnerzoowrv
+-weight: 304
+-habitat 4
+-function result: 5.802632
+
+440. [Fish]
+-name: Ibhhyffuvkoukdwj
+-weight: 850
+-habitat 3
+-function result: 2.007059
+
+441. [Bird]
+-name: Qglschjagquehpnh
+-weight: 119
+-migration 0
+-function result: 14.092437
+
+442. [Fish]
+-name: Pmjtgludhrbefjjf
+-weight: 750
+-habitat 0
+-function result: 2.229333
+
+443. [Fish]
+-name: Xlbnvmdwsyxhgscz
+-weight: 380
+-habitat 0
+-function result: 4.602632
+
+444. [Fish]
+-name: Gdfgnwfpdtlkhpek
+-weight: 269
+-habitat 0
+-function result: 6.223048
+
+445. [Beast]
+-name: Cylcqmssyghwdvae
+-weight: 205
+-diet 1
+-function result: 8.341463
+
+446. [Beast]
+-name: Zmhiydlxdjohnscg
+-weight: 598
+-diet 0
+-function result: 2.851171
+
+447. [Beast]
+-name: Uswzumsqoykiidfw
+-weight: 827
+-diet 1
+-function result: 2.134220
+
+448. [Bird]
+-name: Aaaymoivfhjlrwya
+-weight: 448
+-migration 1
+-function result: 3.781250
+
+449. [Bird]
+-name: Geurbrnberazsxtk
+-weight: 394
+-migration 0
+-function result: 4.352792
+
+450. [Bird]
+-name: Ehjfcewctbfjtpqd
+-weight: 636
+-migration 1
+-function result: 2.613208
+
+451. [Fish]
+-name: Ehjobmarguqwsokl
+-weight: 573
+-habitat 2
+-function result: 2.968586
+
+452. [Fish]
+-name: Csfacxfzxfjqover
+-weight: 86
+-habitat 0
+-function result: 19.872093
+
+453. [Bird]
+-name: Zbkmzdndosiyhtya
+-weight: 443
+-migration 1
+-function result: 3.896163
+
+454. [Bird]
+-name: Htapyektuatprwsk
+-weight: 857
+-migration 1
+-function result: 2.029172
+
+455. [Bird]
+-name: Znfdiuehuwymtxdr
+-weight: 32
+-migration 1
+-function result: 54.531250
+
+456. [Bird]
+-name: Smduskvutkfiubzy
+-weight: 319
+-migration 1
+-function result: 5.498433
+
+457. [Bird]
+-name: Mparmjdspxywxerf
+-weight: 340
+-migration 1
+-function result: 5.114706
+
+458. [Beast]
+-name: Koriebsupcpxcjwk
+-weight: 501
+-diet 1
+-function result: 3.413174
+
+459. [Bird]
+-name: Erenlaitvycicyza
+-weight: 800
+-migration 1
+-function result: 2.127500
+
+460. [Beast]
+-name: Iuzteyctmuifefyg
+-weight: 978
+-diet 2
+-function result: 1.763804
+
+461. [Bird]
+-name: Ioiiedbywrgrtdxv
+-weight: 42
+-migration 1
+-function result: 40.904762
+
+462. [Bird]
+-name: Csaehfcilqjoevaj
+-weight: 578
+-migration 1
+-function result: 2.854671
+
+463. [Beast]
+-name: Tknrsprtkrlkjapy
+-weight: 407
+-diet 0
+-function result: 4.285012
+
+464. [Fish]
+-name: Rphzlcepaytfaveo
+-weight: 597
+-habitat 1
+-function result: 2.852596
+
+465. [Bird]
+-name: Rnkvnehrjstzflvy
+-weight: 273
+-migration 0
+-function result: 6.424908
+
+466. [Bird]
+-name: Rktkmgycouiertlp
+-weight: 998
+-migration 1
+-function result: 1.731463
+
+467. [Beast]
+-name: Sxqlgyglmvlyqxix
+-weight: 30
+-diet 0
+-function result: 59.100000
+
+468. [Fish]
+-name: Woqlnkaeqmarvxum
+-weight: 543
+-habitat 0
+-function result: 3.187845
+
+469. [Bird]
+-name: Jcokvfktqjdcugbi
+-weight: 815
+-migration 1
+-function result: 2.055215
+
+470. [Beast]
+-name: Xrnsaqwxtbftqsnp
+-weight: 637
+-diet 0
+-function result: 2.759812
+
+471. [Beast]
+-name: Todpjdpvyqxksuvz
+-weight: 826
+-diet 0
+-function result: 2.150121
+
+472. [Fish]
+-name: Jrwovttlnkznqdqi
+-weight: 965
+-habitat 2
+-function result: 1.819689
+
+473. [Bird]
+-name: Pwkczxrxopeneuxf
+-weight: 968
+-migration 1
+-function result: 1.813017
+
+474. [Beast]
+-name: Dwjmhjguzpeuddfe
+-weight: 461
+-diet 1
+-function result: 3.659436
+
+475. [Fish]
+-name: Zyfrqmfozissccri
+-weight: 730
+-habitat 0
+-function result: 2.378082
+
+476. [Beast]
+-name: Bhxyehktusdgzxla
+-weight: 708
+-diet 1
+-function result: 2.430791
+
+477. [Fish]
+-name: Exqgqoevjtframuq
+-weight: 140
+-habitat 1
+-function result: 12.300000
+
+478. [Fish]
+-name: Nrsmbxrvbtfglowf
+-weight: 813
+-habitat 0
+-function result: 2.121771
+
+479. [Bird]
+-name: Ujtzqwzggtlbhrop
+-weight: 273
+-migration 0
+-function result: 6.417582
+
+480. [Beast]
+-name: Bbwvnakwvvdycxcz
+-weight: 638
+-diet 2
+-function result: 2.713166
+
+481. [Fish]
+-name: Iworvpwkoqmqhcal
+-weight: 478
+-habitat 4
+-function result: 3.612971
+
+482. [Beast]
+-name: Qnkcxekjqzvueswq
+-weight: 975
+-diet 1
+-function result: 1.793846
+
+483. [Fish]
+-name: Pyvysdkhsoicmhcz
+-weight: 575
+-habitat 3
+-function result: 3.008696
+
+484. [Beast]
+-name: Fnaslxwxllxlewtz
+-weight: 864
+-diet 1
+-function result: 2.038194
+
+485. [Bird]
+-name: Suvseneiqwhnezoj
+-weight: 359
+-migration 0
+-function result: 4.835655
+
+486. [Fish]
+-name: Oryesugdhtjckqjd
+-weight: 653
+-habitat 0
+-function result: 2.604900
+
+487. [Fish]
+-name: Rdoizpyfmdlqlwqi
+-weight: 117
+-habitat 4
+-function result: 14.786325
+
+488. [Bird]
+-name: Wfygkivbujfinzyh
+-weight: 506
+-migration 0
+-function result: 3.415020
+
+489. [Fish]
+-name: Cjojonhgustqjfne
+-weight: 563
+-habitat 2
+-function result: 3.015986
+
+490. [Beast]
+-name: Ocmfhpzxtgfpmusc
+-weight: 873
+-diet 0
+-function result: 1.970218
+
+491. [Bird]
+-name: Urennlqkwhhyipqz
+-weight: 529
+-migration 0
+-function result: 3.304348
+
+492. [Fish]
+-name: Yktbvtpwvttgecaj
+-weight: 727
+-habitat 2
+-function result: 2.381018
+
+493. [Bird]
+-name: Vuizfsoayxziljze
+-weight: 258
+-migration 0
+-function result: 6.821705
+
+494. [Beast]
+-name: Catmvefqrzxwktnd
+-weight: 425
+-diet 0
+-function result: 4.072941
+
+495. [Beast]
+-name: Zdrwlphlgdywdofn
+-weight: 423
+-diet 1
+-function result: 4.068558
+
+496. [Fish]
+-name: Lxvkhdjyalhvvpaa
+-weight: 238
+-habitat 4
+-function result: 7.155462
+
+497. [Fish]
+-name: Dnlxhlsxshhtifxi
+-weight: 306
+-habitat 4
+-function result: 5.633987
+
+498. [Fish]
+-name: Bixbbduzvngqiagg
+-weight: 538
+-habitat 4
+-function result: 3.118959
+
+499. [Beast]
+-name: Grjmarwupaybnqgu
+-weight: 281
+-diet 0
+-function result: 6.113879
+
+500. [Beast]
+-name: Wkgwgtocblxjeccg
+-weight: 210
+-diet 1
+-function result: 7.995238
+
+501. [Bird]
+-name: Czibhqufqqxvllvm
+-weight: 499
+-migration 1
+-function result: 3.476954
+
+502. [Bird]
+-name: Fmbezplhqakbmmva
+-weight: 403
+-migration 1
+-function result: 4.148883
+
+503. [Fish]
+-name: Xjyexdsswbjiouym
+-weight: 720
+-habitat 3
+-function result: 2.433333
+
+504. [Beast]
+-name: Cltjudobfuoiwubg
+-weight: 15
+-diet 0
+-function result: 113.000000
+
+505. [Beast]
+-name: Pmvkhozhkducomlg
+-weight: 899
+-diet 2
+-function result: 1.901001
+
+506. [Beast]
+-name: Veinncaiknsugjqc
+-weight: 85
+-diet 1
+-function result: 19.800000
+
+507. [Bird]
+-name: Dxdazcrtvllkfvte
+-weight: 916
+-migration 1
+-function result: 1.871179
+
+508. [Beast]
+-name: Zcsctlegenlltvkz
+-weight: 469
+-diet 0
+-function result: 3.669510
+
+509. [Bird]
+-name: Wgoljpdsyqncsdjs
+-weight: 148
+-migration 1
+-function result: 11.628378
+
+510. [Fish]
+-name: Xyrghrwpqinxmrid
+-weight: 249
+-habitat 0
+-function result: 7.032129
+
+511. [Beast]
+-name: Pqunvkwxrykxtlxy
+-weight: 273
+-diet 0
+-function result: 6.633700
+
+512. [Fish]
+-name: Majfhqyudwtigbjt
+-weight: 497
+-habitat 1
+-function result: 3.420523
+
+513. [Beast]
+-name: Dltcqzgcaiwswfyr
+-weight: 754
+-diet 2
+-function result: 2.281167
+
+514. [Beast]
+-name: Wwiaruhiibujopgr
+-weight: 826
+-diet 0
+-function result: 2.075061
+
+515. [Fish]
+-name: Iugkdqtesojacqhn
+-weight: 915
+-habitat 2
+-function result: 1.841530
+
+516. [Bird]
+-name: Gnvxesfrfiefaabr
+-weight: 896
+-migration 0
+-function result: 1.860491
+
+517. [Fish]
+-name: Eelkpkecvpsdwelp
+-weight: 602
+-habitat 4
+-function result: 2.805648
+
+518. [Beast]
+-name: Mbpdupzvtvjxydkd
+-weight: 324
+-diet 0
+-function result: 5.382716
+
+519. [Fish]
+-name: Gghonucwegvfjzbd
+-weight: 202
+-habitat 4
+-function result: 8.336634
+
+520. [Bird]
+-name: Evkgdwubtjvtoqot
+-weight: 375
+-migration 1
+-function result: 4.634667
+
+521. [Bird]
+-name: Tdrdolgjmfubzzpn
+-weight: 480
+-migration 1
+-function result: 3.579167
+
+522. [Bird]
+-name: Qwotzqblhmrfzfgy
+-weight: 908
+-migration 0
+-function result: 1.921806
+
+523. [Beast]
+-name: Ucwwpdyjvctvfamc
+-weight: 106
+-diet 0
+-function result: 16.216981
+
+524. [Bird]
+-name: Mjtmrcjivhsytnwm
+-weight: 129
+-migration 0
+-function result: 13.519380
+
+525. [Fish]
+-name: Vmohfyesqxdvrjgf
+-weight: 847
+-habitat 2
+-function result: 2.036600
+
+526. [Beast]
+-name: Mhlwdxlozmcqmvht
+-weight: 888
+-diet 2
+-function result: 1.956081
+
+527. [Beast]
+-name: Ameykvixdaqvssdw
+-weight: 557
+-diet 2
+-function result: 3.093357
+
+528. [Bird]
+-name: Dklqenafbcfnhwrh
+-weight: 536
+-migration 1
+-function result: 3.089552
+
+529. [Fish]
+-name: Csxohdvrbnlblsee
+-weight: 575
+-habitat 0
+-function result: 2.935652
+
+530. [Fish]
+-name: Bkxaortejlrcmcvo
+-weight: 434
+-habitat 1
+-function result: 3.907834
+
+531. [Bird]
+-name: Qrcopnnpkunkkcpo
+-weight: 770
+-migration 0
+-function result: 2.232468
+
+532. [Bird]
+-name: Pkvygunpaboujvir
+-weight: 535
+-migration 0
+-function result: 3.241121
+
+533. [Fish]
+-name: Hlgectnazvqpsouu
+-weight: 810
+-habitat 0
+-function result: 2.137037
+
+534. [Fish]
+-name: Yfikgqtufvqqevcp
+-weight: 145
+-habitat 4
+-function result: 11.917241
+
+535. [Bird]
+-name: Mjhpuacsiasptskq
+-weight: 787
+-migration 0
+-function result: 2.168996
+
+536. [Bird]
+-name: Tauzfablpqlkukah
+-weight: 102
+-migration 0
+-function result: 16.568627
+
+537. [Fish]
+-name: Vzaprotlqdiuoeey
+-weight: 672
+-habitat 1
+-function result: 2.581845
+
+538. [Fish]
+-name: Zahfavzzrfrzzemi
+-weight: 832
+-habitat 2
+-function result: 2.092548
+
+539. [Bird]
+-name: Obxuojorawurhjop
+-weight: 177
+-migration 1
+-function result: 9.807910
+
+540. [Bird]
+-name: Ctehrulpgkozuywm
+-weight: 879
+-migration 0
+-function result: 1.988623
+
+541. [Bird]
+-name: Dlbofbjejazsrulv
+-weight: 500
+-migration 0
+-function result: 3.378000
+
+542. [Beast]
+-name: Mmemhqpyiowmnlqa
+-weight: 466
+-diet 0
+-function result: 3.686695
+
+543. [Fish]
+-name: Siotpxjwocjeumcj
+-weight: 771
+-habitat 4
+-function result: 2.230869
+
+544. [Fish]
+-name: Zrrrugimnjbjalql
+-weight: 720
+-habitat 2
+-function result: 2.377778
+
+545. [Beast]
+-name: Zjfxchwddxonzmnj
+-weight: 726
+-diet 0
+-function result: 2.380165
+
+546. [Bird]
+-name: Jxrxwkduooerctee
+-weight: 397
+-migration 0
+-function result: 4.345088
+
+547. [Fish]
+-name: Dlrwamnkyxjsxpfd
+-weight: 647
+-habitat 3
+-function result: 2.670788
+
+548. [Bird]
+-name: Hbgkvypxfsmqhibn
+-weight: 696
+-migration 0
+-function result: 2.452586
+
+549. [Bird]
+-name: Grkpferayxdznpgk
+-weight: 555
+-migration 0
+-function result: 3.086486
+
+550. [Fish]
+-name: Pdjobicqfqmfstqh
+-weight: 413
+-habitat 2
+-function result: 4.082324
+
+551. [Fish]
+-name: Cpmfdcdccmodlqjq
+-weight: 24
+-habitat 0
+-function result: 68.625000
+
+552. [Beast]
+-name: Ofnuqnpmhdvkzebn
+-weight: 863
+-diet 2
+-function result: 1.983778
+
+553. [Beast]
+-name: Kjfswcxwcujwhepd
+-weight: 610
+-diet 0
+-function result: 2.808197
+
+554. [Fish]
+-name: Tffkbykeuhnfzngk
+-weight: 84
+-habitat 2
+-function result: 20.202381
+
+555. [Bird]
+-name: Qthejjrbzhrcggoe
+-weight: 281
+-migration 0
+-function result: 5.989324
+
+556. [Fish]
+-name: Xbwyszblqgpwjplt
+-weight: 457
+-habitat 1
+-function result: 3.846827
+
+557. [Fish]
+-name: Qcocqxyluttlwhtz
+-weight: 881
+-habitat 3
+-function result: 2.009081
+
+558. [Beast]
+-name: Qeoyjbxkiqmajagf
+-weight: 377
+-diet 2
+-function result: 4.448276
+
+559. [Fish]
+-name: Fbdvfuyurlvurnwr
+-weight: 73
+-habitat 2
+-function result: 24.068493
+
+560. [Fish]
+-name: Adunwugtueshxmgz
+-weight: 474
+-habitat 3
+-function result: 3.666667
+
+561. [Bird]
+-name: Mcifbvrasucuvivo
+-weight: 959
+-migration 0
+-function result: 1.783107
+
+562. [Bird]
+-name: Ivliiczpusswafke
+-weight: 781
+-migration 1
+-function result: 2.195903
+
+563. [Beast]
+-name: Mocimlmslebfiiar
+-weight: 448
+-diet 1
+-function result: 3.712054
+
+564. [Bird]
+-name: Uabizmyqpthdmzei
+-weight: 360
+-migration 0
+-function result: 4.775000
+
+565. [Fish]
+-name: Cjtsjhqkmvwzedal
+-weight: 852
+-habitat 4
+-function result: 2.004695
+
+566. [Beast]
+-name: Vmzgrxokchgoalgu
+-weight: 709
+-diet 1
+-function result: 2.417489
+
+567. [Beast]
+-name: Qyrokqmjszjwsdgc
+-weight: 929
+-diet 1
+-function result: 1.874058
+
+568. [Fish]
+-name: Lcqgdndbypqqidcl
+-weight: 532
+-habitat 4
+-function result: 3.139098
+
+569. [Fish]
+-name: Qbjwiploxderklgb
+-weight: 798
+-habitat 3
+-function result: 2.119048
+
+570. [Fish]
+-name: Gnwyunrnumfolbal
+-weight: 452
+-habitat 3
+-function result: 3.809735
+
+571. [Beast]
+-name: Oknkjnwrwebgelzb
+-weight: 241
+-diet 2
+-function result: 7.062241
+
+572. [Beast]
+-name: Dscwtsbxxzkghskg
+-weight: 154
+-diet 0
+-function result: 11.240260
+
+573. [Beast]
+-name: Evgxnydqvtyjsllq
+-weight: 605
+-diet 2
+-function result: 2.907438
+
+574. [Bird]
+-name: Tliauyiccqdmfiej
+-weight: 183
+-migration 1
+-function result: 9.131148
+
+575. [Beast]
+-name: Rnazcrfhpbjmrfby
+-weight: 655
+-diet 2
+-function result: 2.580153
+
+576. [Fish]
+-name: Dabalhtigpqmwfon
+-weight: 811
+-habitat 2
+-function result: 2.061652
+
+577. [Fish]
+-name: Rchddweqdohspjdg
+-weight: 345
+-habitat 0
+-function result: 4.837681
+
+578. [Fish]
+-name: Mjbmweoilejrpksb
+-weight: 671
+-habitat 1
+-function result: 2.514158
+
+579. [Beast]
+-name: Stgpsmnmalpuswib
+-weight: 620
+-diet 2
+-function result: 2.787097
+
+580. [Bird]
+-name: Qvotcaytbtuzdtws
+-weight: 432
+-migration 0
+-function result: 4.078704
+
+581. [Bird]
+-name: Rvrwgixzhxwhiuhv
+-weight: 739
+-migration 0
+-function result: 2.400541
+
+582. [Bird]
+-name: Jpqzyyhhtxmjfmql
+-weight: 466
+-migration 1
+-function result: 3.763948
+
+583. [Bird]
+-name: Jfqvbenlerlkyawo
+-weight: 189
+-migration 1
+-function result: 9.005291
+
+584. [Beast]
+-name: Tyzgewxcchswmwgh
+-weight: 409
+-diet 0
+-function result: 4.256724
+
+585. [Beast]
+-name: Ncuejvmwgsffvowd
+-weight: 154
+-diet 1
+-function result: 11.149351
+
+586. [Beast]
+-name: Inxfiwfhtldytygq
+-weight: 730
+-diet 0
+-function result: 2.373973
+
+587. [Fish]
+-name: Wdvrkcoytxkcweag
+-weight: 295
+-habitat 1
+-function result: 5.827119
+
+588. [Bird]
+-name: Hrpyquimwrbvezzv
+-weight: 102
+-migration 1
+-function result: 17.401961
+
+589. [Fish]
+-name: Gihcyfqzvadtdfye
+-weight: 31
+-habitat 2
+-function result: 54.580645
+
+590. [Fish]
+-name: Vynbdlrqhvapgysg
+-weight: 994
+-habitat 3
+-function result: 1.733400
+
+591. [Bird]
+-name: Orkvmvqexpjfgvpi
+-weight: 179
+-migration 1
+-function result: 9.703911
+
+592. [Bird]
+-name: Dttggsdyjbvolbmc
+-weight: 308
+-migration 0
+-function result: 5.483766
+
+593. [Bird]
+-name: Rvkuptanlzosctfn
+-weight: 19
+-migration 0
+-function result: 91.684211
+
+594. [Bird]
+-name: Klrnzrkuxyjpwwmi
+-weight: 989
+-migration 1
+-function result: 1.797776
+
+595. [Fish]
+-name: Lxgxwulgxhlmsbzr
+-weight: 291
+-habitat 2
+-function result: 6.034364
+
+596. [Bird]
+-name: Juaxpdpsmwiwxxdv
+-weight: 108
+-migration 0
+-function result: 16.268519
+
+597. [Beast]
+-name: Uxtlkqwwowrqeatq
+-weight: 256
+-diet 2
+-function result: 6.917969
+
+598. [Fish]
+-name: Ilpoxbipwweghtfi
+-weight: 32
+-habitat 1
+-function result: 53.375000
+
+599. [Beast]
+-name: Kbnjhxdkunebqgri
+-weight: 996
+-diet 1
+-function result: 1.687751
+
+600. [Fish]
+-name: Kgerqqlyyfesoykm
+-weight: 112
+-habitat 1
+-function result: 15.491071
+
+601. [Fish]
+-name: Qbnkstmdefrmtwky
+-weight: 6
+-habitat 1
+-function result: 287.500000
+
+602. [Beast]
+-name: Nchigmtfbourzhmf
+-weight: 778
+-diet 2
+-function result: 2.176093
+
+603. [Beast]
+-name: Rcbdzdfbeostfvsk
+-weight: 628
+-diet 2
+-function result: 2.684713
+
+604. [Beast]
+-name: Tljhzkrghtsgbbdh
+-weight: 95
+-diet 0
+-function result: 17.747368
+
+605. [Fish]
+-name: Cutfmmjoutfvexdc
+-weight: 398
+-habitat 3
+-function result: 4.296482
+
+606. [Beast]
+-name: Hytbcrkliwcxkgoq
+-weight: 586
+-diet 1
+-function result: 2.921502
+
+607. [Beast]
+-name: Yogvfrnymopfwpnf
+-weight: 453
+-diet 0
+-function result: 3.852097
+
+608. [Fish]
+-name: Ihxyxansprggwdya
+-weight: 706
+-habitat 2
+-function result: 2.449008
+
+609. [Fish]
+-name: Qgqbtdgffcegtpcy
+-weight: 12
+-habitat 1
+-function result: 139.083333
+
+610. [Beast]
+-name: Rqusqsydymvpeibg
+-weight: 713
+-diet 0
+-function result: 2.444600
+
+611. [Fish]
+-name: Nopfymrmqhucgomd
+-weight: 939
+-habitat 2
+-function result: 1.823216
+
+612. [Fish]
+-name: Emxbzyslvlitwubn
+-weight: 87
+-habitat 0
+-function result: 20.149425
+
+613. [Beast]
+-name: Mewwhgpmprkcyfdx
+-weight: 969
+-diet 2
+-function result: 1.773994
+
+614. [Fish]
+-name: Uhevoixrwlmxwgcn
+-weight: 649
+-habitat 2
+-function result: 2.688752
+
+615. [Fish]
+-name: Mmyovrtepqtibdvt
+-weight: 251
+-habitat 2
+-function result: 6.952191
+
+616. [Fish]
+-name: Oaqyddqrxnvkiyad
+-weight: 725
+-habitat 0
+-function result: 2.365517
+
+617. [Fish]
+-name: Yemcycfcpyuwkzeb
+-weight: 832
+-habitat 2
+-function result: 2.062500
+
+618. [Beast]
+-name: Edsbvqqijqlgjycj
+-weight: 878
+-diet 1
+-function result: 1.928246
+
+619. [Fish]
+-name: Xflceoniyvqvurdi
+-weight: 645
+-habitat 2
+-function result: 2.682171
+
+620. [Beast]
+-name: Srtfgwtpepunugea
+-weight: 808
+-diet 0
+-function result: 2.132426
+
+621. [Bird]
+-name: Zsjewsqrmjzssbxj
+-weight: 34
+-migration 1
+-function result: 51.882353
+
+622. [Beast]
+-name: Jvjqcfqptbzgketq
+-weight: 467
+-diet 2
+-function result: 3.668094
+
+623. [Bird]
+-name: Trhyubkewfekrcih
+-weight: 491
+-migration 1
+-function result: 3.456212
+
+624. [Beast]
+-name: Eigutwigdbbdxrbw
+-weight: 959
+-diet 0
+-function result: 1.755996
+
+625. [Beast]
+-name: Mbvgaowlvdjyddyc
+-weight: 763
+-diet 1
+-function result: 2.222805
+
+626. [Bird]
+-name: Ckmgzvarpfobgmhp
+-weight: 472
+-migration 0
+-function result: 3.576271
+
+627. [Fish]
+-name: Oiqpqtxtucrorysm
+-weight: 299
+-habitat 2
+-function result: 5.933110
+
+628. [Beast]
+-name: Cfzlbjbipfimunez
+-weight: 859
+-diet 2
+-function result: 1.960419
+
+629. [Beast]
+-name: Qjasixvwoqyjvxkh
+-weight: 22
+-diet 1
+-function result: 80.045455
+
+630. [Beast]
+-name: Qiabubqqdofehhjt
+-weight: 513
+-diet 1
+-function result: 3.247563
+
+631. [Bird]
+-name: Ktdmkapspbmykoyl
+-weight: 706
+-migration 1
+-function result: 2.433428
+
+632. [Fish]
+-name: Oipzwdmkrbhdntdk
+-weight: 923
+-habitat 3
+-function result: 1.843987
+
+633. [Bird]
+-name: Elorqcjkqzzpinoq
+-weight: 935
+-migration 1
+-function result: 1.855615
+
+634. [Bird]
+-name: Bjgnqqlfewioamgm
+-weight: 418
+-migration 1
+-function result: 4.007177
+
+635. [Fish]
+-name: Moaxvufyqypchhgf
+-weight: 346
+-habitat 1
+-function result: 4.973988
+
+636. [Beast]
+-name: Rcklyhbpjjzrrugo
+-weight: 157
+-diet 2
+-function result: 10.980892
+
+637. [Fish]
+-name: Ioivovxmrawzswpf
+-weight: 952
+-habitat 3
+-function result: 1.853992
+
+638. [Fish]
+-name: Fytmcfvwnrmfzgpz
+-weight: 785
+-habitat 0
+-function result: 2.226752
+
+639. [Fish]
+-name: Tvnbmvwthjsvhbxs
+-weight: 565
+-habitat 3
+-function result: 3.100885
+
+640. [Bird]
+-name: Yckwexzpmiexgrjx
+-weight: 150
+-migration 1
+-function result: 11.646667
+
+641. [Bird]
+-name: Wbqyuipxarrbphnz
+-weight: 879
+-migration 0
+-function result: 1.984073
+
+642. [Bird]
+-name: Clgbvocyuzutzypi
+-weight: 595
+-migration 1
+-function result: 2.952941
+
+643. [Bird]
+-name: Yyucclqzcxtawhxk
+-weight: 498
+-migration 1
+-function result: 3.514056
+
+644. [Beast]
+-name: Pukjrmgsxockdraa
+-weight: 533
+-diet 1
+-function result: 3.181989
+
+645. [Beast]
+-name: Xkpmrflspdlqkewy
+-weight: 662
+-diet 2
+-function result: 2.622356
+
+646. [Bird]
+-name: Tfwahgqohkqnktti
+-weight: 827
+-migration 0
+-function result: 2.068924
+
+647. [Fish]
+-name: Rhdsgeueivkrnezu
+-weight: 632
+-habitat 2
+-function result: 2.716772
+
+648. [Beast]
+-name: Rzfqxozfcuhcnscq
+-weight: 956
+-diet 1
+-function result: 1.809623
+
+649. [Fish]
+-name: Bchvrspzotkdbidw
+-weight: 275
+-habitat 4
+-function result: 6.203636
+
+650. [Bird]
+-name: Owwqhnzfjqhfgimw
+-weight: 480
+-migration 1
+-function result: 3.602083
+
+651. [Bird]
+-name: Jvqspooslaqkxzeh
+-weight: 921
+-migration 1
+-function result: 1.890337
+
+652. [Fish]
+-name: Kwutiypzvvztdurg
+-weight: 208
+-habitat 1
+-function result: 8.629808
+
+653. [Fish]
+-name: Vaahguigpsglhabn
+-weight: 761
+-habitat 0
+-function result: 2.180026
+
+654. [Bird]
+-name: Tqmbdsmbfzthyumq
+-weight: 990
+-migration 0
+-function result: 1.747475
+
+655. [Fish]
+-name: Ldnovucoimmqszms
+-weight: 730
+-habitat 0
+-function result: 2.382192
+
+656. [Bird]
+-name: Pmaddcvhinjjdfyw
+-weight: 154
+-migration 1
+-function result: 10.883117
+
+657. [Beast]
+-name: Dagmvyqhtqwfyiai
+-weight: 182
+-diet 2
+-function result: 9.401099
+
+658. [Fish]
+-name: Hbzvroovjftegskj
+-weight: 31
+-habitat 2
+-function result: 55.483871
+
+659. [Bird]
+-name: Nglsshitxzgfwawl
+-weight: 728
+-migration 0
+-function result: 2.381868
+
+660. [Bird]
+-name: Kxyspekdarmeqdkx
+-weight: 46
+-migration 1
+-function result: 37.217391
+
+661. [Fish]
+-name: Kjwnwwfzinwtxscj
+-weight: 983
+-habitat 0
+-function result: 1.792472
+
+662. [Beast]
+-name: Wnhbskilhsdudslm
+-weight: 18
+-diet 1
+-function result: 94.555556
+
+663. [Beast]
+-name: Ipqqbpbfgcqyxejh
+-weight: 957
+-diet 2
+-function result: 1.763845
+
+664. [Bird]
+-name: Xwjmskgaplcjjltq
+-weight: 475
+-migration 1
+-function result: 3.604211
+
+665. [Fish]
+-name: Zamuinystpklzliv
+-weight: 978
+-habitat 4
+-function result: 1.799591
+
+666. [Fish]
+-name: Sjtkzmnkabbaleiz
+-weight: 59
+-habitat 4
+-function result: 28.576271
+
+667. [Bird]
+-name: Zhztqhvnsjbjulus
+-weight: 731
+-migration 1
+-function result: 2.406293
+
+668. [Fish]
+-name: Ynqgpysvalzdfedg
+-weight: 380
+-habitat 2
+-function result: 4.510526
+
+669. [Fish]
+-name: Chgkgxapvwbnuhym
+-weight: 867
+-habitat 2
+-function result: 1.971165
+
+670. [Fish]
+-name: Scsnsiimbmtjstpv
+-weight: 53
+-habitat 0
+-function result: 32.660377
+
+671. [Bird]
+-name: Fsikdvwyrizublbb
+-weight: 336
+-migration 0
+-function result: 5.104167
+
+672. [Beast]
+-name: Dbfzrwmohscfwyga
+-weight: 86
+-diet 2
+-function result: 19.802326
+
+673. [Bird]
+-name: Aoxrdilpomoisjjs
+-weight: 777
+-migration 0
+-function result: 2.204633
+
+674. [Bird]
+-name: Yynvlqrmhjcszfrz
+-weight: 237
+-migration 1
+-function result: 7.451477
+
+675. [Beast]
+-name: Cctayvficqbebazk
+-weight: 451
+-diet 2
+-function result: 3.680710
+
+676. [Bird]
+-name: Wjynezrxdmfqywoh
+-weight: 762
+-migration 0
+-function result: 2.309711
+
+677. [Beast]
+-name: Gvtzcdvsfdvhpvsn
+-weight: 297
+-diet 0
+-function result: 5.851852
+
+678. [Beast]
+-name: Nndaefgenzglnxho
+-weight: 560
+-diet 2
+-function result: 3.000000
+
+679. [Bird]
+-name: Ignqhqgxatpxwlds
+-weight: 398
+-migration 1
+-function result: 4.336683
+
+680. [Bird]
+-name: Annebavspetvuczj
+-weight: 285
+-migration 0
+-function result: 5.982456
+
+681. [Bird]
+-name: Kxzybniehuesblhl
+-weight: 99
+-migration 1
+-function result: 17.242424
+
+682. [Fish]
+-name: Poymjeebhdjhtjqf
+-weight: 191
+-habitat 0
+-function result: 8.785340
+
+683. [Bird]
+-name: Awwtkguwtzefpxpb
+-weight: 669
+-migration 1
+-function result: 2.612855
+
+684. [Bird]
+-name: Futvbuufjvgzpdfs
+-weight: 285
+-migration 0
+-function result: 6.080702
+
+685. [Bird]
+-name: Swpqdbdzvnjdakgv
+-weight: 845
+-migration 0
+-function result: 2.018935
+
+686. [Fish]
+-name: Gkasgyrkpczgbhhe
+-weight: 217
+-habitat 1
+-function result: 7.732719
+
+687. [Fish]
+-name: Kfpdeqkohktevfno
+-weight: 558
+-habitat 2
+-function result: 3.028674
+
+688. [Beast]
+-name: Ezawpyzaudwuxqld
+-weight: 589
+-diet 0
+-function result: 2.976231
+
+689. [Fish]
+-name: Riqaqsjrqjgoaxiu
+-weight: 485
+-habitat 3
+-function result: 3.540206
+
+690. [Bird]
+-name: Aryevoznqgqbteqm
+-weight: 937
+-migration 1
+-function result: 1.844184
+
+691. [Bird]
+-name: Iidgzfvgqvzeemww
+-weight: 162
+-migration 0
+-function result: 10.666667
+
+692. [Beast]
+-name: Tqocwvntdnaqybcf
+-weight: 452
+-diet 2
+-function result: 3.783186
+
+693. [Beast]
+-name: Zrslrdexupsxuhac
+-weight: 803
+-diet 1
+-function result: 2.170610
+
+694. [Fish]
+-name: Dyfaqwcgpwvnkrvk
+-weight: 265
+-habitat 3
+-function result: 6.516981
+
+695. [Fish]
+-name: Dgbbgpdoxjuuyyck
+-weight: 979
+-habitat 3
+-function result: 1.737487
+
+696. [Fish]
+-name: Drclzmshghtlfspj
+-weight: 859
+-habitat 4
+-function result: 1.984866
+
+697. [Bird]
+-name: Fasdvwjgplbqzjbb
+-weight: 206
+-migration 1
+-function result: 8.169903
+
+698. [Bird]
+-name: Hnhecbjsntzzioxa
+-weight: 399
+-migration 0
+-function result: 4.280702
+
+699. [Fish]
+-name: Kjzhzdfwdsvwyxgh
+-weight: 839
+-habitat 2
+-function result: 2.085816
+
+700. [Beast]
+-name: Wncnkijcapbyquxv
+-weight: 925
+-diet 1
+-function result: 1.858378
+
+701. [Fish]
+-name: Cizvviztcbdoqjhv
+-weight: 878
+-habitat 2
+-function result: 1.961276
+
+702. [Bird]
+-name: Vekkfkzncnkyvogu
+-weight: 358
+-migration 0
+-function result: 4.826816
+
+703. [Bird]
+-name: Iktajdjntsgiecrp
+-weight: 212
+-migration 0
+-function result: 7.924528
+
+704. [Fish]
+-name: Bumvktizkxnrsdkq
+-weight: 195
+-habitat 2
+-function result: 8.953846
+
+705. [Beast]
+-name: Pludlbegdrhptkwp
+-weight: 754
+-diet 0
+-function result: 2.253316
+
+706. [Beast]
+-name: Rcdmgzjeibterrwd
+-weight: 103
+-diet 1
+-function result: 16.398058
+
+707. [Beast]
+-name: Czotviwlpfibyanr
+-weight: 972
+-diet 1
+-function result: 1.774691
+
+708. [Bird]
+-name: Oawomxzorzgvktia
+-weight: 119
+-migration 1
+-function result: 14.705882
+
+709. [Beast]
+-name: Ynkmwbcrujpdzqsg
+-weight: 723
+-diet 0
+-function result: 2.396957
+
+710. [Bird]
+-name: Omtkvbhgfseiexvj
+-weight: 800
+-migration 1
+-function result: 2.127500
+
+711. [Beast]
+-name: Kasymwiammkempnj
+-weight: 788
+-diet 1
+-function result: 2.158629
+
+712. [Beast]
+-name: Elfyyvpymrgujzat
+-weight: 632
+-diet 2
+-function result: 2.778481
+
+713. [Beast]
+-name: Htniwlwsdfwyijfz
+-weight: 137
+-diet 1
+-function result: 12.708029
+
+714. [Bird]
+-name: Epejvtznhvpfhati
+-weight: 285
+-migration 0
+-function result: 6.007018
+
+715. [Beast]
+-name: Esfyhnidzhvmugga
+-weight: 223
+-diet 2
+-function result: 7.618834
+
+716. [Bird]
+-name: Upbpkmszdbnofajl
+-weight: 143
+-migration 1
+-function result: 11.832168
+
+717. [Bird]
+-name: Oertesefxnippewo
+-weight: 589
+-migration 1
+-function result: 2.918506
+
+718. [Beast]
+-name: Zdnrluzlwfhlmwum
+-weight: 430
+-diet 2
+-function result: 4.083721
+
+719. [Bird]
+-name: Ystoxjrsoqfwlueh
+-weight: 513
+-migration 0
+-function result: 3.432749
+
+720. [Beast]
+-name: Ncfkpysqlhlanroc
+-weight: 465
+-diet 1
+-function result: 3.651613
+
+721. [Bird]
+-name: Likumoyyokhaokil
+-weight: 559
+-migration 1
+-function result: 3.071556
+
+722. [Fish]
+-name: Mnqygsfjnyuctkfz
+-weight: 312
+-habitat 1
+-function result: 5.580128
+
+723. [Bird]
+-name: Inmzbkjylqwjiamf
+-weight: 137
+-migration 0
+-function result: 12.445255
+
+724. [Beast]
+-name: Jjjjrjuuurrychyi
+-weight: 749
+-diet 1
+-function result: 2.324433
+
+725. [Bird]
+-name: Yaxlhwabbswjdyse
+-weight: 977
+-migration 1
+-function result: 1.747185
+
+726. [Bird]
+-name: Wzslxvyilclpgqla
+-weight: 208
+-migration 0
+-function result: 8.384615
+
+727. [Bird]
+-name: Nfaoyzqrqivmedbu
+-weight: 486
+-migration 1
+-function result: 3.537037
+
+728. [Bird]
+-name: Kbkrdxwpwefauclt
+-weight: 56
+-migration 1
+-function result: 30.428571
+
+729. [Fish]
+-name: Xzimwdlhfecviflj
+-weight: 212
+-habitat 2
+-function result: 8.000000
+
+730. [Fish]
+-name: Prolqknjxfmzmhbz
+-weight: 516
+-habitat 4
+-function result: 3.362403
+
+731. [Bird]
+-name: Icsbrlprbirdvsly
+-weight: 54
+-migration 1
+-function result: 31.703704
+
+732. [Bird]
+-name: Ehxzuenmsdpakeea
+-weight: 374
+-migration 1
+-function result: 4.497326
+
+733. [Bird]
+-name: Lffbpnshtjsbiave
+-weight: 785
+-migration 1
+-function result: 2.133758
+
+734. [Bird]
+-name: Rspattalnfbqzron
+-weight: 828
+-migration 0
+-function result: 2.080918
+
+735. [Bird]
+-name: Wgpbepeuhgbjbvna
+-weight: 819
+-migration 1
+-function result: 2.032967
+
+736. [Beast]
+-name: Rvuwptsbzakokkpa
+-weight: 659
+-diet 0
+-function result: 2.635812
+
+737. [Beast]
+-name: Bdjevvjjoqrbmaqv
+-weight: 307
+-diet 0
+-function result: 5.517915
+
+738. [Fish]
+-name: Qwhapahwextjgxwt
+-weight: 968
+-habitat 4
+-function result: 1.791322
+
+739. [Beast]
+-name: Kdaoxfqkaycroesd
+-weight: 31
+-diet 1
+-function result: 54.290323
+
+740. [Beast]
+-name: Zthujqupnrrkaklc
+-weight: 603
+-diet 1
+-function result: 2.870647
+
+741. [Fish]
+-name: Cgtfoxkpjmrcixns
+-weight: 851
+-habitat 0
+-function result: 2.016451
+
+742. [Beast]
+-name: Jzxhppxllzwwsmzt
+-weight: 963
+-diet 2
+-function result: 1.871236
+
+743. [Bird]
+-name: Glqtlmcjvrqlohvz
+-weight: 913
+-migration 1
+-function result: 1.903614
+
+744. [Fish]
+-name: Ipjwivmnvqjbzkqf
+-weight: 886
+-habitat 4
+-function result: 1.953725
+
+745. [Bird]
+-name: Wecxfcoeskfkadch
+-weight: 901
+-migration 0
+-function result: 1.832408
+
+746. [Bird]
+-name: Qtxmuncwiregvulr
+-weight: 344
+-migration 0
+-function result: 5.090116
+
+747. [Bird]
+-name: Whifhdnqubwbwtcy
+-weight: 481
+-migration 1
+-function result: 3.559252
+
+748. [Fish]
+-name: Jmjqhbjmjyfvtbmv
+-weight: 238
+-habitat 3
+-function result: 7.172269
+
+749. [Bird]
+-name: Zjqrfbfdxdxgmfkw
+-weight: 826
+-migration 0
+-function result: 2.064165
+
+750. [Beast]
+-name: Lkprltgxgibtafvd
+-weight: 603
+-diet 0
+-function result: 2.810945
+
+751. [Bird]
+-name: Msszgabdvxilmgqa
+-weight: 769
+-migration 0
+-function result: 2.210663
+
+752. [Bird]
+-name: Fimfdzxxaywmvykp
+-weight: 949
+-migration 0
+-function result: 1.846154
+
+753. [Fish]
+-name: Zionemyrdbvowpgw
+-weight: 509
+-habitat 3
+-function result: 3.420432
+
+754. [Bird]
+-name: Qrlntgrrtzhzlolm
+-weight: 586
+-migration 0
+-function result: 3.003413
+
+755. [Fish]
+-name: Runcmawflyqrtbbo
+-weight: 749
+-habitat 3
+-function result: 2.288385
+
+756. [Beast]
+-name: Miggavytlbrrbbly
+-weight: 498
+-diet 2
+-function result: 3.411647
+
+757. [Fish]
+-name: Hefihvfewlicdpqr
+-weight: 602
+-habitat 3
+-function result: 2.782392
+
+758. [Bird]
+-name: Utbxujqyyokcjgbe
+-weight: 493
+-migration 0
+-function result: 3.492901
+
+759. [Beast]
+-name: Mjdvmajkpvunlgcb
+-weight: 525
+-diet 2
+-function result: 3.209524
+
+760. [Fish]
+-name: Vmlqtzzrbuoiwqqy
+-weight: 628
+-habitat 0
+-function result: 2.845541
+
+761. [Fish]
+-name: Iyzurocacwepxejx
+-weight: 964
+-habitat 2
+-function result: 1.796680
+
+762. [Beast]
+-name: Jeglkctgavrygkjn
+-weight: 195
+-diet 1
+-function result: 8.651282
+
+763. [Beast]
+-name: Nxnttihvniogbjmv
+-weight: 248
+-diet 2
+-function result: 6.963710
+
+764. [Fish]
+-name: Gjzqxvdkgqyygmju
+-weight: 826
+-habitat 3
+-function result: 2.118644
+
+765. [Bird]
+-name: Grrpsmnruiclcipo
+-weight: 989
+-migration 0
+-function result: 1.734075
+
+766. [Fish]
+-name: Ijvjvdfevwrhjmrc
+-weight: 54
+-habitat 3
+-function result: 31.611111
+
+767. [Bird]
+-name: Ucsdskgxbotwuxhb
+-weight: 187
+-migration 1
+-function result: 9.235294
+
+768. [Fish]
+-name: Vandsewrnfwnszwg
+-weight: 168
+-habitat 0
+-function result: 10.369048
+
+769. [Fish]
+-name: Nuqfbkooqpowbpuf
+-weight: 684
+-habitat 2
+-function result: 2.516082
+
+770. [Beast]
+-name: Obdwxadysonqdgbn
+-weight: 385
+-diet 0
+-function result: 4.400000
+
+771. [Bird]
+-name: Erqooveibtuakbmu
+-weight: 851
+-migration 1
+-function result: 1.998825
+
+772. [Fish]
+-name: Viouhhdenowzyxez
+-weight: 798
+-habitat 3
+-function result: 2.197995
+
+773. [Bird]
+-name: Qpgnhobduwbzbdft
+-weight: 195
+-migration 1
+-function result: 8.671795
+
+774. [Fish]
+-name: Injruucocigrajyf
+-weight: 160
+-habitat 3
+-function result: 10.587500
+
+775. [Beast]
+-name: Gaigrnbcqjcwyvef
+-weight: 295
+-diet 1
+-function result: 5.681356
+
+776. [Bird]
+-name: Gteosbnbfvutghcj
+-weight: 437
+-migration 0
+-function result: 3.855835
+
+777. [Fish]
+-name: Nlsctwpopabjpliw
+-weight: 886
+-habitat 4
+-function result: 1.935666
+
+778. [Bird]
+-name: Ndgpzbbxomkcjdzl
+-weight: 193
+-migration 0
+-function result: 8.772021
+
+779. [Bird]
+-name: Dwmuwtidgdphkvex
+-weight: 58
+-migration 1
+-function result: 29.620690
+
+780. [Beast]
+-name: Trintjappsxgtyku
+-weight: 683
+-diet 0
+-function result: 2.569546
+
+781. [Bird]
+-name: Mjcrvbsamzlvztaw
+-weight: 219
+-migration 1
+-function result: 7.922374
+
+782. [Beast]
+-name: Jkfeoxkykdaobdcd
+-weight: 177
+-diet 2
+-function result: 9.350282
+
+783. [Beast]
+-name: Covkqsnhgcgbaios
+-weight: 448
+-diet 1
+-function result: 3.741071
+
+784. [Fish]
+-name: Erchtqdnlywpyviq
+-weight: 713
+-habitat 0
+-function result: 2.443198
+
+785. [Fish]
+-name: Gemkogqvqehdrcvr
+-weight: 191
+-habitat 0
+-function result: 8.879581
+
+786. [Fish]
+-name: Pqvdburjahmttyqq
+-weight: 968
+-habitat 1
+-function result: 1.792355
+
+787. [Beast]
+-name: Gtwrxunnugtkyfgv
+-weight: 886
+-diet 0
+-function result: 1.990971
+
+788. [Bird]
+-name: Kscinmqjlgccfnfk
+-weight: 306
+-migration 0
+-function result: 5.431373
+
+789. [Bird]
+-name: Xbabrglouyqprlrn
+-weight: 605
+-migration 0
+-function result: 2.852893
+
+790. [Bird]
+-name: Oteigeokdfwfqcby
+-weight: 625
+-migration 1
+-function result: 2.683200
+
+791. [Bird]
+-name: Byxvofglfmjxbmth
+-weight: 88
+-migration 1
+-function result: 19.465909
+
+792. [Fish]
+-name: Oxobhxrbnbewhgeh
+-weight: 566
+-habitat 1
+-function result: 2.975265
+
+793. [Beast]
+-name: Imxufhcgeqfvdmjy
+-weight: 717
+-diet 1
+-function result: 2.366806
+
+794. [Beast]
+-name: Aqtcyrbzzcyrjbus
+-weight: 372
+-diet 2
+-function result: 4.677419
+
+795. [Beast]
+-name: Vcmjoekrlzvngdhs
+-weight: 549
+-diet 1
+-function result: 3.120219
+
+796. [Bird]
+-name: Zzzlhojlcektmecj
+-weight: 102
+-migration 1
+-function result: 16.754902
+
+797. [Fish]
+-name: Nfdjjbazsvopqheo
+-weight: 954
+-habitat 1
+-function result: 1.775681
+
+798. [Fish]
+-name: Jethwmgwmvgpxutv
+-weight: 21
+-habitat 3
+-function result: 83.714286
+
+799. [Beast]
+-name: Pmnoqsgylgjndlbh
+-weight: 454
+-diet 1
+-function result: 3.742291
+
+800. [Bird]
+-name: Gvohtwrvfymybqnx
+-weight: 146
+-migration 1
+-function result: 12.089041
+
+801. [Bird]
+-name: Frrjdexwkksbdnme
+-weight: 44
+-migration 1
+-function result: 38.431818
+
+802. [Bird]
+-name: Mnkluvnxdblzdkys
+-weight: 219
+-migration 0
+-function result: 7.936073
+
+803. [Beast]
+-name: Vlvnxkiycztmivaa
+-weight: 679
+-diet 0
+-function result: 2.559647
+
+804. [Bird]
+-name: Fuabuxwymxiwtawl
+-weight: 409
+-migration 0
+-function result: 4.283619
+
+805. [Beast]
+-name: Pathuaorsgapjklm
+-weight: 96
+-diet 1
+-function result: 17.635417
+
+806. [Fish]
+-name: Zmvbxyuvgmgcbutu
+-weight: 360
+-habitat 0
+-function result: 4.869444
+
+807. [Fish]
+-name: Ugofgwkleouxcaty
+-weight: 93
+-habitat 2
+-function result: 18.494624
+
+808. [Fish]
+-name: Rsbvobdgiqqimilv
+-weight: 184
+-habitat 4
+-function result: 9.244565
+
+809. [Bird]
+-name: Ytnbsdbzxdmbpvbd
+-weight: 805
+-migration 0
+-function result: 2.115528
+
+810. [Beast]
+-name: Krfqndqzsbxrcbwf
+-weight: 40
+-diet 1
+-function result: 42.850000
+
+811. [Bird]
+-name: Dqerimxfbwpanfhd
+-weight: 898
+-migration 0
+-function result: 1.864143
+
+812. [Bird]
+-name: Qafipcfhvthcrqrx
+-weight: 173
+-migration 1
+-function result: 9.826590
+
+813. [Fish]
+-name: Kctijgdkpqskwwoi
+-weight: 569
+-habitat 4
+-function result: 3.008787
+
+814. [Bird]
+-name: Gxyorhticwgsotni
+-weight: 447
+-migration 0
+-function result: 3.892617
+
+815. [Bird]
+-name: Vzaljkqlxosqzmyn
+-weight: 4
+-migration 0
+-function result: 442.000000
+
+816. [Beast]
+-name: Mhwppvnwnwwhuzcq
+-weight: 166
+-diet 0
+-function result: 10.686747
+
+817. [Fish]
+-name: Hgfdjgbpoohrmtax
+-weight: 140
+-habitat 2
+-function result: 11.985714
+
+818. [Beast]
+-name: Rzqxfctchjpxcqwn
+-weight: 746
+-diet 1
+-function result: 2.327078
+
+819. [Fish]
+-name: Znzrgdkkoleejqdf
+-weight: 157
+-habitat 1
+-function result: 10.796178
+
+820. [Fish]
+-name: Wvacgtxyqqiqqydf
+-weight: 205
+-habitat 2
+-function result: 8.492683
+
+821. [Beast]
+-name: Ofmafzdntosdjkid
+-weight: 747
+-diet 1
+-function result: 2.250335
+
+822. [Bird]
+-name: Oivodqisbzimryrk
+-weight: 875
+-migration 0
+-function result: 1.984000
+
+823. [Fish]
+-name: Qzlyemsssqmivpby
+-weight: 271
+-habitat 2
+-function result: 6.505535
+
+824. [Fish]
+-name: Onnvultkjjzthqil
+-weight: 134
+-habitat 2
+-function result: 13.022388
+
+825. [Bird]
+-name: Cvczvjkuetxcknhx
+-weight: 639
+-migration 1
+-function result: 2.708920
+
+826. [Beast]
+-name: Qsxpppsewxwnueqo
+-weight: 991
+-diet 2
+-function result: 1.794147
+
+827. [Bird]
+-name: Hqfjxqmzvkwmogpf
+-weight: 182
+-migration 0
+-function result: 9.549451
+
+828. [Fish]
+-name: Nywxgeacxrwepiiq
+-weight: 76
+-habitat 1
+-function result: 22.723684
+
+829. [Beast]
+-name: Pvrcfsnusuwecjjl
+-weight: 743
+-diet 0
+-function result: 2.323015
+
+830. [Fish]
+-name: Mqflauccefeehuqt
+-weight: 177
+-habitat 4
+-function result: 9.418079
+
+831. [Bird]
+-name: Zphiwosewptcdqtm
+-weight: 698
+-migration 1
+-function result: 2.494269
+
+832. [Beast]
+-name: Bkhxgkzhtiqtxgio
+-weight: 752
+-diet 2
+-function result: 2.289894
+
+833. [Fish]
+-name: Eqdbczpddbattyuv
+-weight: 532
+-habitat 3
+-function result: 3.187970
+
+834. [Beast]
+-name: Jodxvippweskzawj
+-weight: 179
+-diet 1
+-function result: 9.709497
+
+835. [Fish]
+-name: Hhfscdromehncpbp
+-weight: 789
+-habitat 1
+-function result: 2.106464
+
+836. [Beast]
+-name: Ezzhklqxaplwumkp
+-weight: 259
+-diet 1
+-function result: 6.741313
+
+837. [Beast]
+-name: Knbuzggfkoqrezgc
+-weight: 732
+-diet 1
+-function result: 2.322404
+
+838. [Fish]
+-name: Qofqfqtssfwuqbys
+-weight: 300
+-habitat 4
+-function result: 5.843333
+
+839. [Bird]
+-name: Wpoyqediumvefmns
+-weight: 643
+-migration 0
+-function result: 2.692068
+
+840. [Beast]
+-name: Zrduunaqxkfxinhs
+-weight: 756
+-diet 2
+-function result: 2.302910
+
+841. [Fish]
+-name: Kqwhzbukaupzujro
+-weight: 818
+-habitat 2
+-function result: 2.140587
+
+842. [Fish]
+-name: Ulkabporpsdtypav
+-weight: 332
+-habitat 2
+-function result: 5.189759
+
+843. [Beast]
+-name: Wnvemhmczbadvope
+-weight: 897
+-diet 0
+-function result: 1.890747
+
+844. [Bird]
+-name: Pshwwuyqhqvaxxeq
+-weight: 293
+-migration 0
+-function result: 6.054608
+
+845. [Bird]
+-name: Uoxvyppkqacgbpls
+-weight: 204
+-migration 1
+-function result: 8.485294
+
+846. [Bird]
+-name: Jgsqkdppxzzyoryl
+-weight: 479
+-migration 1
+-function result: 3.705637
+
+847. [Beast]
+-name: Vyoenvpxnuhkczyf
+-weight: 839
+-diet 1
+-function result: 2.098927
+
+848. [Beast]
+-name: Mmzyrmytkyxfodms
+-weight: 754
+-diet 1
+-function result: 2.352785
+
+849. [Fish]
+-name: Fwmuqdswilnjniru
+-weight: 572
+-habitat 0
+-function result: 3.036713
+
+850. [Bird]
+-name: Vsalzlrvoqldtdyj
+-weight: 752
+-migration 1
+-function result: 2.317819
+
+851. [Bird]
+-name: Uiskvcytzywlwbzp
+-weight: 496
+-migration 0
+-function result: 3.602823
+
+852. [Fish]
+-name: Nxnvpjantjjawjbx
+-weight: 580
+-habitat 0
+-function result: 2.963793
+
+853. [Bird]
+-name: Bqwuxdkkfsuvrtgj
+-weight: 619
+-migration 1
+-function result: 2.810985
+
+854. [Fish]
+-name: Hcswiilcjtmafrro
+-weight: 373
+-habitat 4
+-function result: 4.533512
+
+855. [Beast]
+-name: Wzsysgcrwtswnnbn
+-weight: 346
+-diet 0
+-function result: 5.124277
+
+856. [Fish]
+-name: Mbnwgscjxxfpmtbo
+-weight: 101
+-habitat 2
+-function result: 16.980198
+
+857. [Bird]
+-name: Rarcjpdcdplftiqr
+-weight: 883
+-migration 1
+-function result: 1.901472
+
+858. [Beast]
+-name: Uvesxxksegksefxm
+-weight: 771
+-diet 0
+-function result: 2.255512
+
+859. [Bird]
+-name: Wrkveszeycqwxlln
+-weight: 553
+-migration 1
+-function result: 3.188065
+
+860. [Fish]
+-name: Nonushmvdmplykyi
+-weight: 739
+-habitat 4
+-function result: 2.361299
+
+861. [Fish]
+-name: Hvszhjpfswwbolzu
+-weight: 21
+-habitat 3
+-function result: 83.809524
+
+862. [Fish]
+-name: Rhylyjlbuwxywxyq
+-weight: 362
+-habitat 2
+-function result: 4.966851
+
+863. [Fish]
+-name: Cxqnsbujwverqnvi
+-weight: 873
+-habitat 4
+-function result: 1.997709
+
+864. [Beast]
+-name: Ozdkscfykpvylkuf
+-weight: 882
+-diet 0
+-function result: 1.969388
+
+865. [Bird]
+-name: Dbnijjycjnppsavn
+-weight: 275
+-migration 0
+-function result: 6.156364
+
+866. [Fish]
+-name: Eyrqqnbucwxglpxx
+-weight: 988
+-habitat 1
+-function result: 1.777328
+
+867. [Beast]
+-name: Qetpxoebjnrzodfa
+-weight: 12
+-diet 2
+-function result: 141.833333
+
+868. [Beast]
+-name: Sxaxluopbzetsucq
+-weight: 524
+-diet 2
+-function result: 3.337786
+
+869. [Bird]
+-name: Fskdokroszvjztrq
+-weight: 343
+-migration 0
+-function result: 5.134111
+
+870. [Bird]
+-name: Zapbvospelnnqxar
+-weight: 569
+-migration 0
+-function result: 3.033392
+
+871. [Beast]
+-name: Vuqjoyrveuqnname
+-weight: 921
+-diet 1
+-function result: 1.893594
+
+872. [Bird]
+-name: Aebcisvmmhzttldf
+-weight: 755
+-migration 0
+-function result: 2.234437
+
+873. [Beast]
+-name: Ujregceyragqqbrs
+-weight: 300
+-diet 0
+-function result: 5.656667
+
+874. [Fish]
+-name: Mnhigbxyglmfvglx
+-weight: 367
+-habitat 1
+-function result: 4.656676
+
+875. [Fish]
+-name: Mflmknanrzpzuvej
+-weight: 46
+-habitat 1
+-function result: 37.652174
+
+876. [Beast]
+-name: Sbekbuzewnoszajz
+-weight: 978
+-diet 1
+-function result: 1.767894
+
+877. [Beast]
+-name: Evpuikxfvftcypgz
+-weight: 587
+-diet 0
+-function result: 2.969336
+
+878. [Bird]
+-name: Wjenzsbdoybvqaur
+-weight: 191
+-migration 1
+-function result: 9.047120
+
+879. [Bird]
+-name: Usehrpmszbxbrqoa
+-weight: 992
+-migration 0
+-function result: 1.741935
+
+880. [Fish]
+-name: Klouwfmszmgerszc
+-weight: 592
+-habitat 2
+-function result: 2.940878
+
+881. [Fish]
+-name: Eebcvyatgajtntru
+-weight: 992
+-habitat 4
+-function result: 1.711694
+
+882. [Bird]
+-name: Ixzvwrtzlnqpzagh
+-weight: 362
+-migration 0
+-function result: 4.897790
+
+883. [Beast]
+-name: Wzcfgasmuohhohsd
+-weight: 329
+-diet 1
+-function result: 5.167173
+
+884. [Fish]
+-name: Zpylvprnfeqmtltf
+-weight: 702
+-habitat 0
+-function result: 2.495726
+
+885. [Fish]
+-name: Ziehowkjscuevznw
+-weight: 878
+-habitat 4
+-function result: 1.986333
+
+886. [Bird]
+-name: Uhkmqlfybghlxwme
+-weight: 477
+-migration 0
+-function result: 3.587002
+
+887. [Fish]
+-name: Phbaozasehczxmie
+-weight: 993
+-habitat 1
+-function result: 1.696878
+
+888. [Beast]
+-name: Qpoilyodkmntfzpn
+-weight: 434
+-diet 1
+-function result: 4.002304
+
+889. [Fish]
+-name: Bpupsfanjahrjpsh
+-weight: 49
+-habitat 2
+-function result: 34.469388
+
+890. [Beast]
+-name: Mtefoymgpguoukjv
+-weight: 49
+-diet 2
+-function result: 35.326531
+
+891. [Beast]
+-name: Ihijdttcouhptxjq
+-weight: 632
+-diet 1
+-function result: 2.718354
+
+892. [Beast]
+-name: Orduujidxymedewd
+-weight: 740
+-diet 2
+-function result: 2.309459
+
+893. [Fish]
+-name: Dbrrmyzufwbecgfv
+-weight: 748
+-habitat 3
+-function result: 2.279412
+
+894. [Beast]
+-name: Twaxidibgvhrguzm
+-weight: 880
+-diet 1
+-function result: 1.952273
+
+895. [Bird]
+-name: Pvtpbdohvlzmiovr
+-weight: 338
+-migration 0
+-function result: 5.159763
+
+896. [Fish]
+-name: Bhbybvebyerlkqqb
+-weight: 704
+-habitat 3
+-function result: 2.384943
+
+897. [Bird]
+-name: Gxnvfhbxyetaerlh
+-weight: 314
+-migration 1
+-function result: 5.429936
+
+898. [Bird]
+-name: Etdlvcdzfkpfkhwg
+-weight: 445
+-migration 1
+-function result: 3.793258
+
+899. [Bird]
+-name: Bxgwlohblnqcvovt
+-weight: 364
+-migration 0
+-function result: 4.730769
+
+900. [Fish]
+-name: Ytklphnphbwyostm
+-weight: 804
+-habitat 2
+-function result: 2.177861
+
+901. [Bird]
+-name: Jrqprxntmlqylkmn
+-weight: 72
+-migration 1
+-function result: 24.416667
+
+902. [Fish]
+-name: Rbioyhdobnxpwdbp
+-weight: 994
+-habitat 2
+-function result: 1.711268
+
+903. [Beast]
+-name: Nnpegbeoiivalofw
+-weight: 7
+-diet 1
+-function result: 239.857143
+
+904. [Beast]
+-name: Ajhrgpfdgqburvyy
+-weight: 588
+-diet 0
+-function result: 2.909864
+
+905. [Fish]
+-name: Nugjafdutwplpefb
+-weight: 843
+-habitat 1
+-function result: 2.002372
+
+906. [Bird]
+-name: Zeeutlfbcvcowwdz
+-weight: 215
+-migration 1
+-function result: 8.000000
+
+907. [Bird]
+-name: Zzaxwuyaqbrszrcy
+-weight: 59
+-migration 0
+-function result: 30.152542
+
+908. [Bird]
+-name: Sxhgejmmunolbvbi
+-weight: 516
+-migration 0
+-function result: 3.294574
+
+909. [Fish]
+-name: Eheoxmiwvpilvovg
+-weight: 478
+-habitat 0
+-function result: 3.621339
+
+910. [Bird]
+-name: Opgbvtvvpdudlfmu
+-weight: 736
+-migration 0
+-function result: 2.346467
+
+911. [Fish]
+-name: Ngistgjojubpmgym
+-weight: 375
+-habitat 3
+-function result: 4.565333
+
+912. [Fish]
+-name: Cobgwxwtchyobsjn
+-weight: 829
+-habitat 0
+-function result: 2.071170
+
+913. [Beast]
+-name: Goarhvxtatcjfpng
+-weight: 280
+-diet 1
+-function result: 6.057143
+
+914. [Bird]
+-name: Bvdayhdbdecjjitp
+-weight: 31
+-migration 0
+-function result: 53.193548
+
+915. [Beast]
+-name: Piuuewrgobyxjklu
+-weight: 102
+-diet 0
+-function result: 17.098039
+
+916. [Fish]
+-name: Pdcipypmcrjkgire
+-weight: 659
+-habitat 2
+-function result: 2.559939
+
+917. [Beast]
+-name: Qrqcibnbkegxhall
+-weight: 84
+-diet 1
+-function result: 19.833333
+
+918. [Beast]
+-name: Empawcxuqglfkxwy
+-weight: 708
+-diet 2
+-function result: 2.450565
+
+919. [Fish]
+-name: Layyiucjvgvvkysx
+-weight: 764
+-habitat 4
+-function result: 2.306283
+
+920. [Fish]
+-name: Mngyjvvwtabktybj
+-weight: 373
+-habitat 4
+-function result: 4.640751
+
+921. [Fish]
+-name: Mcwafullluoycnho
+-weight: 721
+-habitat 0
+-function result: 2.368932
+
+922. [Bird]
+-name: Jnnnxwnuukkhgvwl
+-weight: 170
+-migration 1
+-function result: 10.311765
+
+923. [Fish]
+-name: Pvhmnzdheyspkjsf
+-weight: 713
+-habitat 3
+-function result: 2.420757
+
+924. [Bird]
+-name: Koxzecwnvdiupsfz
+-weight: 309
+-migration 0
+-function result: 5.656958
+
+925. [Fish]
+-name: Evkjgvrbqvjqzyhy
+-weight: 251
+-habitat 2
+-function result: 6.976096
+
+926. [Bird]
+-name: Jjguxhzyplwiires
+-weight: 195
+-migration 1
+-function result: 8.953846
+
+927. [Bird]
+-name: Ulakyqquqgqccslr
+-weight: 93
+-migration 0
+-function result: 18.548387
+
+928. [Bird]
+-name: Qhvdehnjljkwomip
+-weight: 586
+-migration 0
+-function result: 2.902730
+
+929. [Beast]
+-name: Eqxfwhilzboyforv
+-weight: 441
+-diet 1
+-function result: 3.938776
+
+930. [Fish]
+-name: Phluejhkgotyzudu
+-weight: 125
+-habitat 0
+-function result: 13.872000
+
+931. [Beast]
+-name: Uuelfxmgezqdngrt
+-weight: 493
+-diet 1
+-function result: 3.496957
+
+932. [Fish]
+-name: Ggiwpzyoklmaekfx
+-weight: 748
+-habitat 2
+-function result: 2.292781
+
+933. [Bird]
+-name: Xmyntpiotqcvgysu
+-weight: 824
+-migration 0
+-function result: 2.152913
+
+934. [Fish]
+-name: Seysaqnrywnttryd
+-weight: 790
+-habitat 2
+-function result: 2.241772
+
+935. [Bird]
+-name: Yfhukihcyhdzjjdy
+-weight: 925
+-migration 1
+-function result: 1.845405
+
+936. [Bird]
+-name: Xlateobsbrymvtng
+-weight: 560
+-migration 0
+-function result: 3.076786
+
+937. [Fish]
+-name: Rjmhuyshkrcxjabn
+-weight: 488
+-habitat 0
+-function result: 3.502049
+
+938. [Beast]
+-name: Ikayvrkaljfkwowy
+-weight: 261
+-diet 2
+-function result: 6.616858
+
+939. [Fish]
+-name: Ovtchrkvgeewqieb
+-weight: 976
+-habitat 0
+-function result: 1.737705
+
+940. [Bird]
+-name: Tvfekxqhsqcueohw
+-weight: 619
+-migration 1
+-function result: 2.791599
+
+941. [Beast]
+-name: Vukjavfepisiifkk
+-weight: 7
+-diet 2
+-function result: 241.714286
+
+942. [Bird]
+-name: Nhuifjuuzsfcfmas
+-weight: 658
+-migration 1
+-function result: 2.594225
+
+943. [Beast]
+-name: Mthyhloxnwueeosi
+-weight: 844
+-diet 2
+-function result: 2.061611
+
+944. [Bird]
+-name: Szlxkyfrllomgvps
+-weight: 123
+-migration 1
+-function result: 14.317073
+
+945. [Fish]
+-name: Midmrpbhepwgdmez
+-weight: 835
+-habitat 4
+-function result: 2.019162
+
+946. [Bird]
+-name: Ptwokiioxhopmtrb
+-weight: 225
+-migration 0
+-function result: 7.724444
+
+947. [Fish]
+-name: Diqhohvetjedbjpa
+-weight: 593
+-habitat 3
+-function result: 2.799325
+
+948. [Beast]
+-name: Tezsbcvlgnefhpwi
+-weight: 963
+-diet 0
+-function result: 1.766355
+
+949. [Fish]
+-name: Nnfvplgxtuqwpmyq
+-weight: 324
+-habitat 3
+-function result: 5.466049
+
+950. [Beast]
+-name: Ciicdprelazhpxax
+-weight: 746
+-diet 0
+-function result: 2.256032
+
+951. [Fish]
+-name: Nlxbylunbgjaggzy
+-weight: 619
+-habitat 1
+-function result: 2.767367
+
+952. [Beast]
+-name: Dtubzqcqvhsikbrv
+-weight: 895
+-diet 1
+-function result: 1.927374
+
+953. [Beast]
+-name: Nnlpyqkxuverkqal
+-weight: 393
+-diet 2
+-function result: 4.437659
+
+954. [Bird]
+-name: Zzfvzyfyuazwrioq
+-weight: 323
+-migration 1
+-function result: 5.560372
+
+955. [Beast]
+-name: Lytewacbadomhgnk
+-weight: 510
+-diet 0
+-function result: 3.270588
+
+956. [Beast]
+-name: Aviujfvzmjrcuivd
+-weight: 801
+-diet 1
+-function result: 2.148564
+
+957. [Beast]
+-name: Tezgbazrfwfheitd
+-weight: 458
+-diet 0
+-function result: 3.689956
+
+958. [Bird]
+-name: Zvllhynrmogezevk
+-weight: 698
+-migration 0
+-function result: 2.500000
+
+959. [Fish]
+-name: Pngfjsacijichtxr
+-weight: 314
+-habitat 0
+-function result: 5.353503
+
+960. [Bird]
+-name: Znxiosbrbwdjdokn
+-weight: 169
+-migration 1
+-function result: 10.142012
+
+961. [Bird]
+-name: Xzlmmvvntdzqfpvi
+-weight: 127
+-migration 0
+-function result: 13.937008
+
+962. [Beast]
+-name: Gncvodqmxfvhzviz
+-weight: 917
+-diet 2
+-function result: 1.899673
+
+963. [Beast]
+-name: Rwxetiukpszrswaj
+-weight: 231
+-diet 0
+-function result: 7.649351
+
+964. [Beast]
+-name: Ogrnntiggchnjhas
+-weight: 659
+-diet 0
+-function result: 2.546282
+
+965. [Beast]
+-name: Prodmsenwopfrevc
+-weight: 871
+-diet 2
+-function result: 1.970149
+
+966. [Beast]
+-name: Zzwnczfkeyqjtwnr
+-weight: 636
+-diet 1
+-function result: 2.784591
+
+967. [Fish]
+-name: Nwepphzlzexpzakc
+-weight: 107
+-habitat 0
+-function result: 16.224299
+
+968. [Bird]
+-name: Zayvipibpazivnrq
+-weight: 317
+-migration 0
+-function result: 5.479495
+
+969. [Bird]
+-name: Ekvoxieyvlgaziab
+-weight: 259
+-migration 1
+-function result: 6.563707
+
+970. [Beast]
+-name: Ynehjfkdgclnyyvm
+-weight: 969
+-diet 1
+-function result: 1.762642
+
+971. [Bird]
+-name: Golomirqjjzjhzik
+-weight: 555
+-migration 1
+-function result: 3.099099
+
+972. [Fish]
+-name: Yurtdinrlqvtlcmw
+-weight: 48
+-habitat 3
+-function result: 36.562500
+
+973. [Beast]
+-name: Gopgminkiwhnqodm
+-weight: 595
+-diet 1
+-function result: 2.855462
+
+974. [Fish]
+-name: Zpcgvunqmrydtlzd
+-weight: 197
+-habitat 3
+-function result: 8.893401
+
+975. [Beast]
+-name: Cdsnminqpbcpebxu
+-weight: 126
+-diet 1
+-function result: 13.380952
+
+976. [Bird]
+-name: Hdfsjwurjtangfuf
+-weight: 561
+-migration 0
+-function result: 3.026738
+
+977. [Beast]
+-name: Bheeteuddizxytmz
+-weight: 506
+-diet 0
+-function result: 3.401186
+
+978. [Beast]
+-name: Ljyqgdednhiavqbq
+-weight: 790
+-diet 2
+-function result: 2.124051
+
+979. [Fish]
+-name: Wepncxcyzhponwer
+-weight: 992
+-habitat 2
+-function result: 1.756048
+
+980. [Bird]
+-name: Psomafcjykbkpwux
+-weight: 943
+-migration 1
+-function result: 1.823966
+
+981. [Bird]
+-name: Aiovcwtmvgtgcmgr
+-weight: 519
+-migration 0
+-function result: 3.289017
+
+982. [Bird]
+-name: Pfdhuqggflonbtgo
+-weight: 967
+-migration 0
+-function result: 1.738366
+
+983. [Beast]
+-name: Hpziynvcikdvvuot
+-weight: 694
+-diet 1
+-function result: 2.523055
+
+984. [Bird]
+-name: Ahjyjvrmzooqdagj
+-weight: 247
+-migration 0
+-function result: 6.906883
+
+985. [Fish]
+-name: Xmpjtlvfmuxjjxck
+-weight: 84
+-habitat 2
+-function result: 20.750000
+
+986. [Fish]
+-name: Feipbnysedyhhhry
+-weight: 943
+-habitat 2
+-function result: 1.803818
+
+987. [Beast]
+-name: Eyxkoyxagwnilygi
+-weight: 365
+-diet 2
+-function result: 4.767123
+
+988. [Beast]
+-name: Isedolmiebwapqvs
+-weight: 453
+-diet 0
+-function result: 3.741722
+
+989. [Bird]
+-name: Ktgvyzhmbphpcolp
+-weight: 826
+-migration 0
+-function result: 2.087167
+
+990. [Bird]
+-name: Czvejlgembmiaqei
+-weight: 246
+-migration 1
+-function result: 6.760163
+
+991. [Bird]
+-name: Hqywyjonfhswfpnv
+-weight: 281
+-migration 1
+-function result: 6.245552
+
+992. [Beast]
+-name: Bvcalbcvasbikjtn
+-weight: 61
+-diet 1
+-function result: 27.163934
+
+993. [Bird]
+-name: Iwpvfphqocgijfxd
+-weight: 596
+-migration 0
+-function result: 2.850671
+
+994. [Beast]
+-name: Zyjzjeyfoyeudxzd
+-weight: 557
+-diet 1
+-function result: 3.161580
+
+995. [Beast]
+-name: Fhkknqezftiorttf
+-weight: 507
+-diet 2
+-function result: 3.384615
+
+996. [Bird]
+-name: Ifwpwaafxmmqjhfm
+-weight: 194
+-migration 0
+-function result: 8.726804
+
+997. [Beast]
+-name: Kbssuondsadnftnd
+-weight: 84
+-diet 0
+-function result: 20.130952
+
+998. [Fish]
+-name: Bwdfwtbbaulffdbn
+-weight: 373
+-habitat 2
+-function result: 4.428954
+
+999. [Beast]
+-name: Ajcvpxvpocbvsuye
+-weight: 90
+-diet 1
+-function result: 19.222222
+
+1000. [Beast]
+-name: Jwyocavmfyhhvnng
+-weight: 406
+-diet 0
+-function result: 4.236453
+

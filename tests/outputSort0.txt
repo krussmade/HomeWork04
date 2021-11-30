@@ -1,0 +1,55 @@
+Sorted container complete:
+1. [Beast]
+-name: abcd
+-weight: 100
+-diet 0
+-function result: 3.940000
+
+2. [Bird]
+-name: abcd
+-weight: 100
+-migration 0
+-function result: 3.940000
+
+3. [Fish]
+-name: abcd
+-weight: 100
+-habitat 0
+-function result: 3.940000
+
+4. [Beast]
+-name: abcd
+-weight: 100
+-diet 0
+-function result: 3.940000
+
+5. [Bird]
+-name: abcd
+-weight: 100
+-migration 0
+-function result: 3.940000
+
+6. [Fish]
+-name: abcd
+-weight: 100
+-habitat 0
+-function result: 3.940000
+
+7. [Beast]
+-name: abcd
+-weight: 100
+-diet 0
+-function result: 3.940000
+
+8. [Bird]
+-name: abcd
+-weight: 100
+-migration 0
+-function result: 3.940000
+
+9. [Fish]
+-name: abcd
+-weight: 100
+-habitat 0
+-function result: 3.940000
+
