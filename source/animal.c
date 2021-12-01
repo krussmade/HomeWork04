@@ -50,28 +50,28 @@ struct animal *readAnimal(FILE *in) {
 
 struct animal *fillAnimal() {
     struct animal *a;
-    int k = XorRand() % 3;
+    int k = rand() % 3;
     switch (k) {
         case 0:
             a = malloc(sizeof(struct animal));
             a->k = FISH;
-            a->weight = XorRand() % 100 + 10;
+            a->weight = rand() % 100 + 10;
             randStr(a->name, NAME_SIZE);
-            a->someFish.habitat = (XorRand() % 5);
+            a->someFish.habitat = (rand() % 5);
             return a;
         case 1:
             a = malloc(sizeof(struct animal));
             a->k = BIRD;
-            a->weight = XorRand() % 10 + 10;
+            a->weight = rand() % 10 + 10;
             randStr(a->name, NAME_SIZE);
-            a->someBird.is_migration = (XorRand() % 2);
+            a->someBird.is_migration = (rand() % 2);
             return a;
         case 2:
             a = malloc(sizeof(struct animal));
             a->k = BEAST;
-            a->weight = XorRand() % 100 + 10;
+            a->weight = rand() % 100 + 10;
             randStr(a->name, NAME_SIZE);
-            a->someBeast.diet = (XorRand() % 3);
+            a->someBeast.diet = (rand() % 3);
             return a;
         default:
             return NULL;
