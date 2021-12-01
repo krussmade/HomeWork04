@@ -18,7 +18,8 @@ void randStr(char *src, int size) {
     const char alphabet[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJMNOPQRSTUVWXYZ";
     const int length_alphabet = sizeof(alphabet) / sizeof(alphabet[0]);
 
-    for (int i = 0; i < size; ++i) {
+    for (int i = 0; i < size - 1; ++i) {
         src[i] = alphabet[XorRand() % length_alphabet];
     }
+    src[size - 1] = '\0';
 }
