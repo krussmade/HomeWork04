@@ -5,23 +5,23 @@
 
 struct container {
     int count;
-    animal *data[MAX_LEN];
+    struct animal *data[MAX_LEN];
 };
 
-void init(container *container);
+void init(struct container *container);
 
-void clear(container *container);
+void clear(struct container *container);
 
-void fill(container *container, int count);
+void fillRnd(struct container *container, int count);
 
-void fill(container *container, FILE *in);
+void fill(struct container *container, FILE *in);
 
-void out(container *container, FILE *out);
+void out(struct container *container, FILE *out);
 
-extern void swap(animal *a, animal *b);
+extern void swap(struct animal *a, struct animal *b);
 
-extern void heapify(container *c, int n, int i);
+extern void heapify(struct container *c, int n, int i);
 
-extern void heapSort(container *container);
+extern void heapSort(struct container *container);
 
 #endif //ANIMALS_CONTAINER_H

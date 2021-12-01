@@ -1,12 +1,9 @@
 #ifndef ANIMALS_UTILS_H
 #define ANIMALS_UTILS_H
 
-struct seed_t {
-    unsigned x = 1; // начальные значения могут быть любыми
-    unsigned y = 123;
-    unsigned z = 456;
-    unsigned w = 768;
-};
+#define bool int
+#define true 1
+#define false 0
 
 unsigned int XorRand();
 

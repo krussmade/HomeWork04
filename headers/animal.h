@@ -1,7 +1,8 @@
 #ifndef ANIMALS_ANIMAL_H
 #define ANIMALS_ANIMAL_H
-
-#include <cstdio>
+#include <string.h>
+#include <stdlib.h>
+#include "stdio.h"
 #include "constants.h"
 #include "utils.h"
 
@@ -10,8 +11,7 @@ struct beast {
         PREDATOR = 0,
         HERBIVOROUS = 1,
         INSECTIVORES = 2
-    };
-    Diet diet;
+    } diet;
 };
 
 struct bird {
@@ -25,30 +25,28 @@ struct fish {
         RIVER = 2,
         OCEAN = 3,
         POND = 4
-    };
-    Habitat habitat;
+    } habitat;
 };
 
 struct animal {
     enum key {
         FISH = 0, BIRD = 1, BEAST = 2
-    };
+    } k;
     union {
-        fish someFish;
-        bird someBird;
-        beast someBeast;
+        struct fish someFish;
+        struct bird someBird;
+        struct beast someBeast;
     };
     char name[NAME_SIZE];
     int weight;
-    key k;
 };
 
-animal *readAnimal(FILE *in);
+struct animal *readAnimal(FILE *in);
 
-animal *fillAnimal();
+struct animal *fillAnimal();
 
-void outAnimal(animal *a, FILE *out);
+void outAnimal(struct animal *a, FILE *out);
 
-extern double someParameter(animal *someAnimal);
+extern double someParameter(struct animal *someAnimal);
 
 #endif //ANIMALS_ANIMAL_H
