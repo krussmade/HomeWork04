@@ -1,0 +1,15 @@
+Отчет объем
+
+animal.h		(938 байт)
+constants.h     	(137 байт)
+container.h     	(610 байт)
+utils.h 		(169 байт)
+
+animal.c		(3 910 байт)
+container.c		(1 841 байт)
+utils.c			(208 байт)
+
+main.c			(320 байт)
+task_functions.asm 	(6 581 байт)
+
+Всего:  		15618 байт
