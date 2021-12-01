@@ -1,55 +1,6001 @@
 Filled container:
 1. [Fish]
--name: abcd
--weight: 100
--habitat 0
--function result: 3.940000
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
 
 2. [Beast]
--name: abcd
--weight: 100
--diet 0
--function result: 3.940000
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
 
 3. [Bird]
--name: abcd
--weight: 100
+-name: abcdad
+-weight: 123
 -migration 0
--function result: 3.940000
+-function result: 4.804878
 
 4. [Fish]
--name: abcd
--weight: 100
--habitat 0
--function result: 3.940000
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
 
 5. [Beast]
--name: abcd
--weight: 100
--diet 0
--function result: 3.940000
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
 
 6. [Bird]
--name: abcd
--weight: 100
+-name: absdcd
+-weight: 234
 -migration 0
--function result: 3.940000
+-function result: 2.602564
 
 7. [Fish]
--name: abcd
--weight: 100
--habitat 0
--function result: 3.940000
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
 
 8. [Beast]
--name: abcd
--weight: 100
+-name: abdscd
+-weight: 657
 -diet 0
--function result: 3.940000
+-function result: 0.926941
 
 9. [Bird]
--name: abcd
--weight: 100
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+10. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+11. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+12. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+13. [Bird]
+-name: abcdad
+-weight: 123
 -migration 0
--function result: 3.940000
+-function result: 4.804878
+
+14. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+15. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+16. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+17. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+18. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+19. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+20. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+21. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+22. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+23. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+24. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+25. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+26. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+27. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+28. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+29. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+30. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+31. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+32. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+33. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+34. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+35. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+36. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+37. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+38. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+39. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+40. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+41. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+42. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+43. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+44. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+45. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+46. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+47. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+48. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+49. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+50. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+51. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+52. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+53. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+54. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+55. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+56. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+57. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+58. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+59. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+60. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+61. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+62. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+63. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+64. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+65. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+66. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+67. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+68. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+69. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+70. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+71. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+72. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+73. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+74. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+75. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+76. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+77. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+78. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+79. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+80. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+81. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+82. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+83. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+84. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+85. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+86. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+87. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+88. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+89. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+90. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+91. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+92. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+93. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+94. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+95. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+96. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+97. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+98. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+99. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+100. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+101. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+102. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+103. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+104. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+105. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+106. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+107. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+108. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+109. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+110. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+111. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+112. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+113. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+114. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+115. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+116. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+117. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+118. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+119. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+120. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+121. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+122. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+123. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+124. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+125. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+126. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+127. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+128. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+129. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+130. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+131. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+132. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+133. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+134. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+135. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+136. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+137. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+138. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+139. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+140. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+141. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+142. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+143. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+144. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+145. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+146. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+147. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+148. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+149. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+150. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+151. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+152. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+153. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+154. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+155. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+156. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+157. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+158. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+159. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+160. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+161. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+162. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+163. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+164. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+165. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+166. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+167. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+168. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+169. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+170. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+171. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+172. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+173. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+174. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+175. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+176. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+177. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+178. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+179. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+180. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+181. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+182. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+183. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+184. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+185. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+186. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+187. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+188. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+189. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+190. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+191. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+192. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+193. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+194. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+195. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+196. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+197. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+198. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+199. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+200. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+201. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+202. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+203. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+204. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+205. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+206. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+207. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+208. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+209. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+210. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+211. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+212. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+213. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+214. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+215. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+216. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+217. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+218. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+219. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+220. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+221. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+222. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+223. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+224. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+225. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+226. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+227. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+228. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+229. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+230. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+231. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+232. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+233. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+234. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+235. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+236. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+237. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+238. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+239. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+240. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+241. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+242. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+243. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+244. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+245. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+246. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+247. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+248. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+249. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+250. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+251. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+252. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+253. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+254. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+255. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+256. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+257. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+258. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+259. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+260. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+261. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+262. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+263. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+264. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+265. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+266. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+267. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+268. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+269. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+270. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+271. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+272. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+273. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+274. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+275. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+276. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+277. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+278. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+279. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+280. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+281. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+282. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+283. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+284. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+285. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+286. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+287. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+288. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+289. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+290. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+291. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+292. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+293. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+294. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+295. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+296. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+297. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+298. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+299. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+300. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+301. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+302. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+303. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+304. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+305. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+306. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+307. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+308. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+309. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+310. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+311. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+312. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+313. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+314. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+315. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+316. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+317. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+318. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+319. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+320. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+321. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+322. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+323. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+324. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+325. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+326. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+327. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+328. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+329. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+330. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+331. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+332. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+333. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+334. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+335. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+336. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+337. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+338. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+339. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+340. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+341. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+342. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+343. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+344. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+345. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+346. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+347. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+348. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+349. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+350. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+351. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+352. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+353. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+354. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+355. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+356. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+357. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+358. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+359. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+360. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+361. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+362. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+363. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+364. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+365. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+366. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+367. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+368. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+369. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+370. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+371. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+372. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+373. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+374. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+375. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+376. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+377. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+378. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+379. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+380. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+381. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+382. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+383. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+384. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+385. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+386. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+387. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+388. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+389. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+390. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+391. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+392. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+393. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+394. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+395. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+396. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+397. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+398. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+399. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+400. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+401. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+402. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+403. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+404. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+405. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+406. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+407. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+408. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+409. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+410. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+411. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+412. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+413. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+414. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+415. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+416. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+417. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+418. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+419. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+420. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+421. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+422. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+423. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+424. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+425. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+426. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+427. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+428. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+429. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+430. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+431. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+432. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+433. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+434. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+435. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+436. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+437. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+438. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+439. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+440. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+441. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+442. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+443. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+444. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+445. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+446. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+447. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+448. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+449. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+450. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+451. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+452. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+453. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+454. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+455. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+456. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+457. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+458. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+459. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+460. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+461. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+462. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+463. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+464. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+465. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+466. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+467. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+468. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+469. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+470. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+471. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+472. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+473. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+474. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+475. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+476. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+477. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+478. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+479. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+480. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+481. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+482. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+483. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+484. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+485. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+486. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+487. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+488. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+489. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+490. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+491. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+492. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+493. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+494. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+495. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+496. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+497. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+498. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+499. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+500. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+501. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+502. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+503. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+504. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+505. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+506. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+507. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+508. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+509. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+510. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+511. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+512. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+513. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+514. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+515. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+516. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+517. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+518. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+519. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+520. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+521. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+522. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+523. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+524. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+525. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+526. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+527. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+528. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+529. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+530. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+531. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+532. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+533. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+534. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+535. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+536. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+537. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+538. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+539. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+540. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+541. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+542. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+543. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+544. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+545. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+546. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+547. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+548. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+549. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+550. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+551. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+552. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+553. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+554. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+555. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+556. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+557. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+558. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+559. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+560. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+561. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+562. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+563. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+564. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+565. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+566. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+567. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+568. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+569. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+570. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+571. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+572. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+573. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+574. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+575. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+576. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+577. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+578. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+579. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+580. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+581. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+582. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+583. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+584. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+585. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+586. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+587. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+588. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+589. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+590. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+591. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+592. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+593. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+594. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+595. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+596. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+597. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+598. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+599. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+600. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+601. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+602. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+603. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+604. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+605. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+606. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+607. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+608. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+609. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+610. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+611. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+612. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+613. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+614. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+615. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+616. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+617. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+618. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+619. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+620. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+621. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+622. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+623. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+624. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+625. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+626. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+627. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+628. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+629. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+630. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+631. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+632. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+633. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+634. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+635. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+636. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+637. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+638. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+639. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+640. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+641. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+642. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+643. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+644. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+645. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+646. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+647. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+648. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+649. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+650. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+651. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+652. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+653. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+654. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+655. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+656. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+657. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+658. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+659. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+660. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+661. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+662. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+663. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+664. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+665. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+666. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+667. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+668. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+669. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+670. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+671. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+672. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+673. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+674. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+675. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+676. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+677. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+678. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+679. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+680. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+681. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+682. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+683. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+684. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+685. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+686. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+687. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+688. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+689. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+690. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+691. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+692. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+693. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+694. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+695. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+696. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+697. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+698. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+699. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+700. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+701. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+702. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+703. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+704. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+705. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+706. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+707. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+708. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+709. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+710. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+711. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+712. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+713. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+714. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+715. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+716. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+717. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+718. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+719. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+720. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+721. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+722. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+723. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+724. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+725. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+726. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+727. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+728. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+729. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+730. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+731. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+732. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+733. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+734. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+735. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+736. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+737. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+738. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+739. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+740. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+741. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+742. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+743. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+744. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+745. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+746. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+747. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+748. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+749. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+750. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+751. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+752. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+753. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+754. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+755. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+756. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+757. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+758. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+759. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+760. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+761. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+762. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+763. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+764. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+765. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+766. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+767. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+768. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+769. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+770. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+771. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+772. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+773. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+774. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+775. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+776. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+777. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+778. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+779. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+780. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+781. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+782. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+783. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+784. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+785. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+786. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+787. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+788. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+789. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+790. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+791. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+792. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+793. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+794. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+795. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+796. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+797. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+798. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+799. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+800. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+801. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+802. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+803. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+804. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+805. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+806. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+807. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+808. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+809. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+810. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+811. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+812. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+813. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+814. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+815. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+816. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+817. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+818. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+819. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+820. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+821. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+822. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+823. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+824. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+825. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+826. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+827. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+828. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+829. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+830. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+831. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+832. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+833. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+834. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+835. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+836. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+837. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+838. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+839. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+840. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+841. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+842. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+843. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+844. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+845. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+846. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+847. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+848. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+849. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+850. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+851. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+852. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+853. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+854. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+855. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+856. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+857. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+858. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+859. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+860. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+861. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+862. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+863. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+864. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+865. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+866. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+867. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+868. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+869. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+870. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+871. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+872. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+873. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+874. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+875. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+876. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+877. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+878. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+879. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+880. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+881. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+882. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+883. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+884. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+885. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+886. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+887. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+888. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+889. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+890. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+891. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+892. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+893. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+894. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+895. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+896. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+897. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+898. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+899. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+900. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+901. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+902. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+903. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+904. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+905. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+906. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+907. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+908. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+909. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+910. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+911. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+912. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+913. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+914. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+915. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+916. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+917. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+918. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+919. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+920. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+921. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+922. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+923. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+924. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+925. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+926. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+927. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+928. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+929. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+930. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+931. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+932. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+933. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+934. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+935. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+936. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+937. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+938. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+939. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+940. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+941. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+942. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+943. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+944. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+945. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+946. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+947. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+948. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+949. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+950. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+951. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+952. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+953. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+954. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+955. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+956. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+957. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+958. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+959. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+960. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+961. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+962. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+963. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+964. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+965. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+966. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+967. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+968. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+969. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+970. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+971. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+972. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+973. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+974. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+975. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+976. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+977. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+978. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+979. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+980. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+981. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+982. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+983. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+984. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+985. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+986. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+987. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+988. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+989. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+990. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+991. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+992. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+993. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+994. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+995. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+996. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+997. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+998. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+999. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+1000. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
 
