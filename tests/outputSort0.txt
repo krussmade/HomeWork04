@@ -1,55 +1,6001 @@
-Sorted container complete:
+Sorted container:
 1. [Beast]
--name: abcd
--weight: 100
+-name: abdscd
+-weight: 657
 -diet 0
--function result: 3.940000
+-function result: 0.926941
 
-2. [Bird]
--name: abcd
--weight: 100
--migration 0
--function result: 3.940000
+2. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
 
-3. [Fish]
--name: abcd
--weight: 100
--habitat 0
--function result: 3.940000
+3. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
 
 4. [Beast]
--name: abcd
--weight: 100
+-name: abdscd
+-weight: 657
 -diet 0
--function result: 3.940000
+-function result: 0.926941
 
-5. [Bird]
--name: abcd
--weight: 100
--migration 0
--function result: 3.940000
+5. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
 
-6. [Fish]
--name: abcd
--weight: 100
--habitat 0
--function result: 3.940000
+6. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
 
 7. [Beast]
--name: abcd
--weight: 100
+-name: abdscd
+-weight: 657
 -diet 0
--function result: 3.940000
+-function result: 0.926941
 
-8. [Bird]
--name: abcd
--weight: 100
+8. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+9. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+10. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+11. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+12. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+13. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+14. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+15. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+16. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+17. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+18. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+19. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+20. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+21. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+22. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+23. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+24. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+25. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+26. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+27. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+28. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+29. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+30. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+31. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+32. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+33. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+34. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+35. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+36. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+37. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+38. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+39. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+40. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+41. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+42. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+43. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+44. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+45. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+46. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+47. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+48. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+49. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+50. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+51. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+52. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+53. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+54. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+55. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+56. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+57. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+58. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+59. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+60. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+61. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+62. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+63. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+64. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+65. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+66. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+67. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+68. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+69. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+70. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+71. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+72. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+73. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+74. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+75. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+76. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+77. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+78. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+79. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+80. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+81. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+82. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+83. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+84. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+85. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+86. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+87. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+88. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+89. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+90. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+91. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+92. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+93. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+94. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+95. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+96. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+97. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+98. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+99. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+100. [Beast]
+-name: abdscd
+-weight: 657
+-diet 0
+-function result: 0.926941
+
+101. [Bird]
+-name: absdcd
+-weight: 234
 -migration 0
--function result: 3.940000
+-function result: 2.602564
 
-9. [Fish]
--name: abcd
--weight: 100
+102. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+103. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+104. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+105. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+106. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+107. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+108. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+109. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+110. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+111. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+112. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+113. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+114. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+115. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+116. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+117. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+118. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+119. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+120. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+121. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+122. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+123. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+124. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+125. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+126. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+127. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+128. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+129. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+130. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+131. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+132. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+133. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+134. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+135. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+136. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+137. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+138. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+139. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+140. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+141. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+142. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+143. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+144. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+145. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+146. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+147. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+148. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+149. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+150. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+151. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+152. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+153. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+154. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+155. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+156. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+157. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+158. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+159. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+160. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+161. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+162. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+163. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+164. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+165. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+166. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+167. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+168. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+169. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+170. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+171. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+172. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+173. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+174. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+175. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+176. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+177. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+178. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+179. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+180. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+181. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+182. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+183. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+184. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+185. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+186. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+187. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+188. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+189. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+190. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+191. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+192. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+193. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+194. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+195. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+196. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+197. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+198. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+199. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+200. [Bird]
+-name: absdcd
+-weight: 234
+-migration 0
+-function result: 2.602564
+
+201. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+202. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+203. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+204. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+205. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+206. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+207. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+208. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+209. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+210. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+211. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+212. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+213. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+214. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+215. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+216. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+217. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+218. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+219. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+220. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+221. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+222. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+223. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+224. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+225. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+226. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+227. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+228. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+229. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+230. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+231. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+232. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+233. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+234. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+235. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+236. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+237. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+238. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+239. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+240. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+241. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+242. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+243. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+244. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+245. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+246. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+247. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+248. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+249. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+250. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+251. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+252. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+253. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+254. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+255. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+256. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+257. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+258. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+259. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+260. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+261. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+262. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+263. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+264. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+265. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+266. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+267. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+268. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+269. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+270. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+271. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+272. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+273. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+274. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+275. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+276. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+277. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+278. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+279. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+280. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+281. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+282. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+283. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+284. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+285. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+286. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+287. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+288. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+289. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+290. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+291. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+292. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+293. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+294. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+295. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+296. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+297. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+298. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+299. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+300. [Bird]
+-name: abcdad
+-weight: 123
+-migration 0
+-function result: 4.804878
+
+301. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+302. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+303. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+304. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+305. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+306. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+307. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+308. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+309. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+310. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+311. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+312. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+313. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+314. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+315. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+316. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+317. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+318. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+319. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+320. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+321. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+322. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+323. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+324. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+325. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+326. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+327. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+328. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+329. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+330. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+331. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+332. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+333. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+334. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+335. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+336. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+337. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+338. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+339. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+340. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+341. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+342. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+343. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+344. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+345. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+346. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+347. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+348. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+349. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+350. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+351. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+352. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+353. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+354. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+355. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+356. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+357. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+358. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+359. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+360. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+361. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+362. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+363. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+364. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+365. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+366. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+367. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+368. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+369. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+370. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+371. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+372. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+373. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+374. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+375. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+376. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+377. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+378. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+379. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+380. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+381. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+382. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+383. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+384. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+385. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+386. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+387. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+388. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+389. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+390. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+391. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+392. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+393. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+394. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+395. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+396. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+397. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+398. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+399. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+400. [Fish]
+-name: aasbcd
+-weight: 125
+-habitat 1
+-function result: 4.848000
+
+401. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+402. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+403. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+404. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+405. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+406. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+407. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+408. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+409. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+410. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+411. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+412. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+413. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+414. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+415. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+416. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+417. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+418. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+419. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+420. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+421. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+422. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+423. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+424. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+425. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+426. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+427. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+428. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+429. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+430. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+431. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+432. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+433. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+434. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+435. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+436. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+437. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+438. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+439. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+440. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+441. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+442. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+443. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+444. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+445. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+446. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+447. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+448. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+449. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+450. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+451. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+452. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+453. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+454. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+455. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+456. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+457. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+458. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+459. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+460. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+461. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+462. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+463. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+464. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+465. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+466. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+467. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+468. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+469. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+470. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+471. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+472. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+473. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+474. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+475. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+476. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+477. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+478. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+479. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+480. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+481. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+482. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+483. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+484. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+485. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+486. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+487. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+488. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+489. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+490. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+491. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+492. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+493. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+494. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+495. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+496. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+497. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+498. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+499. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+500. [Fish]
+-name: abasdcd
+-weight: 123
+-habitat 1
+-function result: 5.739837
+
+501. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+502. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+503. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+504. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+505. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+506. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+507. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+508. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+509. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+510. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+511. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+512. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+513. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+514. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+515. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+516. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+517. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+518. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+519. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+520. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+521. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+522. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+523. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+524. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+525. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+526. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+527. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+528. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+529. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+530. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+531. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+532. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+533. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+534. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+535. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+536. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+537. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+538. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+539. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+540. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+541. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+542. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+543. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+544. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+545. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+546. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+547. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+548. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+549. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+550. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+551. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+552. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+553. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+554. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+555. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+556. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+557. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+558. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+559. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+560. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+561. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+562. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+563. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+564. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+565. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+566. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+567. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+568. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+569. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+570. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+571. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+572. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+573. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+574. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+575. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+576. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+577. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+578. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+579. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+580. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+581. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+582. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+583. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+584. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+585. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+586. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+587. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+588. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+589. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+590. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+591. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+592. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+593. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+594. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+595. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+596. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+597. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+598. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+599. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+600. [Beast]
+-name: abacd
+-weight: 76
+-diet 1
+-function result: 6.460526
+
+601. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+602. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+603. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+604. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+605. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+606. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+607. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+608. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+609. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+610. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+611. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+612. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+613. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+614. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+615. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+616. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+617. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+618. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+619. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+620. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+621. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+622. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+623. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+624. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+625. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+626. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+627. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+628. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+629. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+630. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+631. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+632. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+633. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+634. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+635. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+636. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+637. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+638. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+639. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+640. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+641. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+642. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+643. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+644. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+645. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+646. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+647. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+648. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+649. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+650. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+651. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+652. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+653. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+654. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+655. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+656. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+657. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+658. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+659. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+660. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+661. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+662. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+663. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+664. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+665. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+666. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+667. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+668. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+669. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+670. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+671. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+672. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+673. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+674. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+675. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+676. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+677. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+678. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+679. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+680. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+681. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+682. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+683. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+684. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+685. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+686. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+687. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+688. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+689. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+690. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+691. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+692. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+693. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+694. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+695. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+696. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+697. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+698. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+699. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+700. [Fish]
+-name: abacd
+-weight: 67
+-habitat 1
+-function result: 7.328358
+
+701. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+702. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+703. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+704. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+705. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+706. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+707. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+708. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+709. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+710. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+711. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+712. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+713. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+714. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+715. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+716. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+717. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+718. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+719. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+720. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+721. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+722. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+723. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+724. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+725. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+726. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+727. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+728. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+729. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+730. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+731. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+732. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+733. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+734. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+735. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+736. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+737. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+738. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+739. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+740. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+741. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+742. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+743. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+744. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+745. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+746. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+747. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+748. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+749. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+750. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+751. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+752. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+753. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+754. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+755. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+756. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+757. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+758. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+759. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+760. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+761. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+762. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+763. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+764. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+765. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+766. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+767. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+768. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+769. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+770. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+771. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+772. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+773. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+774. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+775. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+776. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+777. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+778. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+779. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+780. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+781. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+782. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+783. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+784. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+785. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+786. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+787. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+788. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+789. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+790. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+791. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+792. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+793. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+794. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+795. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+796. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+797. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+798. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+799. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+800. [Bird]
+-name: abchjd
+-weight: 43
+-migration 1
+-function result: 14.046512
+
+801. [Fish]
+-name: acd
+-weight: 15
 -habitat 0
--function result: 3.940000
+-function result: 19.733333
+
+802. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+803. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+804. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+805. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+806. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+807. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+808. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+809. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+810. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+811. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+812. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+813. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+814. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+815. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+816. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+817. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+818. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+819. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+820. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+821. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+822. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+823. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+824. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+825. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+826. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+827. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+828. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+829. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+830. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+831. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+832. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+833. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+834. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+835. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+836. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+837. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+838. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+839. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+840. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+841. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+842. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+843. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+844. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+845. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+846. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+847. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+848. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+849. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+850. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+851. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+852. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+853. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+854. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+855. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+856. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+857. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+858. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+859. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+860. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+861. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+862. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+863. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+864. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+865. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+866. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+867. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+868. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+869. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+870. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+871. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+872. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+873. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+874. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+875. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+876. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+877. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+878. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+879. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+880. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+881. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+882. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+883. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+884. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+885. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+886. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+887. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+888. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+889. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+890. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+891. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+892. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+893. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+894. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+895. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+896. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+897. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+898. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+899. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+900. [Fish]
+-name: acd
+-weight: 15
+-habitat 0
+-function result: 19.733333
+
+901. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+902. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+903. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+904. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+905. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+906. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+907. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+908. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+909. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+910. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+911. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+912. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+913. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+914. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+915. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+916. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+917. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+918. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+919. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+920. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+921. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+922. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+923. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+924. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+925. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+926. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+927. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+928. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+929. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+930. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+931. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+932. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+933. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+934. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+935. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+936. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+937. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+938. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+939. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+940. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+941. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+942. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+943. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+944. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+945. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+946. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+947. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+948. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+949. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+950. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+951. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+952. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+953. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+954. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+955. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+956. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+957. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+958. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+959. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+960. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+961. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+962. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+963. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+964. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+965. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+966. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+967. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+968. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+969. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+970. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+971. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+972. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+973. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+974. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+975. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+976. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+977. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+978. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+979. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+980. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+981. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+982. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+983. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+984. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+985. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+986. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+987. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+988. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+989. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+990. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+991. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+992. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+993. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+994. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+995. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+996. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+997. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+998. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+999. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
+
+1000. [Beast]
+-name: absacd
+-weight: 13
+-diet 1
+-function result: 46.615385
 
