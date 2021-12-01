@@ -1,0 +1,6001 @@
+Sorted container:
+1. [Beast]
+-name: ajlfvgubfН
+-weight: 108
+-diet 2
+-function result: 8.333333
+
+2. [Beast]
+-name: efkbemgsdН
+-weight: 106
+-diet 1
+-function result: 8.349057
+
+3. [Fish]
+-name: diogcseozН
+-weight: 109
+-habitat 1
+-function result: 8.403670
+
+4. [Beast]
+-name: sotflbgsfН
+-weight: 109
+-diet 1
+-function result: 8.431193
+
+5. [Beast]
+-name: nkeofmniuН
+-weight: 109
+-diet 0
+-function result: 8.449541
+
+6. [Fish]
+-name: bzgketqkiН
+-weight: 109
+-habitat 1
+-function result: 8.449541
+
+7. [Beast]
+-name: kcrfvbeiyН
+-weight: 107
+-diet 1
+-function result: 8.542056
+
+8. [Fish]
+-name: wmwghbbanН
+-weight: 106
+-habitat 4
+-function result: 8.547170
+
+9. [Fish]
+-name: hwbafbgarН
+-weight: 103
+-habitat 1
+-function result: 8.553398
+
+10. [Beast]
+-name: xmbhmkqlwН
+-weight: 109
+-diet 0
+-function result: 8.587156
+
+11. [Fish]
+-name: angodnlxhН
+-weight: 106
+-habitat 4
+-function result: 8.603774
+
+12. [Beast]
+-name: dfeimozyfН
+-weight: 107
+-diet 0
+-function result: 8.616822
+
+13. [Fish]
+-name: zltjhgauhН
+-weight: 107
+-habitat 1
+-function result: 8.654206
+
+14. [Fish]
+-name: rintdwcldН
+-weight: 106
+-habitat 0
+-function result: 8.679245
+
+15. [Fish]
+-name: tmjtmrcjiН
+-weight: 107
+-habitat 2
+-function result: 8.682243
+
+16. [Beast]
+-name: enpevqgxiН
+-weight: 107
+-diet 2
+-function result: 8.710280
+
+17. [Fish]
+-name: qzgcaiwswН
+-weight: 108
+-habitat 4
+-function result: 8.712963
+
+18. [Fish]
+-name: etlyhnkoaН
+-weight: 106
+-habitat 2
+-function result: 8.716981
+
+19. [Beast]
+-name: yjnecxsjjН
+-weight: 107
+-diet 1
+-function result: 8.719626
+
+20. [Beast]
+-name: rlyjiwtmhН
+-weight: 109
+-diet 1
+-function result: 8.724771
+
+21. [Fish]
+-name: iafmeicggН
+-weight: 100
+-habitat 2
+-function result: 8.730000
+
+22. [Fish]
+-name: xqmndhldtН
+-weight: 106
+-habitat 4
+-function result: 8.764151
+
+23. [Beast]
+-name: ptzifawftН
+-weight: 107
+-diet 0
+-function result: 8.785047
+
+24. [Beast]
+-name: axawgeurbН
+-weight: 104
+-diet 0
+-function result: 8.798077
+
+25. [Beast]
+-name: ymoivfhjlН
+-weight: 106
+-diet 2
+-function result: 8.801887
+
+26. [Beast]
+-name: fozvsrtkjН
+-weight: 109
+-diet 1
+-function result: 8.807339
+
+27. [Beast]
+-name: gwgoooupnН
+-weight: 107
+-diet 0
+-function result: 8.841121
+
+28. [Beast]
+-name: dpyzkzcvbН
+-weight: 107
+-diet 0
+-function result: 8.859813
+
+29. [Fish]
+-name: rizkekgerН
+-weight: 104
+-habitat 0
+-function result: 8.875000
+
+30. [Beast]
+-name: mrpndevnmН
+-weight: 105
+-diet 1
+-function result: 8.876190
+
+31. [Fish]
+-name: xdorkvmvqН
+-weight: 108
+-habitat 0
+-function result: 8.879630
+
+32. [Beast]
+-name: nposrjgdrН
+-weight: 105
+-diet 1
+-function result: 8.895238
+
+33. [Beast]
+-name: xwttgeeqiН
+-weight: 106
+-diet 2
+-function result: 8.896226
+
+34. [Fish]
+-name: cjkcfgqmyН
+-weight: 102
+-habitat 0
+-function result: 8.901961
+
+35. [Fish]
+-name: qtsjfaeedН
+-weight: 101
+-habitat 2
+-function result: 8.910891
+
+36. [Beast]
+-name: xhzubdntoН
+-weight: 106
+-diet 2
+-function result: 8.933962
+
+37. [Fish]
+-name: omlgltlveН
+-weight: 104
+-habitat 1
+-function result: 8.951923
+
+38. [Fish]
+-name: jwsdgcofgН
+-weight: 101
+-habitat 3
+-function result: 8.980198
+
+39. [Beast]
+-name: bisgekyrgН
+-weight: 102
+-diet 0
+-function result: 8.980392
+
+40. [Fish]
+-name: ebbvzhtqbН
+-weight: 102
+-habitat 0
+-function result: 8.990196
+
+41. [Beast]
+-name: afcuyvdcuН
+-weight: 102
+-diet 0
+-function result: 9.009804
+
+42. [Beast]
+-name: sfqhkplfbН
+-weight: 101
+-diet 0
+-function result: 9.009901
+
+43. [Fish]
+-name: fbcfnhwrhН
+-weight: 100
+-habitat 3
+-function result: 9.010000
+
+44. [Beast]
+-name: wjmhjguzpН
+-weight: 105
+-diet 0
+-function result: 9.019048
+
+45. [Beast]
+-name: ryesugdhtН
+-weight: 104
+-diet 2
+-function result: 9.038462
+
+46. [Fish]
+-name: udrnldkldН
+-weight: 101
+-habitat 2
+-function result: 9.039604
+
+47. [Fish]
+-name: xdzuzosrkН
+-weight: 108
+-habitat 0
+-function result: 9.046296
+
+48. [Fish]
+-name: hcalyzvqnН
+-weight: 104
+-habitat 3
+-function result: 9.048077
+
+49. [Beast]
+-name: hrcqaybneН
+-weight: 100
+-diet 0
+-function result: 9.060000
+
+50. [Beast]
+-name: sgovsodkjН
+-weight: 103
+-diet 0
+-function result: 9.077670
+
+51. [Beast]
+-name: ijylbiimoН
+-weight: 101
+-diet 2
+-function result: 9.079208
+
+52. [Fish]
+-name: lrnzrkuxyН
+-weight: 108
+-habitat 2
+-function result: 9.092593
+
+53. [Beast]
+-name: hyubkewfeН
+-weight: 101
+-diet 2
+-function result: 9.099010
+
+54. [Beast]
+-name: itsspaqnjН
+-weight: 103
+-diet 1
+-function result: 9.106796
+
+55. [Beast]
+-name: lrqhvapgyН
+-weight: 103
+-diet 1
+-function result: 9.116505
+
+56. [Beast]
+-name: vsapdshakН
+-weight: 100
+-diet 1
+-function result: 9.140000
+
+57. [Beast]
+-name: nnxskywndН
+-weight: 105
+-diet 1
+-function result: 9.152381
+
+58. [Beast]
+-name: mxjrwpsurН
+-weight: 106
+-diet 0
+-function result: 9.198113
+
+59. [Fish]
+-name: wjopmmlebН
+-weight: 100
+-habitat 0
+-function result: 9.220000
+
+60. [Beast]
+-name: vpaudvkxgН
+-weight: 102
+-diet 2
+-function result: 9.225490
+
+61. [Beast]
+-name: bnyfhejegН
+-weight: 97
+-diet 2
+-function result: 9.226804
+
+62. [Beast]
+-name: cadunwugtН
+-weight: 100
+-diet 2
+-function result: 9.270000
+
+63. [Fish]
+-name: mivnnkclgН
+-weight: 99
+-habitat 2
+-function result: 9.272727
+
+64. [Beast]
+-name: qyyxcszpoН
+-weight: 106
+-diet 2
+-function result: 9.273585
+
+65. [Beast]
+-name: slhlrxlydН
+-weight: 102
+-diet 0
+-function result: 9.284314
+
+66. [Fish]
+-name: lkicsnxucН
+-weight: 100
+-habitat 2
+-function result: 9.290000
+
+67. [Fish]
+-name: bdvemunnlН
+-weight: 98
+-habitat 4
+-function result: 9.387755
+
+68. [Fish]
+-name: drcygurqdН
+-weight: 99
+-habitat 3
+-function result: 9.393939
+
+69. [Beast]
+-name: lgriykldkН
+-weight: 98
+-diet 1
+-function result: 9.408163
+
+70. [Beast]
+-name: grovjcdzxН
+-weight: 100
+-diet 1
+-function result: 9.420000
+
+71. [Fish]
+-name: pixxxlzqyН
+-weight: 105
+-habitat 1
+-function result: 9.428571
+
+72. [Beast]
+-name: yebcwlfkfН
+-weight: 96
+-diet 1
+-function result: 9.437500
+
+73. [Fish]
+-name: bichznpprН
+-weight: 98
+-habitat 4
+-function result: 9.438776
+
+74. [Beast]
+-name: bhpulnlwxН
+-weight: 100
+-diet 1
+-function result: 9.450000
+
+75. [Fish]
+-name: vldvybsuxН
+-weight: 102
+-habitat 3
+-function result: 9.450980
+
+76. [Fish]
+-name: hhugjzmfeН
+-weight: 97
+-habitat 0
+-function result: 9.453608
+
+77. [Beast]
+-name: htgdglfciН
+-weight: 94
+-diet 2
+-function result: 9.457447
+
+78. [Beast]
+-name: eqmarvxumН
+-weight: 100
+-diet 2
+-function result: 9.470000
+
+79. [Beast]
+-name: ceroswitdН
+-weight: 98
+-diet 1
+-function result: 9.479592
+
+80. [Fish]
+-name: wupaybnqgН
+-weight: 99
+-habitat 1
+-function result: 9.484848
+
+81. [Fish]
+-name: qrqpmxujjН
+-weight: 101
+-habitat 1
+-function result: 9.495050
+
+82. [Beast]
+-name: azcrfhpbjН
+-weight: 95
+-diet 1
+-function result: 9.505263
+
+83. [Beast]
+-name: lxxzoqfotН
+-weight: 102
+-diet 1
+-function result: 9.529412
+
+84. [Fish]
+-name: yfpcvkcaoН
+-weight: 96
+-habitat 3
+-function result: 9.531250
+
+85. [Beast]
+-name: sdfpdjobiН
+-weight: 94
+-diet 1
+-function result: 9.553191
+
+86. [Beast]
+-name: jeccgqhbcН
+-weight: 91
+-diet 1
+-function result: 9.571429
+
+87. [Beast]
+-name: tafrsvpphН
+-weight: 98
+-diet 2
+-function result: 9.581633
+
+88. [Fish]
+-name: rcggoewvrН
+-weight: 97
+-habitat 0
+-function result: 9.597938
+
+89. [Beast]
+-name: xdfjpwpxfН
+-weight: 98
+-diet 0
+-function result: 9.612245
+
+90. [Fish]
+-name: hjtzyqktdН
+-weight: 99
+-habitat 2
+-function result: 9.636364
+
+91. [Beast]
+-name: dpooefxzbН
+-weight: 96
+-diet 0
+-function result: 9.645833
+
+92. [Beast]
+-name: mcqmvhtceН
+-weight: 95
+-diet 2
+-function result: 9.652632
+
+93. [Fish]
+-name: hzkrghtsgН
+-weight: 97
+-habitat 1
+-function result: 9.659794
+
+94. [Beast]
+-name: voxhtapyeН
+-weight: 98
+-diet 1
+-function result: 9.683673
+
+95. [Fish]
+-name: byqmhdabaН
+-weight: 91
+-habitat 2
+-function result: 9.736264
+
+96. [Beast]
+-name: zdgdjgeqwН
+-weight: 94
+-diet 2
+-function result: 9.744681
+
+97. [Fish]
+-name: epvlhvhrwН
+-weight: 97
+-habitat 4
+-function result: 9.762887
+
+98. [Beast]
+-name: frzzemiyzН
+-weight: 99
+-diet 0
+-function result: 9.767677
+
+99. [Fish]
+-name: vqciewgkeН
+-weight: 93
+-habitat 1
+-function result: 9.838710
+
+100. [Beast]
+-name: rbefjjfytН
+-weight: 93
+-diet 1
+-function result: 9.838710
+
+101. [Fish]
+-name: gfullkjduН
+-weight: 93
+-habitat 0
+-function result: 9.860215
+
+102. [Beast]
+-name: tcenaumndН
+-weight: 92
+-diet 0
+-function result: 9.869565
+
+103. [Beast]
+-name: bvjsebalwН
+-weight: 92
+-diet 0
+-function result: 9.880435
+
+104. [Fish]
+-name: pnpeelfjmН
+-weight: 92
+-habitat 1
+-function result: 9.891304
+
+105. [Beast]
+-name: vfxsxpjaoН
+-weight: 96
+-diet 0
+-function result: 9.895833
+
+106. [Fish]
+-name: ggkytbiolН
+-weight: 93
+-habitat 0
+-function result: 9.903226
+
+107. [Fish]
+-name: xvfhqfawkН
+-weight: 94
+-habitat 2
+-function result: 9.904255
+
+108. [Fish]
+-name: ytmpphkuhН
+-weight: 96
+-habitat 4
+-function result: 9.906250
+
+109. [Fish]
+-name: jacqauzyoН
+-weight: 94
+-habitat 1
+-function result: 9.914894
+
+110. [Beast]
+-name: bujopgrqnН
+-weight: 94
+-diet 2
+-function result: 9.925532
+
+111. [Fish]
+-name: vajnjttknН
+-weight: 94
+-habitat 0
+-function result: 9.946809
+
+112. [Fish]
+-name: utoeunfhdН
+-weight: 93
+-habitat 1
+-function result: 9.967742
+
+113. [Fish]
+-name: xaaydzsxtН
+-weight: 96
+-habitat 1
+-function result: 9.968750
+
+114. [Beast]
+-name: barxbgfcbН
+-weight: 88
+-diet 2
+-function result: 9.977273
+
+115. [Fish]
+-name: zrzbmnmgqН
+-weight: 95
+-habitat 3
+-function result: 9.989474
+
+116. [Fish]
+-name: nzfrotqpoН
+-weight: 96
+-habitat 1
+-function result: 10.000000
+
+117. [Fish]
+-name: rhudidgvhН
+-weight: 91
+-habitat 4
+-function result: 10.043956
+
+118. [Fish]
+-name: xlgibyzzkН
+-weight: 95
+-habitat 3
+-function result: 10.052632
+
+119. [Fish]
+-name: kjilefraaН
+-weight: 88
+-habitat 0
+-function result: 10.068182
+
+120. [Beast]
+-name: dwwoedklqН
+-weight: 92
+-diet 0
+-function result: 10.076087
+
+121. [Fish]
+-name: cimcnlhqoН
+-weight: 90
+-habitat 4
+-function result: 10.077778
+
+122. [Beast]
+-name: wsrtesjwhН
+-weight: 95
+-diet 2
+-function result: 10.084211
+
+123. [Fish]
+-name: idzyqazfnН
+-weight: 93
+-habitat 4
+-function result: 10.118280
+
+124. [Fish]
+-name: faveopszrН
+-weight: 93
+-habitat 4
+-function result: 10.118280
+
+125. [Fish]
+-name: qmeyrovfiН
+-weight: 93
+-habitat 3
+-function result: 10.139785
+
+126. [Fish]
+-name: cdrudmphmН
+-weight: 90
+-habitat 1
+-function result: 10.144444
+
+127. [Beast]
+-name: hvpckldqgН
+-weight: 90
+-diet 2
+-function result: 10.144444
+
+128. [Fish]
+-name: rpufwhjruН
+-weight: 94
+-habitat 4
+-function result: 10.148936
+
+129. [Beast]
+-name: monxrqyjzН
+-weight: 96
+-diet 1
+-function result: 10.156250
+
+130. [Fish]
+-name: tzhfmbezpН
+-weight: 92
+-habitat 0
+-function result: 10.163043
+
+131. [Fish]
+-name: usjgmhcmhН
+-weight: 90
+-habitat 2
+-function result: 10.166667
+
+132. [Fish]
+-name: xdknlyjyhН
+-weight: 93
+-habitat 1
+-function result: 10.172043
+
+133. [Beast]
+-name: yrhlthxwgН
+-weight: 94
+-diet 1
+-function result: 10.191489
+
+134. [Beast]
+-name: dblprzlsrН
+-weight: 92
+-diet 0
+-function result: 10.217391
+
+135. [Fish]
+-name: xderklgbxН
+-weight: 90
+-habitat 1
+-function result: 10.222222
+
+136. [Fish]
+-name: qwhnezojkН
+-weight: 92
+-habitat 3
+-function result: 10.239130
+
+137. [Beast]
+-name: ridxpdpquН
+-weight: 92
+-diet 1
+-function result: 10.239130
+
+138. [Fish]
+-name: lijjhevryН
+-weight: 91
+-habitat 2
+-function result: 10.241758
+
+139. [Beast]
+-name: qrcddiuteН
+-weight: 89
+-diet 0
+-function result: 10.269663
+
+140. [Beast]
+-name: veerenlaiН
+-weight: 88
+-diet 1
+-function result: 10.272727
+
+141. [Beast]
+-name: hktdoxqteН
+-weight: 91
+-diet 0
+-function result: 10.296703
+
+142. [Beast]
+-name: ojueqbnskН
+-weight: 90
+-diet 1
+-function result: 10.300000
+
+143. [Beast]
+-name: zdhtbrrrlН
+-weight: 91
+-diet 0
+-function result: 10.318681
+
+144. [Fish]
+-name: wwtaidyaxН
+-weight: 91
+-habitat 3
+-function result: 10.362637
+
+145. [Beast]
+-name: qbhxyehktН
+-weight: 90
+-diet 0
+-function result: 10.366667
+
+146. [Beast]
+-name: rnerzoowrН
+-weight: 93
+-diet 0
+-function result: 10.376344
+
+147. [Beast]
+-name: jqgwjofnuН
+-weight: 90
+-diet 1
+-function result: 10.400000
+
+148. [Beast]
+-name: vtvhwycfzН
+-weight: 93
+-diet 0
+-function result: 10.408602
+
+149. [Fish]
+-name: dmvzcautdН
+-weight: 89
+-habitat 2
+-function result: 10.415730
+
+150. [Fish]
+-name: zskwptkqcН
+-weight: 92
+-habitat 4
+-function result: 10.423913
+
+151. [Beast]
+-name: xokchgoalН
+-weight: 87
+-diet 0
+-function result: 10.448276
+
+152. [Fish]
+-name: wywmxxgdpН
+-weight: 93
+-habitat 4
+-function result: 10.451613
+
+153. [Beast]
+-name: gdbbdxrbwН
+-weight: 86
+-diet 0
+-function result: 10.453488
+
+154. [Beast]
+-name: kmkhssmvnН
+-weight: 90
+-diet 0
+-function result: 10.477778
+
+155. [Beast]
+-name: bqvrqusqsН
+-weight: 92
+-diet 2
+-function result: 10.489130
+
+156. [Beast]
+-name: rpseaccxkН
+-weight: 87
+-diet 2
+-function result: 10.494253
+
+157. [Beast]
+-name: xfxtlsgypН
+-weight: 92
+-diet 2
+-function result: 10.500000
+
+158. [Beast]
+-name: zoipzwdmkН
+-weight: 91
+-diet 1
+-function result: 10.505495
+
+159. [Fish]
+-name: mktlptndmН
+-weight: 89
+-habitat 0
+-function result: 10.516854
+
+160. [Fish]
+-name: hfxaxqxkjН
+-weight: 89
+-habitat 2
+-function result: 10.539326
+
+161. [Fish]
+-name: shhtifxicН
+-weight: 87
+-habitat 4
+-function result: 10.563218
+
+162. [Fish]
+-name: ykeuhnfznН
+-weight: 89
+-habitat 0
+-function result: 10.595506
+
+163. [Fish]
+-name: kdorjfnygН
+-weight: 87
+-habitat 3
+-function result: 10.609195
+
+164. [Beast]
+-name: tsnuwjppgН
+-weight: 90
+-diet 2
+-function result: 10.655556
+
+165. [Beast]
+-name: bofuikwafН
+-weight: 85
+-diet 0
+-function result: 10.670588
+
+166. [Fish]
+-name: ugbidvbxrН
+-weight: 86
+-habitat 3
+-function result: 10.720930
+
+167. [Fish]
+-name: zgxluahmjН
+-weight: 87
+-habitat 1
+-function result: 10.747126
+
+168. [Beast]
+-name: oysrwmqojН
+-weight: 90
+-diet 0
+-function result: 10.755556
+
+169. [Beast]
+-name: yezkyhpfxН
+-weight: 89
+-diet 0
+-function result: 10.775281
+
+170. [Fish]
+-name: qoevjtfraН
+-weight: 86
+-habitat 1
+-function result: 10.779070
+
+171. [Fish]
+-name: xxqhduiqeН
+-weight: 87
+-habitat 1
+-function result: 10.827586
+
+172. [Fish]
+-name: pqudmomikН
+-weight: 86
+-habitat 3
+-function result: 10.837209
+
+173. [Beast]
+-name: wvhshzyavН
+-weight: 89
+-diet 2
+-function result: 10.865169
+
+174. [Beast]
+-name: vrivuyeegН
+-weight: 87
+-diet 2
+-function result: 10.885057
+
+175. [Beast]
+-name: xvjjmpsvkН
+-weight: 88
+-diet 1
+-function result: 10.909091
+
+176. [Fish]
+-name: csxohdvrbН
+-weight: 85
+-habitat 1
+-function result: 10.917647
+
+177. [Beast]
+-name: rwbwhmqhzН
+-weight: 87
+-diet 0
+-function result: 10.931034
+
+178. [Fish]
+-name: hhwewnvcbН
+-weight: 84
+-habitat 2
+-function result: 10.964286
+
+179. [Fish]
+-name: iworvpwkoН
+-weight: 88
+-habitat 2
+-function result: 10.965909
+
+180. [Fish]
+-name: xrfnwakztН
+-weight: 87
+-habitat 1
+-function result: 10.988506
+
+181. [Beast]
+-name: frjpcgdjdН
+-weight: 81
+-diet 0
+-function result: 11.000000
+
+182. [Fish]
+-name: jmjqwiqpuН
+-weight: 86
+-habitat 1
+-function result: 11.034884
+
+183. [Beast]
+-name: ydsgvfpenН
+-weight: 84
+-diet 0
+-function result: 11.083333
+
+184. [Beast]
+-name: mvhbsnjbtН
+-weight: 83
+-diet 2
+-function result: 11.120482
+
+185. [Fish]
+-name: sddygthcuН
+-weight: 83
+-habitat 0
+-function result: 11.132530
+
+186. [Fish]
+-name: njqrjshymН
+-weight: 85
+-habitat 4
+-function result: 11.141176
+
+187. [Beast]
+-name: hxwhiuhvqН
+-weight: 85
+-diet 2
+-function result: 11.211765
+
+188. [Fish]
+-name: akbmmvafqН
+-weight: 80
+-habitat 0
+-function result: 11.237500
+
+189. [Beast]
+-name: jiemsfzbhН
+-weight: 81
+-diet 1
+-function result: 11.246914
+
+190. [Fish]
+-name: vklsqfubvН
+-weight: 84
+-habitat 1
+-function result: 11.250000
+
+191. [Fish]
+-name: fdiuehuwyН
+-weight: 83
+-habitat 2
+-function result: 11.265060
+
+192. [Fish]
+-name: msyamptlzН
+-weight: 85
+-habitat 0
+-function result: 11.270588
+
+193. [Beast]
+-name: saambovjkН
+-weight: 80
+-diet 1
+-function result: 11.337500
+
+194. [Beast]
+-name: tuhlcvspiН
+-weight: 83
+-diet 0
+-function result: 11.361446
+
+195. [Beast]
+-name: kvfccockvН
+-weight: 80
+-diet 2
+-function result: 11.362500
+
+196. [Fish]
+-name: lzxsqbjwiН
+-weight: 84
+-habitat 1
+-function result: 11.369048
+
+197. [Beast]
+-name: cwfygkivbН
+-weight: 81
+-diet 2
+-function result: 11.370370
+
+198. [Fish]
+-name: hbsywztpwН
+-weight: 85
+-habitat 3
+-function result: 11.470588
+
+199. [Beast]
+-name: kycpmjtglН
+-weight: 81
+-diet 1
+-function result: 11.481481
+
+200. [Beast]
+-name: mpdwomciuН
+-weight: 81
+-diet 2
+-function result: 11.481481
+
+201. [Beast]
+-name: lzosctfnyН
+-weight: 83
+-diet 2
+-function result: 11.481928
+
+202. [Beast]
+-name: akmunmaxiН
+-weight: 80
+-diet 1
+-function result: 11.500000
+
+203. [Fish]
+-name: flwlpbhyfН
+-weight: 80
+-habitat 0
+-function result: 11.537500
+
+204. [Beast]
+-name: oizgqipzaН
+-weight: 81
+-diet 0
+-function result: 11.592593
+
+205. [Fish]
+-name: zpqaqjasiН
+-weight: 80
+-habitat 2
+-function result: 11.612500
+
+206. [Fish]
+-name: qzevbyktbН
+-weight: 81
+-habitat 4
+-function result: 11.641975
+
+207. [Beast]
+-name: bvnjepfqdН
+-weight: 78
+-diet 1
+-function result: 11.653846
+
+208. [Fish]
+-name: ojoiqpqtxН
+-weight: 82
+-habitat 1
+-function result: 11.658537
+
+209. [Beast]
+-name: orxtlhcsmН
+-weight: 81
+-diet 2
+-function result: 11.666667
+
+210. [Beast]
+-name: btyzgewxcН
+-weight: 81
+-diet 0
+-function result: 11.703704
+
+211. [Fish]
+-name: rmrdwroaoН
+-weight: 80
+-habitat 4
+-function result: 11.725000
+
+212. [Fish]
+-name: puswibubaН
+-weight: 79
+-habitat 3
+-function result: 11.734177
+
+213. [Fish]
+-name: vgymhlwdxН
+-weight: 81
+-habitat 3
+-function result: 11.740741
+
+214. [Fish]
+-name: gbdnrsmbxН
+-weight: 78
+-habitat 2
+-function result: 11.743590
+
+215. [Beast]
+-name: eiytymrjsН
+-weight: 81
+-diet 1
+-function result: 11.814815
+
+216. [Fish]
+-name: dimsrueecН
+-weight: 77
+-habitat 2
+-function result: 11.818182
+
+217. [Beast]
+-name: eivdyhphlН
+-weight: 78
+-diet 1
+-function result: 11.820513
+
+218. [Fish]
+-name: mibhhyffuН
+-weight: 77
+-habitat 4
+-function result: 11.831169
+
+219. [Beast]
+-name: akvlavkswН
+-weight: 79
+-diet 0
+-function result: 11.835443
+
+220. [Beast]
+-name: atprwskxzН
+-weight: 82
+-diet 1
+-function result: 11.841463
+
+221. [Beast]
+-name: xycrxuwjxН
+-weight: 83
+-diet 2
+-function result: 11.867470
+
+222. [Fish]
+-name: xadtklhyhН
+-weight: 78
+-habitat 3
+-function result: 11.871795
+
+223. [Fish]
+-name: sysjrvrwgН
+-weight: 82
+-habitat 4
+-function result: 11.878049
+
+224. [Beast]
+-name: fbcgkcfqcН
+-weight: 73
+-diet 2
+-function result: 11.931507
+
+225. [Fish]
+-name: qfcihubsjН
+-weight: 76
+-habitat 3
+-function result: 11.947368
+
+226. [Fish]
+-name: kmesbjlkyН
+-weight: 77
+-habitat 2
+-function result: 11.961039
+
+227. [Beast]
+-name: mfubzzpnhН
+-weight: 79
+-diet 2
+-function result: 11.962025
+
+228. [Beast]
+-name: qghumeaylН
+-weight: 77
+-diet 2
+-function result: 11.974026
+
+229. [Fish]
+-name: hroqkhwudН
+-weight: 78
+-habitat 3
+-function result: 12.025641
+
+230. [Beast]
+-name: mmkwdehfkН
+-weight: 75
+-diet 0
+-function result: 12.093333
+
+231. [Beast]
+-name: qezdlmwafН
+-weight: 76
+-diet 1
+-function result: 12.105263
+
+232. [Beast]
+-name: fqwehtxdzН
+-weight: 78
+-diet 2
+-function result: 12.128205
+
+233. [Beast]
+-name: aaixztwdyН
+-weight: 78
+-diet 2
+-function result: 12.128205
+
+234. [Beast]
+-name: drnwwtqkdН
+-weight: 78
+-diet 1
+-function result: 12.141026
+
+235. [Fish]
+-name: dlxdjohnsН
+-weight: 76
+-habitat 3
+-function result: 12.144737
+
+236. [Fish]
+-name: icmhczoheН
+-weight: 74
+-habitat 2
+-function result: 12.202703
+
+237. [Beast]
+-name: smxvfjtvqН
+-weight: 79
+-diet 1
+-function result: 12.227848
+
+238. [Beast]
+-name: pggxrpnrvН
+-weight: 78
+-diet 1
+-function result: 12.243590
+
+239. [Fish]
+-name: nugeajdgzН
+-weight: 74
+-habitat 4
+-function result: 12.270270
+
+240. [Fish]
+-name: zuwbsuvseН
+-weight: 79
+-habitat 3
+-function result: 12.291139
+
+241. [Fish]
+-name: hgdmlxukwН
+-weight: 76
+-habitat 1
+-function result: 12.315789
+
+242. [Beast]
+-name: ekjqzvuesН
+-weight: 77
+-diet 0
+-function result: 12.324675
+
+243. [Fish]
+-name: dvloyemcyН
+-weight: 76
+-habitat 1
+-function result: 12.328947
+
+244. [Beast]
+-name: udwdfzlktН
+-weight: 76
+-diet 0
+-function result: 12.368421
+
+245. [Fish]
+-name: hpqwaqzxuН
+-weight: 78
+-habitat 4
+-function result: 12.384615
+
+246. [Beast]
+-name: wxxdvipouН
+-weight: 78
+-diet 0
+-function result: 12.448718
+
+247. [Beast]
+-name: xvgzedyyhН
+-weight: 77
+-diet 1
+-function result: 12.454545
+
+248. [Fish]
+-name: cvzqlyqnwН
+-weight: 78
+-habitat 3
+-function result: 12.461538
+
+249. [Fish]
+-name: byvecmpesН
+-weight: 74
+-habitat 1
+-function result: 12.472973
+
+250. [Fish]
+-name: osaggmpbgН
+-weight: 72
+-habitat 2
+-function result: 12.500000
+
+251. [Beast]
+-name: wuuntfhpkН
+-weight: 76
+-diet 1
+-function result: 12.539474
+
+252. [Fish]
+-name: ykvvrgktrН
+-weight: 77
+-habitat 1
+-function result: 12.558442
+
+253. [Beast]
+-name: tzqwzggtlН
+-weight: 77
+-diet 0
+-function result: 12.610390
+
+254. [Fish]
+-name: qjdfgnrdoН
+-weight: 72
+-habitat 2
+-function result: 12.611111
+
+255. [Beast]
+-name: ropbyjzwyН
+-weight: 77
+-diet 0
+-function result: 12.636364
+
+256. [Fish]
+-name: fvpzhyujaН
+-weight: 75
+-habitat 3
+-function result: 12.640000
+
+257. [Fish]
+-name: ahnexhuqmН
+-weight: 73
+-habitat 2
+-function result: 12.657534
+
+258. [Beast]
+-name: dhvygkjisН
+-weight: 73
+-diet 0
+-function result: 12.712329
+
+259. [Fish]
+-name: zrphzlcepН
+-weight: 74
+-habitat 3
+-function result: 12.743243
+
+260. [Beast]
+-name: hnbnfuvqnН
+-weight: 73
+-diet 2
+-function result: 12.753425
+
+261. [Beast]
+-name: ldytygqkxН
+-weight: 75
+-diet 2
+-function result: 12.773333
+
+262. [Beast]
+-name: txgiigqusН
+-weight: 74
+-diet 2
+-function result: 12.783784
+
+263. [Beast]
+-name: bintattnhН
+-weight: 72
+-diet 1
+-function result: 12.791667
+
+264. [Fish]
+-name: kdiaohqjhН
+-weight: 70
+-habitat 3
+-function result: 12.800000
+
+265. [Beast]
+-name: wyucpabqsН
+-weight: 73
+-diet 2
+-function result: 12.876712
+
+266. [Beast]
+-name: mhdvkzebnН
+-weight: 71
+-diet 2
+-function result: 12.929577
+
+267. [Fish]
+-name: fzsiotpxjН
+-weight: 74
+-habitat 3
+-function result: 12.945946
+
+268. [Fish]
+-name: xyrwizzoeН
+-weight: 76
+-habitat 4
+-function result: 12.947368
+
+269. [Fish]
+-name: vapihoxuuН
+-weight: 73
+-habitat 1
+-function result: 13.013699
+
+270. [Beast]
+-name: tatbdzqsoН
+-weight: 72
+-diet 1
+-function result: 13.013889
+
+271. [Fish]
+-name: fyesqxdvrН
+-weight: 73
+-habitat 1
+-function result: 13.054795
+
+272. [Fish]
+-name: hxlhasqkaН
+-weight: 70
+-habitat 4
+-function result: 13.057143
+
+273. [Fish]
+-name: ihhxjeiguН
+-weight: 70
+-habitat 3
+-function result: 13.057143
+
+274. [Fish]
+-name: abfcvkdzeН
+-weight: 68
+-habitat 1
+-function result: 13.132353
+
+275. [Beast]
+-name: lgrsmeaeaН
+-weight: 68
+-diet 0
+-function result: 13.147059
+
+276. [Beast]
+-name: wotzqblhmН
+-weight: 72
+-diet 0
+-function result: 13.180556
+
+277. [Beast]
+-name: mdiuxemxbН
+-weight: 70
+-diet 1
+-function result: 13.257143
+
+278. [Fish]
+-name: yqncsdjsdН
+-weight: 70
+-habitat 2
+-function result: 13.257143
+
+279. [Beast]
+-name: rsqrcopnnН
+-weight: 71
+-diet 0
+-function result: 13.338028
+
+280. [Fish]
+-name: qmemjlhgoН
+-weight: 68
+-habitat 1
+-function result: 13.426471
+
+281. [Beast]
+-name: kiqzahfavН
+-weight: 68
+-diet 0
+-function result: 13.441176
+
+282. [Fish]
+-name: nlemkimipН
+-weight: 68
+-habitat 2
+-function result: 13.455882
+
+283. [Beast]
+-name: fyaqqiannН
+-weight: 68
+-diet 1
+-function result: 13.485294
+
+284. [Beast]
+-name: biwybxduuН
+-weight: 70
+-diet 2
+-function result: 13.485714
+
+285. [Beast]
+-name: vytodpjdpН
+-weight: 70
+-diet 1
+-function result: 13.500000
+
+286. [Fish]
+-name: ukdwjcvxqН
+-weight: 70
+-habitat 1
+-function result: 13.542857
+
+287. [Fish]
+-name: vrkcoytxkН
+-weight: 71
+-habitat 0
+-function result: 13.549296
+
+288. [Beast]
+-name: vwauxpannН
+-weight: 70
+-diet 0
+-function result: 13.557143
+
+289. [Fish]
+-name: quezxkugrН
+-weight: 71
+-habitat 1
+-function result: 13.563380
+
+290. [Fish]
+-name: wbdhoyncsН
+-weight: 68
+-habitat 3
+-function result: 13.617647
+
+291. [Beast]
+-name: xrxwkduooН
+-weight: 71
+-diet 1
+-function result: 13.633803
+
+292. [Fish]
+-name: ohskkefutН
+-weight: 68
+-habitat 1
+-function result: 13.661765
+
+293. [Beast]
+-name: qwzhibnorН
+-weight: 69
+-diet 1
+-function result: 13.695652
+
+294. [Beast]
+-name: hgmgnkeufН
+-weight: 66
+-diet 1
+-function result: 13.712121
+
+295. [Fish]
+-name: kzzjqnaqpН
+-weight: 69
+-habitat 4
+-function result: 13.782609
+
+296. [Beast]
+-name: qdmfiejrqН
+-weight: 66
+-diet 1
+-function result: 13.818182
+
+297. [Beast]
+-name: axzgfltlsН
+-weight: 68
+-diet 2
+-function result: 13.823529
+
+298. [Beast]
+-name: wmbmxrmhuН
+-weight: 68
+-diet 0
+-function result: 13.941176
+
+299. [Beast]
+-name: hfkxopvybН
+-weight: 67
+-diet 1
+-function result: 14.059701
+
+300. [Beast]
+-name: ccslutwqzН
+-weight: 68
+-diet 2
+-function result: 14.073529
+
+301. [Beast]
+-name: vorpjfzslН
+-weight: 68
+-diet 0
+-function result: 14.073529
+
+302. [Beast]
+-name: vuizfsoayН
+-weight: 68
+-diet 2
+-function result: 14.073529
+
+303. [Fish]
+-name: fozissccrН
+-weight: 66
+-habitat 0
+-function result: 14.106061
+
+304. [Beast]
+-name: vloidzfpiН
+-weight: 66
+-diet 2
+-function result: 14.121212
+
+305. [Fish]
+-name: atmuudqbhН
+-weight: 65
+-habitat 2
+-function result: 14.153846
+
+306. [Beast]
+-name: auuqmvhxkН
+-weight: 67
+-diet 0
+-function result: 14.194030
+
+307. [Fish]
+-name: bgqngvvpjН
+-weight: 65
+-habitat 4
+-function result: 14.307692
+
+308. [Fish]
+-name: cnqyrokqmН
+-weight: 66
+-habitat 3
+-function result: 14.333333
+
+309. [Fish]
+-name: dqsvmterdН
+-weight: 65
+-habitat 3
+-function result: 14.384615
+
+310. [Beast]
+-name: qwtoetonxН
+-weight: 67
+-diet 0
+-function result: 14.417910
+
+311. [Beast]
+-name: jfjnhhssqН
+-weight: 64
+-diet 0
+-function result: 14.437500
+
+312. [Fish]
+-name: ekwnysbicН
+-weight: 64
+-habitat 4
+-function result: 14.437500
+
+313. [Fish]
+-name: ipbncizocН
+-weight: 63
+-habitat 3
+-function result: 14.444444
+
+314. [Beast]
+-name: hypnvruihН
+-weight: 66
+-diet 2
+-function result: 14.454545
+
+315. [Fish]
+-name: krudlmzgdН
+-weight: 64
+-habitat 0
+-function result: 14.515625
+
+316. [Beast]
+-name: fmjoopyyiН
+-weight: 65
+-diet 0
+-function result: 14.569231
+
+317. [Fish]
+-name: btuswzumsН
+-weight: 67
+-habitat 2
+-function result: 14.582090
+
+318. [Fish]
+-name: nimdlxmjyН
+-weight: 64
+-habitat 2
+-function result: 14.640625
+
+319. [Fish]
+-name: yxqkqoyzwН
+-weight: 68
+-habitat 3
+-function result: 14.647059
+
+320. [Beast]
+-name: fylnukbiyН
+-weight: 64
+-diet 1
+-function result: 14.656250
+
+321. [Fish]
+-name: urtymkktdН
+-weight: 65
+-habitat 1
+-function result: 14.707692
+
+322. [Beast]
+-name: llplxelrdН
+-weight: 63
+-diet 1
+-function result: 14.730159
+
+323. [Fish]
+-name: eoilejrpkН
+-weight: 62
+-habitat 3
+-function result: 14.741935
+
+324. [Beast]
+-name: thhilgdhzН
+-weight: 62
+-diet 2
+-function result: 14.758065
+
+325. [Fish]
+-name: mvpeibgxfН
+-weight: 62
+-habitat 4
+-function result: 14.790323
+
+326. [Fish]
+-name: vdqamnfhwН
+-weight: 62
+-habitat 3
+-function result: 14.854839
+
+327. [Fish]
+-name: chjagquehН
+-weight: 60
+-habitat 4
+-function result: 14.883333
+
+328. [Fish]
+-name: cjtsjhqkmН
+-weight: 62
+-habitat 4
+-function result: 14.903226
+
+329. [Fish]
+-name: bsqrhcrtxН
+-weight: 63
+-habitat 1
+-function result: 14.952381
+
+330. [Beast]
+-name: wayyzpvscН
+-weight: 65
+-diet 0
+-function result: 14.969231
+
+331. [Beast]
+-name: ssisiyppnН
+-weight: 64
+-diet 0
+-function result: 14.984375
+
+332. [Beast]
+-name: vwpnvgzmiН
+-weight: 64
+-diet 0
+-function result: 15.078125
+
+333. [Fish]
+-name: buacclfkcН
+-weight: 58
+-habitat 2
+-function result: 15.086207
+
+334. [Beast]
+-name: yvulcyjefН
+-weight: 62
+-diet 0
+-function result: 15.193548
+
+335. [Beast]
+-name: uxmhecthlН
+-weight: 61
+-diet 0
+-function result: 15.196721
+
+336. [Beast]
+-name: hfshccxhuН
+-weight: 60
+-diet 1
+-function result: 15.216667
+
+337. [Fish]
+-name: drnlffbfhН
+-weight: 58
+-habitat 1
+-function result: 15.327586
+
+338. [Fish]
+-name: argfmuabiН
+-weight: 58
+-habitat 0
+-function result: 15.362069
+
+339. [Fish]
+-name: fvncrswsaН
+-weight: 61
+-habitat 2
+-function result: 15.377049
+
+340. [Beast]
+-name: jmbvbozvmН
+-weight: 61
+-diet 2
+-function result: 15.377049
+
+341. [Fish]
+-name: jluhlyoebН
+-weight: 60
+-habitat 3
+-function result: 15.383333
+
+342. [Beast]
+-name: cugghonucН
+-weight: 59
+-diet 2
+-function result: 15.457627
+
+343. [Fish]
+-name: lzqfljnwkН
+-weight: 61
+-habitat 3
+-function result: 15.475410
+
+344. [Fish]
+-name: onydwwvuaН
+-weight: 62
+-habitat 0
+-function result: 15.500000
+
+345. [Beast]
+-name: zywcpamevН
+-weight: 61
+-diet 1
+-function result: 15.524590
+
+346. [Fish]
+-name: togbgxpeyН
+-weight: 60
+-habitat 0
+-function result: 15.566667
+
+347. [Fish]
+-name: ozfkmmxtyН
+-weight: 62
+-habitat 0
+-function result: 15.580645
+
+348. [Beast]
+-name: kukahmlivН
+-weight: 59
+-diet 1
+-function result: 15.610169
+
+349. [Beast]
+-name: eppxyjsttН
+-weight: 62
+-diet 2
+-function result: 15.612903
+
+350. [Fish]
+-name: izcyuceglН
+-weight: 59
+-habitat 3
+-function result: 15.661017
+
+351. [Beast]
+-name: olnvlayguН
+-weight: 60
+-diet 0
+-function result: 15.700000
+
+352. [Beast]
+-name: oneqlnbtoН
+-weight: 59
+-diet 0
+-function result: 15.711864
+
+353. [Fish]
+-name: palyynmkmН
+-weight: 60
+-habitat 2
+-function result: 15.716667
+
+354. [Beast]
+-name: etcukepzsН
+-weight: 59
+-diet 2
+-function result: 15.915254
+
+355. [Beast]
+-name: jswnkkufnН
+-weight: 59
+-diet 2
+-function result: 15.966102
+
+356. [Beast]
+-name: ilqadojskН
+-weight: 57
+-diet 2
+-function result: 15.982456
+
+357. [Beast]
+-name: lqlbbbvoqН
+-weight: 57
+-diet 0
+-function result: 16.035088
+
+358. [Beast]
+-name: vaowuxwhmН
+-weight: 60
+-diet 1
+-function result: 16.050000
+
+359. [Fish]
+-name: wxteyyqdhН
+-weight: 60
+-habitat 1
+-function result: 16.066667
+
+360. [Beast]
+-name: nivfjzauqН
+-weight: 58
+-diet 0
+-function result: 16.189655
+
+361. [Fish]
+-name: rmcdpomjrН
+-weight: 57
+-habitat 3
+-function result: 16.192982
+
+362. [Fish]
+-name: qelrwbgbiН
+-weight: 56
+-habitat 4
+-function result: 16.214286
+
+363. [Beast]
+-name: ajfrmxothН
+-weight: 57
+-diet 0
+-function result: 16.280702
+
+364. [Fish]
+-name: xahhjmbocН
+-weight: 55
+-habitat 0
+-function result: 16.309091
+
+365. [Fish]
+-name: uttlwhtzaН
+-weight: 59
+-habitat 4
+-function result: 16.338983
+
+366. [Fish]
+-name: rchddweqdН
+-weight: 55
+-habitat 0
+-function result: 16.345455
+
+367. [Fish]
+-name: dzcsfojswН
+-weight: 57
+-habitat 3
+-function result: 16.456140
+
+368. [Beast]
+-name: grgdfnyytН
+-weight: 57
+-diet 2
+-function result: 16.473684
+
+369. [Beast]
+-name: srtjxyaayН
+-weight: 58
+-diet 0
+-function result: 16.482759
+
+370. [Beast]
+-name: eoyjbxkiqН
+-weight: 56
+-diet 1
+-function result: 16.625000
+
+371. [Beast]
+-name: fzvrtnoviН
+-weight: 58
+-diet 2
+-function result: 16.637931
+
+372. [Beast]
+-name: vojbrzmwzН
+-weight: 58
+-diet 1
+-function result: 16.689655
+
+373. [Fish]
+-name: vwaajiqugН
+-weight: 55
+-habitat 4
+-function result: 16.800000
+
+374. [Fish]
+-name: bnvmdwsyxН
+-weight: 57
+-habitat 4
+-function result: 16.824561
+
+375. [Beast]
+-name: eoeqznbhyН
+-weight: 55
+-diet 0
+-function result: 16.909091
+
+376. [Fish]
+-name: qmfstqhpfН
+-weight: 55
+-habitat 4
+-function result: 17.000000
+
+377. [Beast]
+-name: exktrmhddН
+-weight: 54
+-diet 2
+-function result: 17.037037
+
+378. [Beast]
+-name: qlgyglmvlН
+-weight: 55
+-diet 1
+-function result: 17.090909
+
+379. [Beast]
+-name: lseendubkН
+-weight: 53
+-diet 0
+-function result: 17.094340
+
+380. [Beast]
+-name: uhvhfqtdvН
+-weight: 55
+-diet 2
+-function result: 17.109091
+
+381. [Fish]
+-name: bvrasucuvН
+-weight: 55
+-habitat 0
+-function result: 17.127273
+
+382. [Beast]
+-name: tibdvthmpН
+-weight: 54
+-diet 0
+-function result: 17.166667
+
+383. [Fish]
+-name: sceftdrqeН
+-weight: 53
+-habitat 2
+-function result: 17.169811
+
+384. [Beast]
+-name: pixqireuqН
+-weight: 55
+-diet 1
+-function result: 17.254545
+
+385. [Fish]
+-name: zecrznjkfН
+-weight: 54
+-habitat 4
+-function result: 17.259259
+
+386. [Fish]
+-name: iqswricmzН
+-weight: 55
+-habitat 0
+-function result: 17.272727
+
+387. [Beast]
+-name: xaunfqjvxН
+-weight: 55
+-diet 2
+-function result: 17.309091
+
+388. [Fish]
+-name: acazuvjoxН
+-weight: 54
+-habitat 3
+-function result: 17.333333
+
+389. [Fish]
+-name: xapzarknnН
+-weight: 54
+-habitat 1
+-function result: 17.370370
+
+390. [Beast]
+-name: cjeiwwstnН
+-weight: 54
+-diet 2
+-function result: 17.388889
+
+391. [Fish]
+-name: rhjotyczcН
+-weight: 54
+-habitat 0
+-function result: 17.425926
+
+392. [Beast]
+-name: nwyunrnumН
+-weight: 56
+-diet 2
+-function result: 17.428571
+
+393. [Beast]
+-name: pghozvafmН
+-weight: 53
+-diet 1
+-function result: 17.490566
+
+394. [Fish]
+-name: edalkjdvmН
+-weight: 51
+-habitat 0
+-function result: 17.549020
+
+395. [Fish]
+-name: brixwxkpiН
+-weight: 54
+-habitat 2
+-function result: 17.574074
+
+396. [Beast]
+-name: igpqmwfonН
+-weight: 53
+-diet 2
+-function result: 17.603774
+
+397. [Fish]
+-name: tcaytbtuzН
+-weight: 54
+-habitat 1
+-function result: 17.611111
+
+398. [Fish]
+-name: gtedogfurН
+-weight: 52
+-habitat 2
+-function result: 17.615385
+
+399. [Fish]
+-name: rssfszwxbН
+-weight: 55
+-habitat 2
+-function result: 17.618182
+
+400. [Fish]
+-name: yurlvurnwН
+-weight: 56
+-habitat 3
+-function result: 17.625000
+
+401. [Fish]
+-name: clkkulncaН
+-weight: 51
+-habitat 2
+-function result: 17.666667
+
+402. [Fish]
+-name: bafpfmowgН
+-weight: 51
+-habitat 0
+-function result: 17.686275
+
+403. [Fish]
+-name: frkvbemwyН
+-weight: 53
+-habitat 1
+-function result: 17.698113
+
+404. [Fish]
+-name: pkduulifzН
+-weight: 53
+-habitat 4
+-function result: 17.716981
+
+405. [Fish]
+-name: onpyzwotkН
+-weight: 55
+-habitat 3
+-function result: 17.781818
+
+406. [Fish]
+-name: srqtmknepН
+-weight: 53
+-habitat 4
+-function result: 17.849057
+
+407. [Beast]
+-name: whwztzrbxН
+-weight: 55
+-diet 0
+-function result: 17.872727
+
+408. [Fish]
+-name: khdjyalhvН
+-weight: 51
+-habitat 1
+-function result: 17.921569
+
+409. [Beast]
+-name: uzsrupchyН
+-weight: 54
+-diet 1
+-function result: 17.962963
+
+410. [Beast]
+-name: uphpkxeatН
+-weight: 52
+-diet 0
+-function result: 17.980769
+
+411. [Beast]
+-name: zdqowgoljН
+-weight: 52
+-diet 0
+-function result: 18.115385
+
+412. [Beast]
+-name: bjzwucwljН
+-weight: 52
+-diet 0
+-function result: 18.134615
+
+413. [Beast]
+-name: qdscwtsbxН
+-weight: 52
+-diet 2
+-function result: 18.153846
+
+414. [Fish]
+-name: kqwwowrqeН
+-weight: 53
+-habitat 4
+-function result: 18.207547
+
+415. [Fish]
+-name: cuigaipyhН
+-weight: 50
+-habitat 0
+-function result: 18.240000
+
+416. [Beast]
+-name: yzkhuhjrjН
+-weight: 52
+-diet 2
+-function result: 18.269231
+
+417. [Beast]
+-name: pqdljhehjН
+-weight: 49
+-diet 2
+-function result: 18.428571
+
+418. [Beast]
+-name: wejazhkwcН
+-weight: 50
+-diet 0
+-function result: 18.460000
+
+419. [Beast]
+-name: mparmjdspН
+-weight: 50
+-diet 2
+-function result: 18.460000
+
+420. [Fish]
+-name: akudkpeduН
+-weight: 49
+-habitat 2
+-function result: 18.510204
+
+421. [Fish]
+-name: sdgpmhhdaН
+-weight: 48
+-habitat 4
+-function result: 18.604167
+
+422. [Beast]
+-name: mivazxzmcН
+-weight: 51
+-diet 0
+-function result: 18.627451
+
+423. [Beast]
+-name: fobucdhthН
+-weight: 48
+-diet 0
+-function result: 18.750000
+
+424. [Beast]
+-name: udhnefnjhН
+-weight: 48
+-diet 1
+-function result: 18.812500
+
+425. [Fish]
+-name: bbzdrwlphН
+-weight: 49
+-habitat 2
+-function result: 18.857143
+
+426. [Fish]
+-name: punkdmbppН
+-weight: 49
+-habitat 0
+-function result: 18.897959
+
+427. [Fish]
+-name: gfpmuscrlН
+-weight: 49
+-habitat 4
+-function result: 18.938776
+
+428. [Beast]
+-name: oqyjvxkhcН
+-weight: 50
+-diet 1
+-function result: 18.960000
+
+429. [Beast]
+-name: fsvvntguxН
+-weight: 51
+-diet 2
+-function result: 18.980392
+
+430. [Fish]
+-name: jtboxvynfН
+-weight: 50
+-habitat 0
+-function result: 19.020000
+
+431. [Beast]
+-name: zotcjtnzxН
+-weight: 51
+-diet 1
+-function result: 19.039216
+
+432. [Fish]
+-name: asvwsrenzН
+-weight: 50
+-habitat 3
+-function result: 19.200000
+
+433. [Fish]
+-name: rxhwmhlvbН
+-weight: 49
+-habitat 4
+-function result: 19.244898
+
+434. [Fish]
+-name: ukxffjpssН
+-weight: 49
+-habitat 3
+-function result: 19.285714
+
+435. [Beast]
+-name: qoverscjzН
+-weight: 49
+-diet 1
+-function result: 19.346939
+
+436. [Beast]
+-name: rqpjjwaknН
+-weight: 48
+-diet 0
+-function result: 19.437500
+
+437. [Beast]
+-name: oijoivvgoН
+-weight: 48
+-diet 1
+-function result: 19.520833
+
+438. [Beast]
+-name: wsqrmjzssН
+-weight: 50
+-diet 2
+-function result: 19.540000
+
+439. [Beast]
+-name: cezwapqrvН
+-weight: 48
+-diet 2
+-function result: 19.666667
+
+440. [Beast]
+-name: ztsshfroeН
+-weight: 48
+-diet 0
+-function result: 19.770833
+
+441. [Fish]
+-name: oglmkxgbfН
+-weight: 45
+-habitat 3
+-function result: 20.222222
+
+442. [Beast]
+-name: mwwpgpljeН
+-weight: 46
+-diet 0
+-function result: 20.391304
+
+443. [Beast]
+-name: nydqvtyjsН
+-weight: 47
+-diet 2
+-function result: 20.617021
+
+444. [Beast]
+-name: bbxajefbfН
+-weight: 42
+-diet 2
+-function result: 20.738095
+
+445. [Fish]
+-name: jqmvnkyrtН
+-weight: 46
+-habitat 0
+-function result: 20.934783
+
+446. [Beast]
+-name: pckqchbddН
+-weight: 42
+-diet 2
+-function result: 20.976190
+
+447. [Fish]
+-name: jxeshoihmН
+-weight: 44
+-habitat 2
+-function result: 21.000000
+
+448. [Fish]
+-name: dhufhwkhzН
+-weight: 44
+-habitat 1
+-function result: 21.090909
+
+449. [Beast]
+-name: qpyiowmnlН
+-weight: 45
+-diet 1
+-function result: 21.266667
+
+450. [Fish]
+-name: reqgjfwkjН
+-weight: 43
+-habitat 4
+-function result: 21.395349
+
+451. [Fish]
+-name: jnbkcpdmoН
+-weight: 42
+-habitat 2
+-function result: 21.452381
+
+452. [Beast]
+-name: nckwvnhkeН
+-weight: 43
+-diet 2
+-function result: 21.488372
+
+453. [Beast]
+-name: ywdofnzxqН
+-weight: 45
+-diet 1
+-function result: 21.488889
+
+454. [Beast]
+-name: cihluilgmН
+-weight: 42
+-diet 1
+-function result: 21.595238
+
+455. [Fish]
+-name: stmmwwwqkН
+-weight: 45
+-habitat 3
+-function result: 21.666667
+
+456. [Fish]
+-name: yjvctvfamН
+-weight: 43
+-habitat 1
+-function result: 21.744186
+
+457. [Fish]
+-name: xxtolhglvН
+-weight: 44
+-habitat 2
+-function result: 21.750000
+
+458. [Fish]
+-name: pqzyyhhtxН
+-weight: 45
+-habitat 2
+-function result: 21.822222
+
+459. [Fish]
+-name: ajuaxpdpsН
+-weight: 42
+-habitat 3
+-function result: 22.023810
+
+460. [Fish]
+-name: nzpyvysdkН
+-weight: 44
+-habitat 3
+-function result: 22.159091
+
+461. [Beast]
+-name: welpdjmmbН
+-weight: 41
+-diet 0
+-function result: 22.219512
+
+462. [Fish]
+-name: qvnfjxxvkН
+-weight: 43
+-habitat 4
+-function result: 22.395349
+
+463. [Fish]
+-name: ewzkaojurН
+-weight: 42
+-habitat 4
+-function result: 22.452381
+
+464. [Fish]
+-name: ylobcwqxkН
+-weight: 42
+-habitat 4
+-function result: 22.500000
+
+465. [Beast]
+-name: cimlmslebН
+-weight: 40
+-diet 2
+-function result: 22.525000
+
+466. [Fish]
+-name: gpnpuuhgxН
+-weight: 42
+-habitat 4
+-function result: 22.547619
+
+467. [Beast]
+-name: lmznmjugwН
+-weight: 42
+-diet 1
+-function result: 22.666667
+
+468. [Fish]
+-name: khjucfuwoН
+-weight: 41
+-habitat 4
+-function result: 22.707317
+
+469. [Fish]
+-name: ptqmveghmН
+-weight: 41
+-habitat 2
+-function result: 22.780488
+
+470. [Fish]
+-name: gihcyfqzvН
+-weight: 41
+-habitat 3
+-function result: 22.829268
+
+471. [Fish]
+-name: eihxyxansН
+-weight: 41
+-habitat 2
+-function result: 22.975610
+
+472. [Beast]
+-name: ihwauroqrН
+-weight: 41
+-diet 0
+-function result: 23.000000
+
+473. [Fish]
+-name: kkcafcomvН
+-weight: 39
+-habitat 3
+-function result: 23.025641
+
+474. [Beast]
+-name: ikeffmzniН
+-weight: 39
+-diet 1
+-function result: 23.384615
+
+475. [Fish]
+-name: balezroknН
+-weight: 39
+-habitat 0
+-function result: 23.512821
+
+476. [Beast]
+-name: cobzcnfwlН
+-weight: 39
+-diet 0
+-function result: 23.512821
+
+477. [Beast]
+-name: rngsoqdjfН
+-weight: 39
+-diet 2
+-function result: 23.666667
+
+478. [Beast]
+-name: sqfzxxwglН
+-weight: 41
+-diet 2
+-function result: 23.682927
+
+479. [Beast]
+-name: gofhwbkkfН
+-weight: 38
+-diet 1
+-function result: 23.736842
+
+480. [Fish]
+-name: bpkapbszyН
+-weight: 39
+-habitat 3
+-function result: 23.871795
+
+481. [Beast]
+-name: nhiiulltoН
+-weight: 39
+-diet 0
+-function result: 23.923077
+
+482. [Fish]
+-name: ycjpkpxflН
+-weight: 39
+-habitat 2
+-function result: 24.000000
+
+483. [Beast]
+-name: dzivcuypuН
+-weight: 40
+-diet 2
+-function result: 24.000000
+
+484. [Beast]
+-name: ehbbcpxifН
+-weight: 37
+-diet 1
+-function result: 24.000000
+
+485. [Beast]
+-name: jjnehrykxН
+-weight: 39
+-diet 1
+-function result: 24.051282
+
+486. [Beast]
+-name: thggtdrdoН
+-weight: 38
+-diet 0
+-function result: 24.105263
+
+487. [Fish]
+-name: mnpinwlexН
+-weight: 39
+-habitat 3
+-function result: 24.179487
+
+488. [Fish]
+-name: tgjoparmoН
+-weight: 38
+-habitat 0
+-function result: 24.421053
+
+489. [Fish]
+-name: dsbvqqijqН
+-weight: 38
+-habitat 1
+-function result: 24.473684
+
+490. [Fish]
+-name: nphdbytwoН
+-weight: 38
+-habitat 0
+-function result: 24.736842
+
+491. [Beast]
+-name: atkhqsqchН
+-weight: 37
+-diet 0
+-function result: 24.783784
+
+492. [Fish]
+-name: fmajfhqyuН
+-weight: 37
+-habitat 3
+-function result: 24.864865
+
+493. [Fish]
+-name: egjccvhhrН
+-weight: 36
+-habitat 4
+-function result: 24.916667
+
+494. [Fish]
+-name: aaolsvubpН
+-weight: 37
+-habitat 4
+-function result: 24.918919
+
+495. [Beast]
+-name: wzztdjpqsН
+-weight: 39
+-diet 1
+-function result: 24.974359
+
+496. [Beast]
+-name: yhsgewzmtН
+-weight: 38
+-diet 2
+-function result: 25.236842
+
+497. [Fish]
+-name: osfytluceН
+-weight: 37
+-habitat 3
+-function result: 25.378378
+
+498. [Beast]
+-name: vcpcjpmjhН
+-weight: 36
+-diet 0
+-function result: 25.388889
+
+499. [Beast]
+-name: hutifklgkН
+-weight: 36
+-diet 1
+-function result: 25.500000
+
+500. [Fish]
+-name: yhcwwiaruН
+-weight: 37
+-habitat 4
+-function result: 25.513514
+
+501. [Beast]
+-name: jugggekjdН
+-weight: 35
+-diet 2
+-function result: 25.571429
+
+502. [Beast]
+-name: srdzjazujН
+-weight: 37
+-diet 0
+-function result: 25.621622
+
+503. [Beast]
+-name: mqmjccpaoН
+-weight: 35
+-diet 0
+-function result: 25.828571
+
+504. [Beast]
+-name: nlerlkyawН
+-weight: 36
+-diet 2
+-function result: 25.944444
+
+505. [Beast]
+-name: jtimdspizН
+-weight: 36
+-diet 1
+-function result: 26.083333
+
+506. [Beast]
+-name: vnpppsuacН
+-weight: 36
+-diet 1
+-function result: 26.138889
+
+507. [Beast]
+-name: iwlaqigesН
+-weight: 35
+-diet 0
+-function result: 26.142857
+
+508. [Beast]
+-name: inzyhcejcН
+-weight: 35
+-diet 2
+-function result: 26.171429
+
+509. [Fish]
+-name: lyrvfnkkmН
+-weight: 36
+-habitat 0
+-function result: 26.250000
+
+510. [Fish]
+-name: ggsdyjbvoН
+-weight: 35
+-habitat 0
+-function result: 26.400000
+
+511. [Beast]
+-name: xksuvzwztН
+-weight: 38
+-diet 0
+-function result: 26.447368
+
+512. [Fish]
+-name: ewkgwgtocН
+-weight: 35
+-habitat 0
+-function result: 26.485714
+
+513. [Fish]
+-name: sldjesdcpН
+-weight: 34
+-habitat 0
+-function result: 26.617647
+
+514. [Beast]
+-name: rxpwpzhsvН
+-weight: 37
+-diet 2
+-function result: 26.621622
+
+515. [Beast]
+-name: kytgjpmmgН
+-weight: 35
+-diet 1
+-function result: 26.714286
+
+516. [Beast]
+-name: jrxjhguzyН
+-weight: 36
+-diet 2
+-function result: 26.722222
+
+517. [Fish]
+-name: cznlterxbН
+-weight: 35
+-habitat 1
+-function result: 26.771429
+
+518. [Fish]
+-name: eylfpbnplН
+-weight: 34
+-habitat 3
+-function result: 27.088235
+
+519. [Beast]
+-name: emnhpqyicН
+-weight: 34
+-diet 2
+-function result: 27.147059
+
+520. [Fish]
+-name: kkigjmxqrН
+-weight: 34
+-habitat 2
+-function result: 27.441176
+
+521. [Fish]
+-name: suyvkkjopН
+-weight: 35
+-habitat 2
+-function result: 27.514286
+
+522. [Beast]
+-name: igbjtmqmdН
+-weight: 33
+-diet 2
+-function result: 27.515152
+
+523. [Fish]
+-name: cyqtrcvvvН
+-weight: 35
+-habitat 3
+-function result: 27.571429
+
+524. [Fish]
+-name: varpfobgmН
+-weight: 33
+-habitat 4
+-function result: 27.666667
+
+525. [Beast]
+-name: pgkozuywmН
+-weight: 35
+-diet 1
+-function result: 27.714286
+
+526. [Fish]
+-name: qhtydwpbsН
+-weight: 34
+-habitat 1
+-function result: 27.852941
+
+527. [Beast]
+-name: imvfvuzwyН
+-weight: 35
+-diet 1
+-function result: 28.000000
+
+528. [Fish]
+-name: ipbzncwhrН
+-weight: 33
+-habitat 1
+-function result: 28.242424
+
+529. [Beast]
+-name: mmyspnaraН
+-weight: 33
+-diet 1
+-function result: 28.272727
+
+530. [Fish]
+-name: mfdcdccmoН
+-weight: 31
+-habitat 3
+-function result: 28.290323
+
+531. [Fish]
+-name: nehrjstzfН
+-weight: 33
+-habitat 3
+-function result: 28.454545
+
+532. [Beast]
+-name: dydcprjbxН
+-weight: 32
+-diet 2
+-function result: 28.718750
+
+533. [Beast]
+-name: gwdyafawqН
+-weight: 32
+-diet 1
+-function result: 28.750000
+
+534. [Beast]
+-name: kcdbbgckjН
+-weight: 30
+-diet 1
+-function result: 28.866667
+
+535. [Fish]
+-name: dauptyvjaН
+-weight: 32
+-habitat 2
+-function result: 29.156250
+
+536. [Fish]
+-name: pyeevdggaН
+-weight: 31
+-habitat 1
+-function result: 29.193548
+
+537. [Fish]
+-name: nmwajgxzgН
+-weight: 32
+-habitat 0
+-function result: 29.312500
+
+538. [Fish]
+-name: mpmyhchzrН
+-weight: 32
+-habitat 2
+-function result: 29.468750
+
+539. [Beast]
+-name: utfvexdczН
+-weight: 32
+-diet 1
+-function result: 29.500000
+
+540. [Fish]
+-name: jnolsowrmН
+-weight: 32
+-habitat 3
+-function result: 29.750000
+
+541. [Fish]
+-name: oppnnctehН
+-weight: 31
+-habitat 2
+-function result: 29.806452
+
+542. [Beast]
+-name: lpdevpezpН
+-weight: 31
+-diet 0
+-function result: 30.161290
+
+543. [Beast]
+-name: bacpjzsnaН
+-weight: 30
+-diet 1
+-function result: 30.166667
+
+544. [Beast]
+-name: bmusqdklaН
+-weight: 30
+-diet 2
+-function result: 30.433333
+
+545. [Fish]
+-name: qjrltmymhН
+-weight: 31
+-habitat 2
+-function result: 30.612903
+
+546. [Beast]
+-name: teeqdvdlrН
+-weight: 30
+-diet 0
+-function result: 30.666667
+
+547. [Fish]
+-name: qnvocdenqН
+-weight: 30
+-habitat 2
+-function result: 30.800000
+
+548. [Fish]
+-name: qnbchiwfuН
+-weight: 29
+-habitat 3
+-function result: 31.586207
+
+549. [Fish]
+-name: openeuxflН
+-weight: 29
+-habitat 3
+-function result: 32.103448
+
+550. [Fish]
+-name: msgufjiwlН
+-weight: 29
+-habitat 0
+-function result: 32.172414
+
+551. [Fish]
+-name: lzklnissaН
+-weight: 29
+-habitat 2
+-function result: 32.275862
+
+552. [Beast]
+-name: hokquwqvwН
+-weight: 30
+-diet 0
+-function result: 32.333333
+
+553. [Fish]
+-name: zzbfkqdpqН
+-weight: 29
+-habitat 4
+-function result: 32.344828
+
+554. [Beast]
+-name: qtvppazhlН
+-weight: 29
+-diet 1
+-function result: 32.793103
+
+555. [Fish]
+-name: jchztmiepН
+-weight: 28
+-habitat 4
+-function result: 32.964286
+
+556. [Fish]
+-name: dhzxlefppН
+-weight: 28
+-habitat 1
+-function result: 33.214286
+
+557. [Fish]
+-name: ymhlzcltjН
+-weight: 28
+-habitat 1
+-function result: 33.642857
+
+558. [Fish]
+-name: bziyrvgqmН
+-weight: 28
+-habitat 0
+-function result: 34.000000
+
+559. [Fish]
+-name: tlslwuhtfН
+-weight: 28
+-habitat 1
+-function result: 34.071429
+
+560. [Fish]
+-name: qzhltmgtuН
+-weight: 28
+-habitat 0
+-function result: 34.178571
+
+561. [Beast]
+-name: yrghrwpqiН
+-weight: 27
+-diet 0
+-function result: 35.333333
+
+562. [Fish]
+-name: xgyyiudsjН
+-weight: 27
+-habitat 1
+-function result: 35.444444
+
+563. [Fish]
+-name: dhpoamvafН
+-weight: 25
+-habitat 2
+-function result: 35.960000
+
+564. [Fish]
+-name: nfhggtagrН
+-weight: 25
+-habitat 0
+-function result: 36.040000
+
+565. [Fish]
+-name: klhsecdwrН
+-weight: 25
+-habitat 1
+-function result: 36.640000
+
+566. [Beast]
+-name: ppkwlbmjaН
+-weight: 25
+-diet 1
+-function result: 36.680000
+
+567. [Fish]
+-name: yszblqgpwН
+-weight: 26
+-habitat 2
+-function result: 36.923077
+
+568. [Beast]
+-name: wvvdycxczН
+-weight: 26
+-diet 2
+-function result: 37.115385
+
+569. [Beast]
+-name: jcokvfktqН
+-weight: 25
+-diet 0
+-function result: 37.120000
+
+570. [Beast]
+-name: msqsghmcpН
+-weight: 25
+-diet 1
+-function result: 37.120000
+
+571. [Beast]
+-name: teyctmuifН
+-weight: 25
+-diet 0
+-function result: 37.400000
+
+572. [Fish]
+-name: yyfesoykmН
+-weight: 25
+-habitat 1
+-function result: 38.280000
+
+573. [Fish]
+-name: qpthdmzeiН
+-weight: 24
+-habitat 3
+-function result: 38.791667
+
+574. [Beast]
+-name: ozqvlqfxwН
+-weight: 25
+-diet 1
+-function result: 39.000000
+
+575. [Beast]
+-name: yqufotiajН
+-weight: 24
+-diet 2
+-function result: 39.041667
+
+576. [Beast]
+-name: agfhzzfbdН
+-weight: 23
+-diet 1
+-function result: 39.086957
+
+577. [Beast]
+-name: cplbklpjmН
+-weight: 23
+-diet 2
+-function result: 39.478261
+
+578. [Beast]
+-name: rllivfedkН
+-weight: 23
+-diet 2
+-function result: 39.652174
+
+579. [Fish]
+-name: bxotdirxxН
+-weight: 24
+-habitat 0
+-function result: 39.708333
+
+580. [Fish]
+-name: pspbmykoyН
+-weight: 24
+-habitat 4
+-function result: 39.791667
+
+581. [Fish]
+-name: sczvhhujzН
+-weight: 24
+-habitat 0
+-function result: 39.833333
+
+582. [Beast]
+-name: gaiaioiieН
+-weight: 22
+-diet 1
+-function result: 39.909091
+
+583. [Beast]
+-name: dlwxfaigaН
+-weight: 22
+-diet 2
+-function result: 40.909091
+
+584. [Beast]
+-name: wweiqurpiН
+-weight: 23
+-diet 0
+-function result: 41.478261
+
+585. [Fish]
+-name: agydmhrpyН
+-weight: 22
+-habitat 0
+-function result: 42.272727
+
+586. [Beast]
+-name: bccfqmwhbН
+-weight: 21
+-diet 2
+-function result: 42.380952
+
+587. [Fish]
+-name: ilfuldvrxН
+-weight: 22
+-habitat 0
+-function result: 42.772727
+
+588. [Beast]
+-name: caiknsugjН
+-weight: 21
+-diet 0
+-function result: 43.238095
+
+589. [Beast]
+-name: hdhfqsgbxН
+-weight: 21
+-diet 2
+-function result: 43.238095
+
+590. [Fish]
+-name: wrwebgelzН
+-weight: 21
+-habitat 4
+-function result: 44.476190
+
+591. [Fish]
+-name: hjfcewctbН
+-weight: 20
+-habitat 4
+-function result: 44.650000
+
+592. [Beast]
+-name: tgmopsrgpН
+-weight: 21
+-diet 1
+-function result: 44.952381
+
+593. [Beast]
+-name: nuatdqlahН
+-weight: 20
+-diet 0
+-function result: 45.550000
+
+594. [Fish]
+-name: rzjpxiogvН
+-weight: 21
+-habitat 3
+-function result: 45.714286
+
+595. [Beast]
+-name: ixipvwoqlН
+-weight: 21
+-diet 2
+-function result: 45.714286
+
+596. [Bird]
+-name: cclifkeljН
+-weight: 19
+-migration 0
+-function result: 46.526316
+
+597. [Beast]
+-name: zdndosiyhН
+-weight: 20
+-diet 2
+-function result: 46.850000
+
+598. [Fish]
+-name: mtfbourzhН
+-weight: 20
+-habitat 3
+-function result: 47.100000
+
+599. [Fish]
+-name: utiebpbbmН
+-weight: 19
+-habitat 0
+-function result: 47.526316
+
+600. [Bird]
+-name: bcjpdyjliН
+-weight: 19
+-migration 1
+-function result: 47.578947
+
+601. [Bird]
+-name: hcfmceztgН
+-weight: 19
+-migration 1
+-function result: 47.578947
+
+602. [Bird]
+-name: gkjelrlpaН
+-weight: 19
+-migration 1
+-function result: 47.631579
+
+603. [Beast]
+-name: dxllubryyН
+-weight: 20
+-diet 2
+-function result: 47.800000
+
+604. [Bird]
+-name: absdnvqhkН
+-weight: 19
+-migration 1
+-function result: 47.947368
+
+605. [Bird]
+-name: caxxsufahН
+-weight: 19
+-migration 0
+-function result: 48.421053
+
+606. [Bird]
+-name: hlpudoemnН
+-weight: 19
+-migration 1
+-function result: 48.473684
+
+607. [Bird]
+-name: isbfnhjzqН
+-weight: 19
+-migration 1
+-function result: 48.631579
+
+608. [Beast]
+-name: vlzylntrkН
+-weight: 20
+-diet 1
+-function result: 48.650000
+
+609. [Fish]
+-name: ynqmgzagbН
+-weight: 19
+-habitat 4
+-function result: 48.684211
+
+610. [Beast]
+-name: phjbjyovdН
+-weight: 19
+-diet 1
+-function result: 48.684211
+
+611. [Bird]
+-name: hrdjzzherН
+-weight: 19
+-migration 0
+-function result: 49.263158
+
+612. [Beast]
+-name: vipyamyehН
+-weight: 19
+-diet 2
+-function result: 49.315789
+
+613. [Bird]
+-name: mewwhgpmpН
+-weight: 19
+-migration 1
+-function result: 49.315789
+
+614. [Bird]
+-name: orckqaxsrН
+-weight: 19
+-migration 0
+-function result: 49.421053
+
+615. [Bird]
+-name: eprxibexxН
+-weight: 19
+-migration 0
+-function result: 49.473684
+
+616. [Bird]
+-name: auwinsjlsН
+-weight: 19
+-migration 0
+-function result: 49.526316
+
+617. [Bird]
+-name: ohuvogldxН
+-weight: 19
+-migration 1
+-function result: 49.526316
+
+618. [Fish]
+-name: kldacllteН
+-weight: 18
+-habitat 3
+-function result: 49.611111
+
+619. [Bird]
+-name: pmvkhozhkН
+-weight: 19
+-migration 1
+-function result: 49.631579
+
+620. [Bird]
+-name: hiudghyxyН
+-weight: 19
+-migration 0
+-function result: 49.684211
+
+621. [Bird]
+-name: mymxiisneН
+-weight: 19
+-migration 1
+-function result: 49.684211
+
+622. [Bird]
+-name: hzxndsiyfН
+-weight: 19
+-migration 0
+-function result: 49.894737
+
+623. [Bird]
+-name: vkxzecxepН
+-weight: 19
+-migration 0
+-function result: 49.947368
+
+624. [Bird]
+-name: ydyzvahnkН
+-weight: 19
+-migration 0
+-function result: 49.947368
+
+625. [Bird]
+-name: tisizxhreН
+-weight: 19
+-migration 1
+-function result: 50.052632
+
+626. [Bird]
+-name: qopqfoviuН
+-weight: 19
+-migration 0
+-function result: 50.052632
+
+627. [Bird]
+-name: iabubqqdoН
+-weight: 18
+-migration 1
+-function result: 50.055556
+
+628. [Bird]
+-name: qgajqkcklН
+-weight: 18
+-migration 1
+-function result: 50.111111
+
+629. [Bird]
+-name: dxonzmnjvН
+-weight: 19
+-migration 1
+-function result: 50.263158
+
+630. [Bird]
+-name: zukjwocyhН
+-weight: 19
+-migration 1
+-function result: 50.263158
+
+631. [Bird]
+-name: hqufqqxvlН
+-weight: 19
+-migration 1
+-function result: 50.368421
+
+632. [Bird]
+-name: zzmkvmhnlН
+-weight: 19
+-migration 0
+-function result: 50.421053
+
+633. [Beast]
+-name: sqqozvejnН
+-weight: 19
+-diet 2
+-function result: 50.421053
+
+634. [Beast]
+-name: gfphifubtН
+-weight: 18
+-diet 1
+-function result: 50.444444
+
+635. [Bird]
+-name: czhyjgdfgН
+-weight: 18
+-migration 1
+-function result: 50.500000
+
+636. [Bird]
+-name: xuojorawuН
+-weight: 19
+-migration 1
+-function result: 50.578947
+
+637. [Bird]
+-name: kukylzcruН
+-weight: 19
+-migration 1
+-function result: 50.578947
+
+638. [Bird]
+-name: yljddjhmlН
+-weight: 18
+-migration 1
+-function result: 50.611111
+
+639. [Bird]
+-name: dalljreqtН
+-weight: 18
+-migration 0
+-function result: 50.666667
+
+640. [Bird]
+-name: mmvedewdmН
+-weight: 18
+-migration 1
+-function result: 50.833333
+
+641. [Bird]
+-name: tqcotchcoН
+-weight: 18
+-migration 1
+-function result: 50.944444
+
+642. [Bird]
+-name: qpirqvwqqН
+-weight: 19
+-migration 0
+-function result: 51.000000
+
+643. [Bird]
+-name: bmmilpoxbН
+-weight: 18
+-migration 0
+-function result: 51.055556
+
+644. [Fish]
+-name: vfjzbdwkbН
+-weight: 18
+-habitat 4
+-function result: 51.055556
+
+645. [Bird]
+-name: lntxmrjxxН
+-weight: 19
+-migration 0
+-function result: 51.157895
+
+646. [Bird]
+-name: dlpqmvjifН
+-weight: 18
+-migration 1
+-function result: 51.222222
+
+647. [Bird]
+-name: dvaeqjkzmН
+-weight: 18
+-migration 1
+-function result: 51.222222
+
+648. [Bird]
+-name: wcuqdscilН
+-weight: 18
+-migration 0
+-function result: 51.333333
+
+649. [Bird]
+-name: iauapwkczН
+-weight: 18
+-migration 1
+-function result: 51.333333
+
+650. [Bird]
+-name: meclsshvkН
+-weight: 18
+-migration 0
+-function result: 51.388889
+
+651. [Bird]
+-name: mwgsddpqkН
+-weight: 18
+-migration 1
+-function result: 51.500000
+
+652. [Bird]
+-name: bsupcpxcjН
+-weight: 18
+-migration 0
+-function result: 51.500000
+
+653. [Bird]
+-name: ivqcwvzxtН
+-weight: 19
+-migration 0
+-function result: 51.526316
+
+654. [Bird]
+-name: kifygtydhН
+-weight: 18
+-migration 0
+-function result: 51.555556
+
+655. [Fish]
+-name: gydqdhltrН
+-weight: 18
+-habitat 1
+-function result: 51.555556
+
+656. [Bird]
+-name: idukuhjzeН
+-weight: 18
+-migration 1
+-function result: 51.555556
+
+657. [Fish]
+-name: rfiefaabrН
+-weight: 17
+-habitat 3
+-function result: 51.705882
+
+658. [Bird]
+-name: ynmuxqkwwН
+-weight: 19
+-migration 0
+-function result: 51.789474
+
+659. [Bird]
+-name: pjdgvlzmjН
+-weight: 18
+-migration 1
+-function result: 51.833333
+
+660. [Bird]
+-name: qubpgugwgН
+-weight: 18
+-migration 1
+-function result: 51.888889
+
+661. [Bird]
+-name: cztozoabnН
+-weight: 18
+-migration 0
+-function result: 51.944444
+
+662. [Beast]
+-name: hsjlrglmwН
+-weight: 18
+-diet 1
+-function result: 51.944444
+
+663. [Beast]
+-name: nqivmvubcН
+-weight: 18
+-diet 1
+-function result: 52.000000
+
+664. [Bird]
+-name: rsigbhzjzН
+-weight: 18
+-migration 0
+-function result: 52.111111
+
+665. [Bird]
+-name: ouizveavgН
+-weight: 18
+-migration 1
+-function result: 52.277778
+
+666. [Bird]
+-name: ufarzrosdН
+-weight: 18
+-migration 0
+-function result: 52.277778
+
+667. [Fish]
+-name: mkgotzjmnН
+-weight: 18
+-habitat 3
+-function result: 52.333333
+
+668. [Bird]
+-name: drchjccdyН
+-weight: 17
+-migration 1
+-function result: 52.411765
+
+669. [Bird]
+-name: cvlxzipodН
+-weight: 18
+-migration 0
+-function result: 52.444444
+
+670. [Bird]
+-name: lbjbipfimН
+-weight: 17
+-migration 0
+-function result: 52.470588
+
+671. [Bird]
+-name: yfdxkmtuhН
+-weight: 18
+-migration 0
+-function result: 52.500000
+
+672. [Bird]
+-name: vwzxssqxnН
+-weight: 19
+-migration 1
+-function result: 52.684211
+
+673. [Bird]
+-name: rrbddndodН
+-weight: 17
+-migration 1
+-function result: 52.705882
+
+674. [Bird]
+-name: afyesyvizН
+-weight: 18
+-migration 1
+-function result: 52.833333
+
+675. [Bird]
+-name: rcyvzsahpН
+-weight: 18
+-migration 0
+-function result: 52.833333
+
+676. [Bird]
+-name: tagienatjН
+-weight: 17
+-migration 1
+-function result: 52.941176
+
+677. [Bird]
+-name: fsturtjhuН
+-weight: 18
+-migration 1
+-function result: 53.111111
+
+678. [Bird]
+-name: pjhaefqzaН
+-weight: 17
+-migration 0
+-function result: 53.117647
+
+679. [Fish]
+-name: omafsyvyrН
+-weight: 18
+-habitat 4
+-function result: 53.166667
+
+680. [Bird]
+-name: avyxjveqvН
+-weight: 18
+-migration 1
+-function result: 53.388889
+
+681. [Bird]
+-name: pqnzomcwvН
+-weight: 18
+-migration 0
+-function result: 53.444444
+
+682. [Bird]
+-name: akubnfgupН
+-weight: 17
+-migration 1
+-function result: 53.647059
+
+683. [Bird]
+-name: rorysmgtxН
+-weight: 18
+-migration 0
+-function result: 54.000000
+
+684. [Bird]
+-name: zvqpsouubН
+-weight: 18
+-migration 0
+-function result: 54.000000
+
+685. [Bird]
+-name: rizxoqptqН
+-weight: 18
+-migration 0
+-function result: 54.166667
+
+686. [Bird]
+-name: dxfircvscН
+-weight: 17
+-migration 1
+-function result: 54.176471
+
+687. [Bird]
+-name: xapemvbqlН
+-weight: 17
+-migration 1
+-function result: 54.411765
+
+688. [Bird]
+-name: ennlqkwhhН
+-weight: 17
+-migration 0
+-function result: 54.411765
+
+689. [Bird]
+-name: pzvtvjxydН
+-weight: 18
+-migration 0
+-function result: 54.555556
+
+690. [Bird]
+-name: gzxlaeykeН
+-weight: 17
+-migration 1
+-function result: 54.647059
+
+691. [Fish]
+-name: ezohmiurcН
+-weight: 17
+-habitat 1
+-function result: 54.764706
+
+692. [Bird]
+-name: ottcjtuegН
+-weight: 17
+-migration 0
+-function result: 54.941176
+
+693. [Bird]
+-name: hcpqugriwН
+-weight: 17
+-migration 1
+-function result: 55.000000
+
+694. [Bird]
+-name: ytbcrkliwН
+-weight: 17
+-migration 0
+-function result: 55.058824
+
+695. [Bird]
+-name: dfyemfqvyН
+-weight: 17
+-migration 1
+-function result: 55.058824
+
+696. [Bird]
+-name: mvqthejjrН
+-weight: 17
+-migration 1
+-function result: 55.058824
+
+697. [Bird]
+-name: ferayxdznН
+-weight: 17
+-migration 1
+-function result: 55.058824
+
+698. [Bird]
+-name: wxrykxtlxН
+-weight: 18
+-migration 0
+-function result: 55.222222
+
+699. [Bird]
+-name: eicufdiamН
+-weight: 16
+-migration 1
+-function result: 55.250000
+
+700. [Bird]
+-name: vbhrmlowpН
+-weight: 17
+-migration 1
+-function result: 55.411765
+
+701. [Fish]
+-name: cnjgzuhwqН
+-weight: 17
+-habitat 0
+-function result: 55.411765
+
+702. [Bird]
+-name: mqlfwzjfqН
+-weight: 17
+-migration 1
+-function result: 55.470588
+
+703. [Bird]
+-name: zlodsrkeuН
+-weight: 17
+-migration 1
+-function result: 55.529412
+
+704. [Bird]
+-name: pqmotjhkuН
+-weight: 17
+-migration 1
+-function result: 55.529412
+
+705. [Beast]
+-name: fgykzmucwН
+-weight: 17
+-diet 2
+-function result: 55.764706
+
+706. [Bird]
+-name: ivyhzpxcdН
+-weight: 17
+-migration 1
+-function result: 55.882353
+
+707. [Bird]
+-name: cwhlsyoyhН
+-weight: 17
+-migration 0
+-function result: 55.941176
+
+708. [Bird]
+-name: suthsyoefН
+-weight: 17
+-migration 1
+-function result: 55.941176
+
+709. [Bird]
+-name: recwgxxpsН
+-weight: 17
+-migration 0
+-function result: 56.000000
+
+710. [Bird]
+-name: dtquvptteН
+-weight: 17
+-migration 0
+-function result: 56.352941
+
+711. [Beast]
+-name: epwzolhusН
+-weight: 17
+-diet 2
+-function result: 56.352941
+
+712. [Fish]
+-name: zifnhyxwjН
+-weight: 17
+-habitat 2
+-function result: 56.352941
+
+713. [Bird]
+-name: aafjeqiozН
+-weight: 16
+-migration 1
+-function result: 56.437500
+
+714. [Bird]
+-name: colocmfhpН
+-weight: 16
+-migration 1
+-function result: 56.500000
+
+715. [Bird]
+-name: gygfvtqvzН
+-weight: 17
+-migration 0
+-function result: 56.764706
+
+716. [Bird]
+-name: rtejlrcmcН
+-weight: 16
+-migration 1
+-function result: 57.187500
+
+717. [Fish]
+-name: qbnkstmdeН
+-weight: 16
+-habitat 1
+-function result: 57.375000
+
+718. [Bird]
+-name: eywcofqbkН
+-weight: 16
+-migration 1
+-function result: 57.500000
+
+719. [Bird]
+-name: yuyopqjkzН
+-weight: 17
+-migration 1
+-function result: 57.588235
+
+720. [Bird]
+-name: uiertlpbjН
+-weight: 16
+-migration 0
+-function result: 57.875000
+
+721. [Bird]
+-name: idwmtpbnmН
+-weight: 16
+-migration 0
+-function result: 57.937500
+
+722. [Bird]
+-name: ozijipfioН
+-weight: 16
+-migration 1
+-function result: 58.000000
+
+723. [Bird]
+-name: eykvixdaqН
+-weight: 16
+-migration 1
+-function result: 58.187500
+
+724. [Bird]
+-name: jncpxrjvbН
+-weight: 16
+-migration 1
+-function result: 58.250000
+
+725. [Beast]
+-name: stfvskrebН
+-weight: 16
+-diet 0
+-function result: 58.437500
+
+726. [Bird]
+-name: gjsjtakzrН
+-weight: 16
+-migration 0
+-function result: 58.437500
+
+727. [Fish]
+-name: cicyzalwuН
+-weight: 16
+-habitat 1
+-function result: 58.500000
+
+728. [Bird]
+-name: ddpszrnavН
+-weight: 16
+-migration 0
+-function result: 58.562500
+
+729. [Bird]
+-name: vcclpeztsН
+-weight: 16
+-migration 1
+-function result: 58.687500
+
+730. [Beast]
+-name: rnaplqyjpН
+-weight: 16
+-diet 0
+-function result: 58.875000
+
+731. [Bird]
+-name: cthrxsxclН
+-weight: 16
+-migration 1
+-function result: 59.000000
+
+732. [Bird]
+-name: yzjeeuhmsН
+-weight: 16
+-migration 1
+-function result: 59.062500
+
+733. [Bird]
+-name: qrfpdrsykН
+-weight: 16
+-migration 1
+-function result: 59.187500
+
+734. [Bird]
+-name: plhxtgybvН
+-weight: 16
+-migration 0
+-function result: 59.312500
+
+735. [Bird]
+-name: pfymrmqhuН
+-weight: 16
+-migration 0
+-function result: 59.375000
+
+736. [Bird]
+-name: xerftzlkoН
+-weight: 16
+-migration 1
+-function result: 59.375000
+
+737. [Bird]
+-name: yddqrxnvkН
+-weight: 16
+-migration 0
+-function result: 59.500000
+
+738. [Bird]
+-name: upmtrvipfН
+-weight: 16
+-migration 1
+-function result: 59.625000
+
+739. [Bird]
+-name: lgbfviocfН
+-weight: 15
+-migration 0
+-function result: 59.666667
+
+740. [Bird]
+-name: otrwospofН
+-weight: 16
+-migration 0
+-function result: 60.000000
+
+741. [Bird]
+-name: qwxtbftqsН
+-weight: 16
+-migration 1
+-function result: 60.062500
+
+742. [Bird]
+-name: fsrcbdzdfН
+-weight: 15
+-migration 1
+-function result: 60.066667
+
+743. [Bird]
+-name: afbtlkmfqН
+-weight: 15
+-migration 1
+-function result: 60.066667
+
+744. [Fish]
+-name: qpzomwnlmН
+-weight: 16
+-habitat 1
+-function result: 60.125000
+
+745. [Bird]
+-name: aetauqgndН
+-weight: 15
+-migration 0
+-function result: 60.200000
+
+746. [Beast]
+-name: ixrwlmxwgН
+-weight: 16
+-diet 2
+-function result: 60.375000
+
+747. [Bird]
+-name: ahqatmsckН
+-weight: 15
+-migration 0
+-function result: 60.400000
+
+748. [Bird]
+-name: ovttlnkznН
+-weight: 16
+-migration 0
+-function result: 60.437500
+
+749. [Bird]
+-name: uyjnjuwrsН
+-weight: 16
+-migration 0
+-function result: 60.875000
+
+750. [Bird]
+-name: qzbkatnefН
+-weight: 15
+-migration 0
+-function result: 61.000000
+
+751. [Bird]
+-name: isgglgcoxН
+-weight: 15
+-migration 1
+-function result: 61.066667
+
+752. [Beast]
+-name: rugimnjbjН
+-weight: 15
+-diet 1
+-function result: 61.133333
+
+753. [Bird]
+-name: whxginfgfН
+-weight: 15
+-migration 1
+-function result: 61.133333
+
+754. [Bird]
+-name: hiswkaxiaН
+-weight: 15
+-migration 0
+-function result: 61.200000
+
+755. [Bird]
+-name: wgefhjesvН
+-weight: 15
+-migration 1
+-function result: 61.200000
+
+756. [Fish]
+-name: tjfrqcocqН
+-weight: 15
+-habitat 3
+-function result: 61.466667
+
+757. [Bird]
+-name: hlsicutfmН
+-weight: 15
+-migration 0
+-function result: 61.600000
+
+758. [Bird]
+-name: wvttgecajН
+-weight: 15
+-migration 0
+-function result: 61.600000
+
+759. [Bird]
+-name: cztwzzvewН
+-weight: 16
+-migration 1
+-function result: 61.687500
+
+760. [Bird]
+-name: axglmtbiyН
+-weight: 15
+-migration 1
+-function result: 61.733333
+
+761. [Beast]
+-name: nkntarjkpН
+-weight: 15
+-diet 1
+-function result: 61.866667
+
+762. [Bird]
+-name: ytdbamrykН
+-weight: 15
+-migration 1
+-function result: 62.133333
+
+763. [Bird]
+-name: ehbgkvypxН
+-weight: 15
+-migration 1
+-function result: 62.200000
+
+764. [Bird]
+-name: dzghavviyН
+-weight: 15
+-migration 0
+-function result: 62.466667
+
+765. [Bird]
+-name: opkwkbbwvН
+-weight: 15
+-migration 1
+-function result: 62.533333
+
+766. [Bird]
+-name: mlbzfhxunН
+-weight: 15
+-migration 1
+-function result: 62.600000
+
+767. [Bird]
+-name: rwhpevcoqН
+-weight: 15
+-migration 1
+-function result: 62.666667
+
+768. [Bird]
+-name: kfatcanchН
+-weight: 14
+-migration 1
+-function result: 62.857143
+
+769. [Bird]
+-name: jtsqdjootН
+-weight: 15
+-migration 0
+-function result: 62.866667
+
+770. [Bird]
+-name: rotlqdiuoН
+-weight: 15
+-migration 0
+-function result: 62.933333
+
+771. [Beast]
+-name: onhgustqjН
+-weight: 15
+-diet 0
+-function result: 62.933333
+
+772. [Bird]
+-name: kcmduclaaН
+-weight: 14
+-migration 0
+-function result: 63.000000
+
+773. [Bird]
+-name: tnegyiwxgН
+-weight: 15
+-migration 0
+-function result: 63.133333
+
+774. [Bird]
+-name: cylcqmssyН
+-weight: 15
+-migration 0
+-function result: 63.266667
+
+775. [Bird]
+-name: ovgzdthunН
+-weight: 15
+-migration 0
+-function result: 63.333333
+
+776. [Bird]
+-name: tuvtxfkidН
+-weight: 15
+-migration 1
+-function result: 63.333333
+
+777. [Bird]
+-name: vgylwgbusН
+-weight: 15
+-migration 1
+-function result: 63.400000
+
+778. [Bird]
+-name: ogepspxnvН
+-weight: 15
+-migration 1
+-function result: 63.400000
+
+779. [Bird]
+-name: qyoxytjbbН
+-weight: 15
+-migration 1
+-function result: 63.533333
+
+780. [Bird]
+-name: jwjmwaxxmН
+-weight: 15
+-migration 1
+-function result: 63.600000
+
+781. [Bird]
+-name: utkfiubzyН
+-weight: 15
+-migration 1
+-function result: 63.600000
+
+782. [Bird]
+-name: efqrzxwktН
+-weight: 15
+-migration 1
+-function result: 64.200000
+
+783. [Bird]
+-name: kdwickdilН
+-weight: 14
+-migration 0
+-function result: 64.214286
+
+784. [Bird]
+-name: dbvqidhtbН
+-weight: 14
+-migration 0
+-function result: 64.357143
+
+785. [Bird]
+-name: mwcysyycqН
+-weight: 15
+-migration 1
+-function result: 64.400000
+
+786. [Fish]
+-name: ctlegenllН
+-weight: 14
+-habitat 3
+-function result: 64.500000
+
+787. [Bird]
+-name: rwudxzrfuН
+-weight: 15
+-migration 0
+-function result: 64.933333
+
+788. [Bird]
+-name: jeumcjdqsН
+-weight: 14
+-migration 1
+-function result: 65.357143
+
+789. [Bird]
+-name: yhgagiupjН
+-weight: 14
+-migration 0
+-function result: 65.500000
+
+790. [Bird]
+-name: ywfnhcbkpН
+-weight: 14
+-migration 0
+-function result: 65.785714
+
+791. [Bird]
+-name: gkdqtesojН
+-weight: 14
+-migration 0
+-function result: 65.785714
+
+792. [Bird]
+-name: bmibructtН
+-weight: 14
+-migration 0
+-function result: 65.785714
+
+793. [Bird]
+-name: mqadjepvvН
+-weight: 14
+-migration 0
+-function result: 65.928571
+
+794. [Bird]
+-name: ovenfvociН
+-weight: 14
+-migration 0
+-function result: 66.000000
+
+795. [Bird]
+-name: kehtliauyН
+-weight: 14
+-migration 0
+-function result: 66.071429
+
+796. [Bird]
+-name: vcswjebkrН
+-weight: 14
+-migration 1
+-function result: 66.142857
+
+797. [Bird]
+-name: nuqnbdifzН
+-weight: 14
+-migration 1
+-function result: 66.142857
+
+798. [Bird]
+-name: bghtuoxraН
+-weight: 14
+-migration 1
+-function result: 66.357143
+
+799. [Bird]
+-name: hnwdagnvxН
+-weight: 14
+-migration 0
+-function result: 66.428571
+
+800. [Bird]
+-name: riswtbrecН
+-weight: 14
+-migration 0
+-function result: 66.428571
+
+801. [Bird]
+-name: bxcoksfzkН
+-weight: 14
+-migration 1
+-function result: 66.428571
+
+802. [Bird]
+-name: cgbrrvkupН
+-weight: 14
+-migration 1
+-function result: 66.500000
+
+803. [Fish]
+-name: dggxwwbtjН
+-weight: 14
+-habitat 0
+-function result: 66.642857
+
+804. [Bird]
+-name: yqhquhkjcН
+-weight: 14
+-migration 1
+-function result: 66.642857
+
+805. [Bird]
+-name: plttriabwН
+-weight: 14
+-migration 0
+-function result: 66.714286
+
+806. [Bird]
+-name: sswafkenwН
+-weight: 14
+-migration 0
+-function result: 66.714286
+
+807. [Bird]
+-name: jkolxjoqkН
+-weight: 14
+-migration 1
+-function result: 67.000000
+
+808. [Bird]
+-name: aahmkwywtН
+-weight: 14
+-migration 1
+-function result: 67.000000
+
+809. [Bird]
+-name: gdwubtjvtН
+-weight: 14
+-migration 0
+-function result: 67.285714
+
+810. [Bird]
+-name: iigvijsuxН
+-weight: 14
+-migration 0
+-function result: 67.357143
+
+811. [Bird]
+-name: oqrqetkzfН
+-weight: 14
+-migration 1
+-function result: 67.714286
+
+812. [Bird]
+-name: uzififrtwН
+-weight: 14
+-migration 0
+-function result: 67.928571
+
+813. [Beast]
+-name: wrgrtdxvdН
+-weight: 14
+-diet 2
+-function result: 68.071429
+
+814. [Bird]
+-name: rxsvkhtqdН
+-weight: 14
+-migration 0
+-function result: 68.285714
+
+815. [Bird]
+-name: opprzaxqmН
+-weight: 14
+-migration 0
+-function result: 68.500000
+
+816. [Bird]
+-name: zteuoxgthН
+-weight: 14
+-migration 1
+-function result: 68.500000
+
+817. [Bird]
+-name: tdgffcegtН
+-weight: 13
+-migration 1
+-function result: 68.538462
+
+818. [Bird]
+-name: wyeozluhmН
+-weight: 14
+-migration 0
+-function result: 68.642857
+
+819. [Bird]
+-name: nkyxjsxpfН
+-weight: 14
+-migration 1
+-function result: 68.714286
+
+820. [Bird]
+-name: opiwpuwczН
+-weight: 14
+-migration 1
+-function result: 68.928571
+
+821. [Bird]
+-name: vcfbbjjyfН
+-weight: 13
+-migration 0
+-function result: 69.153846
+
+822. [Bird]
+-name: mwrbvezzvН
+-weight: 14
+-migration 1
+-function result: 69.285714
+
+823. [Bird]
+-name: avhfuahliН
+-weight: 13
+-migration 1
+-function result: 69.307692
+
+824. [Bird]
+-name: brhhfobgyН
+-weight: 13
+-migration 0
+-function result: 69.538462
+
+825. [Fish]
+-name: yvwtgtoqnН
+-weight: 14
+-habitat 0
+-function result: 69.714286
+
+826. [Bird]
+-name: eyfaxegseН
+-weight: 13
+-migration 0
+-function result: 70.000000
+
+827. [Fish]
+-name: aaoxraojoН
+-weight: 13
+-habitat 4
+-function result: 70.230769
+
+828. [Bird]
+-name: mphnqkamhН
+-weight: 13
+-migration 0
+-function result: 70.307692
+
+829. [Fish]
+-name: vjsjbaoioН
+-weight: 13
+-habitat 1
+-function result: 70.461538
+
+830. [Bird]
+-name: pdtlkhpekН
+-weight: 13
+-migration 1
+-function result: 70.461538
+
+831. [Bird]
+-name: fvpekkqmcН
+-weight: 13
+-migration 0
+-function result: 70.538462
+
+832. [Bird]
+-name: bwzfahoevН
+-weight: 13
+-migration 1
+-function result: 70.846154
+
+833. [Bird]
+-name: njhxdkuneН
+-weight: 13
+-migration 1
+-function result: 71.076923
+
+834. [Bird]
+-name: umilocltgН
+-weight: 13
+-migration 0
+-function result: 71.153846
+
+835. [Bird]
+-name: ijvcwnpflН
+-weight: 13
+-migration 1
+-function result: 71.384615
+
+836. [Fish]
+-name: kqtaxjlrbН
+-weight: 13
+-habitat 2
+-function result: 71.384615
+
+837. [Bird]
+-name: drnklsmduН
+-weight: 13
+-migration 0
+-function result: 71.461538
+
+838. [Bird]
+-name: mbvgaowlvН
+-weight: 13
+-migration 1
+-function result: 71.538462
+
+839. [Beast]
+-name: etbqexkrqН
+-weight: 13
+-diet 1
+-function result: 71.692308
+
+840. [Bird]
+-name: wzyiayabjН
+-weight: 13
+-migration 1
+-function result: 71.923077
+
+841. [Bird]
+-name: ewfquuhtaН
+-weight: 13
+-migration 0
+-function result: 71.923077
+
+842. [Bird]
+-name: wscpirzfcН
+-weight: 13
+-migration 1
+-function result: 72.000000
+
+843. [Bird]
+-name: ixbbduzvnН
+-weight: 13
+-migration 0
+-function result: 72.076923
+
+844. [Bird]
+-name: votjvjqcfН
+-weight: 13
+-migration 0
+-function result: 72.153846
+
+845. [Bird]
+-name: yjauteuvcН
+-weight: 13
+-migration 1
+-function result: 72.384615
+
+846. [Beast]
+-name: lkfvtezazН
+-weight: 13
+-diet 0
+-function result: 72.461538
+
+847. [Bird]
+-name: yfmdlqlwqН
+-weight: 13
+-migration 0
+-function result: 72.461538
+
+848. [Bird]
+-name: zdzdbtubxН
+-weight: 13
+-migration 0
+-function result: 72.461538
+
+849. [Bird]
+-name: xiljvwllfН
+-weight: 13
+-migration 1
+-function result: 72.538462
+
+850. [Bird]
+-name: yexdsswbjН
+-weight: 13
+-migration 0
+-function result: 72.615385
+
+851. [Bird]
+-name: wbioewqvqН
+-weight: 13
+-migration 1
+-function result: 72.769231
+
+852. [Bird]
+-name: sqorqmqleН
+-weight: 13
+-migration 0
+-function result: 72.769231
+
+853. [Bird]
+-name: ykrxawzadН
+-weight: 13
+-migration 1
+-function result: 72.769231
+
+854. [Bird]
+-name: dteamdcjbН
+-weight: 12
+-migration 1
+-function result: 72.916667
+
+855. [Fish]
+-name: eirpbtywqН
+-weight: 13
+-habitat 4
+-function result: 72.923077
+
+856. [Bird]
+-name: txgvenkspН
+-weight: 13
+-migration 1
+-function result: 73.153846
+
+857. [Bird]
+-name: nymopfwpnН
+-weight: 13
+-migration 1
+-function result: 73.461538
+
+858. [Bird]
+-name: tvdwvxhrcН
+-weight: 13
+-migration 1
+-function result: 73.615385
+
+859. [Bird]
+-name: qlzmrewqnН
+-weight: 13
+-migration 0
+-function result: 73.692308
+
+860. [Bird]
+-name: gkwxkewpzН
+-weight: 13
+-migration 1
+-function result: 73.769231
+
+861. [Bird]
+-name: rnnzwacxxН
+-weight: 13
+-migration 0
+-function result: 73.846154
+
+862. [Bird]
+-name: uwkmsyqcpН
+-weight: 13
+-migration 0
+-function result: 73.923077
+
+863. [Bird]
+-name: ibvpszznoН
+-weight: 13
+-migration 1
+-function result: 74.000000
+
+864. [Bird]
+-name: uothwmlvrН
+-weight: 13
+-migration 0
+-function result: 74.230769
+
+865. [Bird]
+-name: ljzegblcaН
+-weight: 12
+-migration 1
+-function result: 74.250000
+
+866. [Bird]
+-name: afxwhgbibН
+-weight: 12
+-migration 0
+-function result: 74.583333
+
+867. [Bird]
+-name: xzkutappwН
+-weight: 13
+-migration 0
+-function result: 74.692308
+
+868. [Bird]
+-name: xbzmqrlxvН
+-weight: 13
+-migration 0
+-function result: 74.692308
+
+869. [Bird]
+-name: rydwsovhzН
+-weight: 13
+-migration 1
+-function result: 74.846154
+
+870. [Bird]
+-name: ktlmwxwtnН
+-weight: 13
+-migration 0
+-function result: 74.846154
+
+871. [Bird]
+-name: mtcjghecqН
+-weight: 12
+-migration 0
+-function result: 74.916667
+
+872. [Bird]
+-name: hhbfqmkimН
+-weight: 12
+-migration 0
+-function result: 75.000000
+
+873. [Bird]
+-name: ddyctcockН
+-weight: 12
+-migration 0
+-function result: 75.083333
+
+874. [Fish]
+-name: eelkpkecvН
+-weight: 12
+-habitat 3
+-function result: 75.250000
+
+875. [Bird]
+-name: bjgsdyfoeН
+-weight: 12
+-migration 0
+-function result: 75.500000
+
+876. [Bird]
+-name: jdrltbsciН
+-weight: 12
+-migration 0
+-function result: 75.833333
+
+877. [Bird]
+-name: nbqyxaagiН
+-weight: 12
+-migration 1
+-function result: 76.083333
+
+878. [Beast]
+-name: ofisfrfqgН
+-weight: 12
+-diet 1
+-function result: 76.333333
+
+879. [Bird]
+-name: weghtfiqjН
+-weight: 12
+-migration 0
+-function result: 76.500000
+
+880. [Beast]
+-name: ekixeyrfcН
+-weight: 12
+-diet 1
+-function result: 76.583333
+
+881. [Bird]
+-name: gdndbypqqН
+-weight: 12
+-migration 0
+-function result: 76.583333
+
+882. [Beast]
+-name: nkkcpoenvН
+-weight: 12
+-diet 1
+-function result: 77.000000
+
+883. [Fish]
+-name: fxdyygmdcН
+-weight: 12
+-habitat 1
+-function result: 77.000000
+
+884. [Bird]
+-name: ocmerjmziН
+-weight: 12
+-migration 0
+-function result: 77.083333
+
+885. [Bird]
+-name: jobcfpvnyН
+-weight: 12
+-migration 1
+-function result: 77.166667
+
+886. [Bird]
+-name: borifsuqhН
+-weight: 12
+-migration 0
+-function result: 77.333333
+
+887. [Bird]
+-name: ziojljdpmН
+-weight: 12
+-migration 0
+-function result: 77.333333
+
+888. [Bird]
+-name: rwmxcdbhuН
+-weight: 12
+-migration 0
+-function result: 77.416667
+
+889. [Bird]
+-name: kiidfwfxyН
+-weight: 12
+-migration 0
+-function result: 77.500000
+
+890. [Bird]
+-name: zhlndnvilН
+-weight: 12
+-migration 1
+-function result: 77.833333
+
+891. [Bird]
+-name: flduuveooН
+-weight: 12
+-migration 0
+-function result: 77.833333
+
+892. [Bird]
+-name: bwkfnqduxН
+-weight: 12
+-migration 0
+-function result: 77.916667
+
+893. [Bird]
+-name: lgxhlmsbzН
+-weight: 12
+-migration 1
+-function result: 78.000000
+
+894. [Bird]
+-name: eoqxppbpmН
+-weight: 12
+-migration 1
+-function result: 78.083333
+
+895. [Bird]
+-name: oblsgwnkvН
+-weight: 12
+-migration 1
+-function result: 78.166667
+
+896. [Bird]
+-name: wminhplxgН
+-weight: 12
+-migration 1
+-function result: 78.250000
+
+897. [Bird]
+-name: wtwkkxlcbН
+-weight: 12
+-migration 1
+-function result: 78.500000
+
+898. [Bird]
+-name: bptsaveszН
+-weight: 12
+-migration 0
+-function result: 78.583333
+
+899. [Bird]
+-name: wurzblmldН
+-weight: 12
+-migration 1
+-function result: 78.666667
+
+900. [Beast]
+-name: pyuwkzebcН
+-weight: 12
+-diet 1
+-function result: 78.750000
+
+901. [Beast]
+-name: arguqwsokН
+-weight: 12
+-diet 0
+-function result: 78.750000
+
+902. [Bird]
+-name: twkylnoncН
+-weight: 12
+-migration 1
+-function result: 79.166667
+
+903. [Beast]
+-name: rulvqtammН
+-weight: 12
+-diet 2
+-function result: 79.166667
+
+904. [Bird]
+-name: wsgqsxdjpН
+-weight: 12
+-migration 1
+-function result: 79.333333
+
+905. [Bird]
+-name: msrtfgwtpН
+-weight: 12
+-migration 0
+-function result: 79.583333
+
+906. [Bird]
+-name: ohpkwqyuhН
+-weight: 12
+-migration 1
+-function result: 79.750000
+
+907. [Bird]
+-name: yjwpyatmlН
+-weight: 12
+-migration 0
+-function result: 79.833333
+
+908. [Bird]
+-name: hxmgzvsrmН
+-weight: 12
+-migration 0
+-function result: 80.250000
+
+909. [Bird]
+-name: niyvqvurdН
+-weight: 12
+-migration 0
+-function result: 80.416667
+
+910. [Bird]
+-name: ytnwmqqjvН
+-weight: 12
+-migration 0
+-function result: 81.166667
+
+911. [Bird]
+-name: qqtmiuuyvН
+-weight: 12
+-migration 0
+-function result: 81.500000
+
+912. [Bird]
+-name: yzwnhxyfvН
+-weight: 12
+-migration 0
+-function result: 82.166667
+
+913. [Bird]
+-name: yndgcnfjiН
+-weight: 11
+-migration 1
+-function result: 82.272727
+
+914. [Bird]
+-name: dfpekxgliН
+-weight: 11
+-migration 1
+-function result: 82.454545
+
+915. [Bird]
+-name: yzmmyovrtН
+-weight: 12
+-migration 0
+-function result: 82.500000
+
+916. [Beast]
+-name: chfnctpirН
+-weight: 11
+-diet 1
+-function result: 82.727273
+
+917. [Beast]
+-name: itauzfablН
+-weight: 11
+-diet 1
+-function result: 82.818182
+
+918. [Bird]
+-name: tfglowffcН
+-weight: 11
+-migration 1
+-function result: 82.818182
+
+919. [Bird]
+-name: feurgpbfrН
+-weight: 11
+-migration 0
+-function result: 82.909091
+
+920. [Bird]
+-name: qrwwwpzsqН
+-weight: 12
+-migration 0
+-function result: 82.916667
+
+921. [Bird]
+-name: afazjohqsН
+-weight: 11
+-migration 0
+-function result: 83.272727
+
+922. [Bird]
+-name: kegeqpvlhН
+-weight: 11
+-migration 1
+-function result: 83.272727
+
+923. [Bird]
+-name: gfgratzbsН
+-weight: 11
+-migration 0
+-function result: 83.545455
+
+924. [Bird]
+-name: scsfacxfzН
+-weight: 11
+-migration 1
+-function result: 83.636364
+
+925. [Bird]
+-name: dcakpjvozН
+-weight: 11
+-migration 0
+-function result: 83.727273
+
+926. [Bird]
+-name: jdvzuhnacН
+-weight: 11
+-migration 1
+-function result: 83.818182
+
+927. [Bird]
+-name: jfgvpifyiН
+-weight: 11
+-migration 1
+-function result: 83.909091
+
+928. [Bird]
+-name: unqpkfnnbН
+-weight: 11
+-migration 0
+-function result: 84.363636
+
+929. [Fish]
+-name: sdsmzcnocН
+-weight: 11
+-habitat 0
+-function result: 84.454545
+
+930. [Bird]
+-name: rtkrlkjapН
+-weight: 11
+-migration 0
+-function result: 84.545455
+
+931. [Bird]
+-name: eestgpsmnН
+-weight: 11
+-migration 0
+-function result: 84.636364
+
+932. [Bird]
+-name: txdonpeasН
+-weight: 11
+-migration 1
+-function result: 84.636364
+
+933. [Bird]
+-name: ouahgxjhzН
+-weight: 11
+-migration 1
+-function result: 84.818182
+
+934. [Bird]
+-name: wpjsfybglН
+-weight: 11
+-migration 0
+-function result: 84.818182
+
+935. [Bird]
+-name: ygunpabouН
+-weight: 11
+-migration 1
+-function result: 85.000000
+
+936. [Beast]
+-name: erazsxtkaН
+-weight: 11
+-diet 2
+-function result: 85.272727
+
+937. [Bird]
+-name: ghlvlzgppН
+-weight: 11
+-migration 1
+-function result: 85.363636
+
+938. [Bird]
+-name: epvmljohzН
+-weight: 11
+-migration 1
+-function result: 85.454545
+
+939. [Bird]
+-name: qlsrzihmgН
+-weight: 11
+-migration 1
+-function result: 85.636364
+
+940. [Bird]
+-name: yilthmoevН
+-weight: 11
+-migration 1
+-function result: 85.636364
+
+941. [Bird]
+-name: hhlqqrzudН
+-weight: 11
+-migration 1
+-function result: 85.818182
+
+942. [Fish]
+-name: cztctyphmН
+-weight: 11
+-habitat 2
+-function result: 86.090909
+
+943. [Bird]
+-name: znjrchjwzН
+-weight: 11
+-migration 0
+-function result: 86.454545
+
+944. [Bird]
+-name: drxjstcwrН
+-weight: 11
+-migration 0
+-function result: 86.545455
+
+945. [Bird]
+-name: lryinxfiwН
+-weight: 11
+-migration 1
+-function result: 86.636364
+
+946. [Bird]
+-name: rjprseqwrН
+-weight: 11
+-migration 1
+-function result: 87.000000
+
+947. [Bird]
+-name: gtziufuziН
+-weight: 11
+-migration 0
+-function result: 87.090909
+
+948. [Bird]
+-name: xthtopotmН
+-weight: 11
+-migration 0
+-function result: 87.636364
+
+949. [Beast]
+-name: dlbofbjejН
+-weight: 10
+-diet 2
+-function result: 87.900000
+
+950. [Bird]
+-name: hvxxytgokН
+-weight: 11
+-migration 1
+-function result: 88.090909
+
+951. [Fish]
+-name: ibyxrnxsxН
+-weight: 11
+-habitat 0
+-function result: 88.363636
+
+952. [Bird]
+-name: relehlgecН
+-weight: 10
+-migration 1
+-function result: 88.800000
+
+953. [Bird]
+-name: wjxptxxeuН
+-weight: 11
+-migration 0
+-function result: 89.090909
+
+954. [Bird]
+-name: saehfcilqН
+-weight: 10
+-migration 1
+-function result: 89.300000
+
+955. [Beast]
+-name: aggcxfgrjН
+-weight: 10
+-diet 1
+-function result: 89.600000
+
+956. [Fish]
+-name: hepdbsgtfН
+-weight: 10
+-habitat 3
+-function result: 90.000000
+
+957. [Fish]
+-name: nfpfycgfiН
+-weight: 10
+-habitat 1
+-function result: 90.500000
+
+958. [Bird]
+-name: qhibngjtgН
+-weight: 10
+-migration 1
+-function result: 90.700000
+
+959. [Bird]
+-name: trffaclvgН
+-weight: 10
+-migration 1
+-function result: 90.800000
+
+960. [Bird]
+-name: kbsepjeisН
+-weight: 10
+-migration 1
+-function result: 90.900000
+
+961. [Bird]
+-name: hcgubkureН
+-weight: 10
+-migration 1
+-function result: 90.900000
+
+962. [Bird]
+-name: ghskgexleН
+-weight: 10
+-migration 1
+-function result: 91.100000
+
+963. [Fish]
+-name: fmzkgipdfН
+-weight: 10
+-habitat 2
+-function result: 91.100000
+
+964. [Bird]
+-name: eplkgwfkhН
+-weight: 10
+-migration 1
+-function result: 91.200000
+
+965. [Beast]
+-name: asdxdazcrН
+-weight: 10
+-diet 2
+-function result: 91.300000
+
+966. [Bird]
+-name: ahorktkmgН
+-weight: 10
+-migration 0
+-function result: 91.700000
+
+967. [Bird]
+-name: bzazcpkhkН
+-weight: 10
+-migration 1
+-function result: 91.700000
+
+968. [Bird]
+-name: qmfevsdcoН
+-weight: 10
+-migration 0
+-function result: 91.700000
+
+969. [Bird]
+-name: hlbtmbwnkН
+-weight: 10
+-migration 1
+-function result: 91.800000
+
+970. [Bird]
+-name: bfuoiwubgН
+-weight: 10
+-migration 0
+-function result: 91.900000
+
+971. [Bird]
+-name: lrcezjfxcН
+-weight: 10
+-migration 1
+-function result: 92.000000
+
+972. [Bird]
+-name: icwuohferН
+-weight: 10
+-migration 0
+-function result: 92.100000
+
+973. [Bird]
+-name: ljtkvnbimН
+-weight: 10
+-migration 1
+-function result: 92.600000
+
+974. [Bird]
+-name: zkctkagxkН
+-weight: 10
+-migration 0
+-function result: 92.700000
+
+975. [Bird]
+-name: wwtbkdogkН
+-weight: 10
+-migration 0
+-function result: 92.900000
+
+976. [Bird]
+-name: csiasptskН
+-weight: 10
+-migration 0
+-function result: 93.000000
+
+977. [Bird]
+-name: fikgqtufvН
+-weight: 10
+-migration 0
+-function result: 93.200000
+
+978. [Bird]
+-name: uczfskuidН
+-weight: 10
+-migration 0
+-function result: 93.300000
+
+979. [Bird]
+-name: kjfswcxwcН
+-weight: 10
+-migration 0
+-function result: 93.500000
+
+980. [Bird]
+-name: vyncgfrazН
+-weight: 10
+-migration 1
+-function result: 93.500000
+
+981. [Bird]
+-name: hjugixwtbН
+-weight: 10
+-migration 1
+-function result: 93.700000
+
+982. [Bird]
+-name: svkpamsvbН
+-weight: 10
+-migration 0
+-function result: 93.800000
+
+983. [Fish]
+-name: wlzivliicН
+-weight: 10
+-habitat 1
+-function result: 93.800000
+
+984. [Bird]
+-name: kkouxdcynН
+-weight: 10
+-migration 0
+-function result: 94.100000
+
+985. [Bird]
+-name: ynayyrbaqН
+-weight: 10
+-migration 0
+-function result: 94.100000
+
+986. [Fish]
+-name: jvmwgsffvН
+-weight: 10
+-habitat 2
+-function result: 94.100000
+
+987. [Bird]
+-name: tzgkubmjrН
+-weight: 10
+-migration 0
+-function result: 94.100000
+
+988. [Bird]
+-name: avnvslonoН
+-weight: 10
+-migration 0
+-function result: 94.700000
+
+989. [Bird]
+-name: juvpvaboyН
+-weight: 10
+-migration 0
+-function result: 94.700000
+
+990. [Bird]
+-name: ksrsrtekmН
+-weight: 10
+-migration 0
+-function result: 94.700000
+
+991. [Bird]
+-name: lvlitwubnН
+-weight: 10
+-migration 0
+-function result: 94.800000
+
+992. [Bird]
+-name: goqvufyogН
+-weight: 10
+-migration 1
+-function result: 94.800000
+
+993. [Bird]
+-name: zlhwuskdnН
+-weight: 10
+-migration 0
+-function result: 95.100000
+
+994. [Bird]
+-name: knxteznjsН
+-weight: 10
+-migration 0
+-function result: 95.600000
+
+995. [Bird]
+-name: uugnrotloН
+-weight: 10
+-migration 1
+-function result: 95.600000
+
+996. [Bird]
+-name: iozioiuozН
+-weight: 10
+-migration 1
+-function result: 95.800000
+
+997. [Bird]
+-name: tsgrzuiguН
+-weight: 10
+-migration 0
+-function result: 96.100000
+
+998. [Bird]
+-name: prskwgxulН
+-weight: 10
+-migration 0
+-function result: 96.400000
+
+999. [Fish]
+-name: wptfvovujН
+-weight: 10
+-habitat 1
+-function result: 96.800000
+
+1000. [Bird]
+-name: slxwxllxlН
+-weight: 10
+-migration 0
+-function result: 97.500000
+
