@@ -99,7 +99,7 @@ void outAnimal(struct animal *a, FILE *out) {
                          "-function result: %lf\n\n",
                     a->name,
                     a->weight,
-                    a->someFish.habitat,
+                    (int) a->someFish.habitat,
                     someParameter(a));
             break;
         case BIRD:
@@ -110,7 +110,7 @@ void outAnimal(struct animal *a, FILE *out) {
                          "-function result: %lf\n\n",
                     a->name,
                     a->weight,
-                    a->someBird.is_migration,
+                    (int) a->someBird.is_migration,
                     someParameter(a));
             break;
         case BEAST:
@@ -121,7 +121,7 @@ void outAnimal(struct animal *a, FILE *out) {
                          "-function result: %lf\n\n",
                     a->name,
                     a->weight,
-                    a->someBeast.diet,
+                    (int) a->someBeast.diet,
                     someParameter(a));
             break;
     }

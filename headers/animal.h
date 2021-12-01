@@ -7,7 +7,11 @@
 #include "utils.h"
 
 struct beast {
-    int diet;
+    enum Diet {
+        PREDATOR = 0,
+        HERBIVOROUS = 1,
+        INSECTIVORES = 2
+    } diet;
 };
 
 struct bird {
@@ -15,7 +19,13 @@ struct bird {
 };
 
 struct fish {
-    int habitat;
+    enum Habitat {
+        SEA = 0,
+        LAKE = 1,
+        RIVER = 2,
+        OCEAN = 3,
+        POND = 4
+    } habitat;
 };
 
 struct animal {
