@@ -1,7 +1,7 @@
 #ifndef ANIMALS_CONSTANTS_H
 #define ANIMALS_CONSTANTS_H
 
-#define NAME_SIZE 7
+#define NAME_SIZE 10
 #define MAX_LEN 10000
 
 #endif //ANIMALS_CONSTANTS_H
